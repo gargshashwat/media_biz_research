@@ -65,6 +65,22 @@ made on day one without reading anything, it's in the wrong file. Never rewrite 
 superseding a decision means adding a new entry that references the old one and marking the
 old one superseded.
 
+## Working mode
+
+**A link is a queue entry, not a request to study it.** When a resource is sent with no
+further instruction, add a Queue row and stop. Don't read it, don't summarize it, don't ask
+follow-up questions about it. Study it only when asked to — "study it", "let's do this one",
+or similar. Drive-by capture has to stay cheap.
+
+**Don't add resources unprompted.** The reading list is the user's. Do a sourcing pass only
+on request ("find me sources on X"), and when asked, present candidates with a line on why
+each looks worth reading rather than silently filling the queue.
+
+**Phases fill in parallel.** Study whatever is most useful or available at the time; file the
+findings into whichever phase file they belong to. Phases don't have to be worked in order or
+finished one at a time. Synthesize a phase once its material is dense enough to draw patterns
+from, not on a schedule.
+
 ## Conventions
 
 - **Numbers need sources.** Any specific figure — RPM, conversion rate, subscriber count,
