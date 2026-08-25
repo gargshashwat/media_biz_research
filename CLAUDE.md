@@ -12,7 +12,7 @@ session — they are the accumulated state of the project and are kept short on 
 ├── DECISIONS.md            # Research-derived decisions. Append-only log.
 ├── LEARNINGS.md            # Durable facts and principles worth always keeping in mind.
 ├── resources/
-│   ├── INDEX.md            # Every resource considered or consumed. One row each.
+│   ├── INDEX.md            # Queue / Studied / Skipped. Capture stays frictionless.
 │   └── summaries/          # One file per consumed resource: <slug>.md
 └── research/               # Phase synthesis — the actual analytical output.
     ├── 01-formats.md
@@ -27,11 +27,22 @@ doesn't fit the structure, that's worth a conversation, not a new folder.
 
 ## The four kinds of file, and what belongs in each
 
-**`resources/INDEX.md`** — the master list. Every resource gets a row when it's identified,
-before it's read. Columns: title, author/source, type, link, status, trust, summary link,
-date consumed. Status is `queued` / `consumed` / `skipped`. Trust is `high` / `medium` /
-`low` with a word on why — a lot of creator-economy material is marketing for a course, and
-that has to be visible at a glance.
+**`resources/INDEX.md`** — the master list, split into three tables: **Queue** (captured but
+not yet studied), **Studied**, and **Skipped**. A resource moves between them by cutting the
+row and pasting it — never duplicated across tables.
+
+The queue is a capture inbox and adding to it must stay frictionless: a title and a link are
+a complete queue entry. Never block adding something on filling in the other columns, and
+never ask for them at capture time. Fill them in when the resource is actually picked up.
+
+Queue rows carry a `Phase` (which research phase the resource feeds) and a `Priority`, so
+that starting a phase means reading its queue rather than re-triaging the whole list.
+
+Trust is assessed only after reading, so it appears in the Studied table. Judge it on primary
+data, incentives, and age of the figures, and always note what the source is selling — a lot
+of creator-economy material is marketing for a course, and that has to be visible at a glance.
+
+Skipped rows record *why*, so the same resource isn't re-evaluated from scratch months later.
 
 **`resources/summaries/<slug>.md`** — one per consumed resource. The slug matches the INDEX
 row exactly so the two never drift. This is where detail and specific numbers live. Do not
