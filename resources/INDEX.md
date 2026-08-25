@@ -18,6 +18,7 @@ Sorted roughly by priority within each phase. `Phase` is which research phase it
 
 | Title | Source | Type | Phase | Priority | Added | Why it looks worth reading |
 |-------|--------|------|-------|----------|-------|----------------------------|
+| Molly Shea (Sourcery) on Lenny's Podcast | Lenny's Podcast (Lenny Rachitsky) — _episode link TBD_ | Podcast episode | 2 (also 1, 4) | High | 2026-08-25 | Captured as named. **Two things unverified:** whether this is one episode or two separate resources (see note), and what Sourcery is — resolve when picked up. Lenny's Newsletter itself is separately interesting as a case: one of the largest paid Substacks, extended into a podcast and a course/job-board business. |
 | Morning Brew — how it was built and monetized | _source TBD_ | Topic (needs a specific resource) | 3 (also 1, 2) | High | 2026-08-25 | Raised in the Craig Fuller interview as an $80-100M revenue newsletter built largely on *rewriting* others' reporting rather than original journalism — which directly contradicts his own "firsthand expertise is the moat" argument. Resolving that tension matters for format and niche choice. Also a rare newsletter business with a public exit (Business Insider/Axel Springer) and therefore real numbers. |
 
 ---
