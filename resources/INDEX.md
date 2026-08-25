@@ -27,6 +27,7 @@ Sorted roughly by priority within each phase. `Phase` is which research phase it
 | Title | Source | Type | Trust | Summary | Studied |
 |-------|--------|------|-------|---------|---------|
 | [The Great Media Arbitrage: How Craig Fuller Built FreightWaves](https://www.youtube.com/watch?v=oPPqO8eBq2M) | The Peel (Turner Novak) — guest Craig Fuller | Video interview, 1h57m | medium — founder self-report, unverified, talking his own book (actively acquires magazines); Feb 2024 data | [craig-fuller-freightwaves-media-arbitrage](summaries/craig-fuller-freightwaves-media-arbitrage.md) | 2026-08-25 |
+| [The YouTuber Making $250k with Shorts](https://www.youtube.com/watch?v=M7_vL8p8Kcc) | Creator Spotlight — guest Imran (The Finance Engineer / Rich Nerd) | Video interview, 54m | medium-high — self-reported revenue but given as ranges; host independently verified growth via Social Blade; candid about failure. Very small channel. Mid-2026 data | [imran-finance-engineer-shorts-250k](summaries/imran-finance-engineer-shorts-250k.md) | 2026-08-25 |
 
 **Trust:** `high` / `medium` / `low`, judged on primary data, incentives, and age of the
 figures. Always note what the source is selling, if anything — much of this material is
