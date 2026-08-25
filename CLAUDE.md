@@ -9,7 +9,7 @@ session — they are the accumulated state of the project and are kept short on 
 ```
 .
 ├── PROJECT.md              # Goals, scope, phases. Changes rarely.
-├── DECISIONS.md            # Choices made, with reasoning. Append-only log.
+├── DECISIONS.md            # Research-derived decisions. Append-only log.
 ├── LEARNINGS.md            # Durable facts and principles worth always keeping in mind.
 ├── resources/
 │   ├── INDEX.md            # Every resource considered or consumed. One row each.
@@ -47,9 +47,12 @@ here only if it should shape decisions across the whole project. Every entry lin
 summary or research file that backs it. If an entry is only relevant inside one phase, it
 belongs in that phase's research file instead.
 
-**`DECISIONS.md`** — choices made, dated, with the reasoning and what would change our mind.
-Never rewrite history: superseding a decision means adding a new entry that references the
-old one and marking the old one superseded.
+**`DECISIONS.md`** — decisions that came *out of* the research. Every entry names the finding
+that drove it. Project scope and setup choices do not belong here — those live in PROJECT.md;
+file and workflow conventions live in this file. The test: if the decision could have been
+made on day one without reading anything, it's in the wrong file. Never rewrite history:
+superseding a decision means adding a new entry that references the old one and marking the
+old one superseded.
 
 ## Conventions
 

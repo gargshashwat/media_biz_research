@@ -45,6 +45,19 @@ requires more than that to sustain is out of scope, regardless of how good it lo
 paper. This constraint should be applied as a filter throughout the research, not bolted
 on at the end.
 
+### When to revisit these
+
+These are scope choices, not conclusions. Reopen them if:
+
+- **Research hits diminishing returns.** If the only remaining way to learn is to publish and
+  observe, stop researching and start producing.
+- **A format is disqualified early** by the capacity constraint. Drop it then rather than
+  researching it fully out of completeness.
+- **One niche track clearly dominates** early on. Continuing the other becomes a poor use of
+  limited time.
+- **The time budget changes.** A deliberate move to more or fewer hours per week invalidates
+  a lot of the filtering.
+
 ## Working phases
 
 1. **Format research** — how each medium works as a business.
