@@ -1,5 +1,9 @@
 # He'll Make $1.5M as a Solo Creator This Year
 
+> **Topic:** **B2B SaaS growth, pricing, and go-to-market**, with monetization as the throughline
+> — currently centred on **how AI products are priced**. Audience: operators and executives at
+> technology startups. **Closest of any source so far to the user's own domain edge.**
+
 - **Source:** Creator Spotlight podcast (host: Francis; producer: Tom) — guest **Kyle Poyar**, author of *Growth Unhinged*
 - **Type:** Video interview / podcast (49m)
 - **Link:** https://www.youtube.com/watch?v=Xw5yi8aXLfQ

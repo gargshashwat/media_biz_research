@@ -1,5 +1,9 @@
 # The YouTuber Making $250k with Shorts
 
+> **Topic:** **Personal finance** for Gen Z/millennials — budgeting, savings, investing basics,
+> and "deinfluencing" (debunking bad money advice). A second brand, *Rich Nerd*, runs the same
+> material through a **gaming and anime** lens.
+
 - **Source:** Creator Spotlight podcast (host: Francis; producer: Tom) — guest **Imran**, creator of *The Finance Engineer* and *Rich Nerd*
 - **Type:** Video interview / podcast (54m)
 - **Link:** https://www.youtube.com/watch?v=M7_vL8p8Kcc

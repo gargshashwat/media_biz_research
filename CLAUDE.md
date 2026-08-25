@@ -94,6 +94,11 @@ from, not on a schedule.
   tactic that quietly assumes more.
 - **Dates are absolute.** Write "March 2026", never "last month". Creator-economy data goes
   stale fast, so note how old a figure is.
+- **Lead with the topic.** Every summary opens with a one-line **Topic** stating the subject
+  matter and niche — what the person actually makes content about. Do the same when reporting a
+  resource back in conversation: say what the niche is *first*, so it can be placed mentally
+  before any numbers or lessons land. A case study without its subject matter attached is hard
+  to reason about and easy to misfile.
 - **Keep the distilled files short.** DECISIONS.md and LEARNINGS.md are read every session.
   If either stops being skimmable, prune it — push detail down into research/ or summaries/.
 
@@ -101,6 +106,9 @@ from, not on a schedule.
 
 ```markdown
 # <Title>
+
+> **Topic:** <the subject matter and niche in one line — what this person actually makes
+> content about, or what the resource is about. Always first, before anything else.>
 
 - **Source:** <author / channel / publication>
 - **Type:** <article | video | podcast | book | course | thread | interview>

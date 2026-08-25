@@ -1,5 +1,9 @@
 # The Great Media Arbitrage: How Craig Fuller Built FreightWaves
 
+> **Topic:** **Freight, logistics, and supply chain** (B2B trade media) — plus a second
+> portfolio in **aviation and recreational marine** (Flying, Yachting, Sailing World) built by
+> acquiring legacy enthusiast magazines.
+
 - **Source:** The Peel with Turner Novak (host: Turner Novak, Banana Capital) — guest Craig Fuller, founder/CEO of FreightWaves and CEO of Flying Media Group
 - **Type:** Video interview / podcast (1h 57m)
 - **Link:** https://www.youtube.com/watch?v=oPPqO8eBq2M
