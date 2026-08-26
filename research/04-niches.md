@@ -140,6 +140,25 @@ premised on a deadline that regulators keep moving is a bad bet.
 
 ---
 
+## ⚠️ Shortlist (D3, 2026-08-26)
+
+Narrowed to **three**: Industrial AI post-mortems · Commodity & energy trading technology ·
+AI × shipping/logistics. See [DECISIONS.md D3](../DECISIONS.md). Buy-side AI compute was dropped
+despite the top score — durability 3, and no defensible edge.
+
+**What the three have in common:** all sit in the physical/industrial economy, all are buy-side
+positions in markets where sellers write the content, and all use the user's domain adjacency.
+
+**What separates them:**
+
+| | Audience | Strongest axis | Weakest axis | D2 employer risk |
+|---|---|---|---|---|
+| **Industrial AI post-mortems** | Broadest — ops/plant leadership across industrials | No incumbent at all | ⚠️ Monetization conflict with vendors | Low |
+| **CTRM / ETRM** | Narrowest, most expert — trading desks, utilities, majors | Durability 5; ad spend already proven | Technical; errors visible to experts | Partial |
+| **AI × shipping** | Mid — carriers, brokers, charterers, maritime tech | Edge 5 | Competition 2 — Maritime Analytica et al. | ⚠️ Highest |
+
+---
+
 ## The three that survive
 
 ### 1. Buy-side of AI compute — GPU and inference procurement · **26**

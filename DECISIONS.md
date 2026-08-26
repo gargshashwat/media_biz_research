@@ -84,6 +84,47 @@ asset — clearly distinct from anything the user might build personally.
 
 ---
 
+## D3 — Shortlist to three candidates, all in the physical/industrial economy
+**Date:** 2026-08-26 · **Status:** Active
+
+Narrow the Phase 4 search to three:
+
+1. **Industrial AI post-mortems** — what was deployed, what it cost, what it didn't do *(score 25)*
+2. **Commodity & energy trading technology (CTRM/ETRM)** *(score 24)*
+3. **AI × shipping/logistics** *(score 24)*
+
+Drop the rest, including **buy-side AI compute (26)** — the highest-scoring candidate.
+
+**Driven by:** The [full scored pass](research/04-niches.md) against the six-axis rubric. All three
+survivors sit in the **asset-heavy, physical-economy world where the user has genuine domain
+adjacency** ([L8](LEARNINGS.md), [L14](LEARNINGS.md)), and all three are **buy-side positions in
+markets where sellers write nearly all the content** — the structural gap the research kept
+surfacing.
+
+**Rejected alternative:** Buy-side AI compute, despite topping the table at 26. It has the **worst
+durability score of the top six (3)** — H100 lead times fell from 30-40 weeks to 10-14 in a year, and
+the topic may normalize into ordinary cloud FinOps — and the user's edge there is no better than that
+of thousands of other AI-adjacent writers. **Raw score favoured it; edge and durability did not.**
+Also dropped: grid/data-centre power (edge 2), enterprise software procurement (edge 3), the PE
+roll-up verticals (edge 1-2), RevOps/GTM and marine insurance (both competition 1), and EU
+sustainability compliance (durability 2, regulation being rolled back).
+
+**Would change our mind:** Reader or advertiser conversations showing no willingness to pay or no ad
+budget in all three; or discovering an incumbent in CTRM/shipping bigger than the desk scan found.
+
+**⚠️ Carries [D2](#d2) unevenly.** The employer conflict is **most acute for #3 (AI × shipping)**,
+which is closest to Signal Ocean's own market; **partial for #2 (CTRM/ETRM)**, which overlaps
+commodity flow; and **least for #1 (industrial AI post-mortems)**. If D2 resolves badly, the
+shortlist reorders rather than collapses.
+
+**⚠️ Known unresolved problem with #1:** a publication whose thesis is *"these deployments don't
+work"* cannot comfortably be funded by the vendors selling them. Fuller's alignment argument does not
+apply — he could advertise Garmin because he'd never compete with Garmin. Monetization here likely has
+to come from the buy-side (reader subscriptions, consulting, buyer-commissioned research), which is a
+harder business than the ad model the research otherwise favours.
+
+---
+
 ## Format
 
 ```markdown
