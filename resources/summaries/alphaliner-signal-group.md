@@ -1,5 +1,9 @@
 # Alphaliner — the user's own company newsletter
 
+> ⚠️ **DRAFT — still in the Queue, not Studied.** Public-source research is complete; the business
+> data is not. The user will supply internal data points later, at which point this gets enriched and
+> the INDEX row moves to Studied. **Treat every conclusion here as provisional.**
+
 > **Topic:** **Container / liner shipping market intelligence.** Weekly and monthly publications
 > covering fleet analysis, the orderbook, carrier corporate news, financial results, new services and
 > market statistics. Positioned as *"the global reference in liner shipping."*
