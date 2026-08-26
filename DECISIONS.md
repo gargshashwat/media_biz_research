@@ -163,6 +163,50 @@ a top result.
 
 ---
 
+## D5 — Fun is the differentiator; the operator is the audience
+**Date:** 2026-08-26 · **Status:** Active · **Applies to whichever theme is chosen**
+
+**Write entertainingly, for professionals.** The content will be informative, but the differentiator
+is that it is **fun, easy to digest, and enjoyable to read or watch** — explicitly *not* boring market
+commentary. This holds across both [D4](#d4) themes and is independent of which one wins.
+
+This settles the tension flagged in D4: **register and persona are separable.** The register is
+entertaining; the reader stays an operator with budget and commercial intent, so [D1](#d1) survives
+intact.
+
+**Driven by:**
+- **[Morning Brew](resources/summaries/morning-brew-case-study.md) is the proof point.** Business
+  news "made digestible" through memes, puns and jokey headlines — for *young professionals*. Its
+  professional audience became valuable enough that the **B2B division was expected to overtake the
+  consumer flagship**. The fun register assembled an audience professional advertisers pay for.
+- **[Fuller](resources/summaries/craig-fuller-freightwaves-media-arbitrage.md):** media businesses
+  die from staying neutral and *"frankly, becoming quite boring."* He rebuilt Flying as an object
+  people would leave on a coffee table.
+- **[Imran](resources/summaries/imran-finance-engineer-shorts-250k.md):** "sugar for the pill" —
+  lead with what the platform rewards, deliver the substance underneath.
+- **[Poyar](resources/summaries/kyle-poyar-growth-unhinged-1-5m-solo.md):** infographics are *"the
+  secret behind my growth"* in a B2B SaaS newsletter — craft as the differentiator in a dry field.
+- **Odd Lots** does exactly this: entertaining register, finance-professional audience.
+
+**Rejected alternative:** The standard trade-publication register — sober, comprehensive, dull. It is
+what every incumbent in every niche we scanned already does, and it is why they are beatable.
+
+**⚠️ Three risks to manage, not reasons to reconsider:**
+1. **Drift.** Fun content travels further, so it recruits the general audience over time. **The
+   discipline: does this piece help a reader do their job?** Pieces that don't are audience-building
+   only, and too many of them change who subscribes — and therefore what advertisers will pay.
+2. **Credibility in expert niches.** In commodities especially, readers do this for a living and
+   errors are immediately visible. **Be playful about the framing, rigorous about the facts.**
+   Morning Brew is jokey in voice and accurate in substance.
+3. **⚠️ Cost.** Humour, design and clarity take *longer* than commentary, against a 5-10 hr/week
+   budget ([L15](LEARNINGS.md)). Poyar's graphics and Lenny's ~50 drafts per post are the real price
+   of this positioning. **This raises the production bar rather than lowering it.**
+
+**Would change our mind:** Reader conversations showing the target operators actively distrust an
+entertaining register in this subject matter.
+
+---
+
 ## Format
 
 ```markdown

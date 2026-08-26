@@ -682,5 +682,9 @@ Poyar-shaped**: bigger audience, lower revenue per head, more optionality.
 
 **The shared question underneath both:** *am I building a reference product for a small expensive
 audience, or an audience product for a large cheap one?* Every case in this project sits clearly on
-one side. **These two themes sit on opposite sides, which is exactly why running them as separate
-sessions is the right call.**
+one side.
+
+**⚠️ Resolved by [D5](../DECISIONS.md):** the answer is **a small expensive audience, reached with an
+entertaining register.** Fun is the differentiator; the operator is the reader. Both themes are now
+scored on the same basis, and the remaining question between them is subject matter and edge — not
+audience shape.
