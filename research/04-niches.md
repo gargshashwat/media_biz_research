@@ -74,7 +74,7 @@ access/credibility · `Comp` weakness of competition · `Cap` capacity fit at 5-
 |---|---|---|---|---|---|---|---|---|
 | 1 | **Buy-side of AI compute** — GPU & inference procurement | 5 | 5 | 4 | **5** | 4 | 3 | **26** |
 | 2 | **Industrial AI post-mortems** — what was deployed, what it cost, what it didn't do | 5 | 4 | 4 | 4 | 4 | 4 | **25** |
-| 3 | **Commodity & energy trading technology** (CTRM/ETRM) | 5 | 4 | 4 | 3 | 3 | **5** | **24** |
+| 3 | **Commodity & energy trading** — incl. rare metals & physical supply chains | 5 | **5** | **5** | **2** | 3 | **5** | **25** |
 | 4 | **Grid interconnection & data-centre power** | 5 | 5 | 2 | 4 | 3 | **5** | **24** |
 | 5 | **AI × shipping/logistics** *(revised down)* | 5 | 4 | **5** | 2 | 4 | 4 | **24** |
 | 6 | **Enterprise software procurement** (buy-side) | 5 | 5 | 3 | 3 | 4 | 4 | **24** |
@@ -100,24 +100,57 @@ access/credibility · `Comp` weakness of competition · `Cap` capacity fit at 5-
 
 ## What the new scans found
 
-### Commodity & energy trading technology (CTRM/ETRM) — 24
-**The user asked for this one explicitly, and it scores well.**
+### Commodity & energy trading — 25 *(rescored after broadening)*
 
-- **Intent is extreme.** CTRM/ETRM systems are seven-figure purchases for trading firms, utilities and
-  majors. A bad selection is a multi-year, multi-million-dollar mistake.
-- **Competition is thin but not empty (3).** [CTRM Center](https://www.ctrmcenter.com/) is the
-  incumbent — effectively the publishing arm of **Commodity Technology Advisory**, the analyst firm
-  (Gary Vasey et al.). [Energy Trading Week](https://energytradingweek.com/insider/) runs a paid
-  "Insider" newsletter. **There is no modern, independent newsletter here** — the space is held by an
-  analyst practice and a conference business, both monetizing via advisory and events.
-- **Advertisers already exist and already spend:** ION, and the wider ETRM/CTRM vendor field, sponsor
-  the incumbent.
-- **Durability is the standout (5).** Enterprise trading systems move slowly; the knowledge does not
-  commoditize and free AI content does not erode it.
-- **Edge (4)** is genuine and under-appreciated: Signal covers tanker and dry bulk — *physical
-  commodity flow* — which is the same world as the trading desks that buy CTRM.
-- ⚠️ **Capacity (3)** — the subject is technical and the audience is small and expert. Getting it
-  wrong is immediately visible to readers who do this for a living.
+**Scope changed on 2026-08-26** from CTRM/ETRM software to **commodity and energy trading broadly,
+including rare metals and physical commodity supply-chain analysis.** ⚠️ **This is not a rename — it
+swaps the audience from software buyers to traders and physical-flow analysts, and the competitive
+set changes completely.**
+
+**What the broadening gains:** advertiser depth 4→5 and edge 4→5. Physical commodity flow is
+literally Signal's world (tanker and dry bulk), and the advertiser pool widens from ETRM vendors to
+price reporting agencies, data providers, brokers, exchanges, logistics and marine insurers.
+
+**⚠️ What it loses — and this was the original attraction: competition 3→2.**
+The CTRM/ETRM niche was thin, held by an analyst practice and a conference business. **Broad
+commodity analysis is not thin at all:**
+
+*Critical minerals / rare earths:*
+- **[Benchmark Mineral Intelligence](https://www.benchmarkminerals.com/rare-earths)** — Spectrum
+  Equity bought 20% for **$100M in Nov 2023, valuing it at ~$500M.** A serious, well-capitalized
+  incumbent, not a blog.
+- **[Adamas Intelligence](https://www.adamasintel.com/)** — *"the industry's largest dedicated rare
+  earth research team,"* 13+ years on mine-to-magnet supply chains.
+- **Rare Earth Exchanges (REEx)**, **Global Critical Metals Research Institute**.
+- Plus the established price-reporting layer this scan didn't surface but which certainly exists:
+  Argus, Fastmarkets, S&P Global Platts, CRU, Wood Mackenzie.
+
+*Commodity analysis newsletters — a real, populated field:*
+- **[Commodity Context](https://www.commoditycontext.com/)** (Rory Johnston) — data-centric,
+  visualization-forward oil research. The closest analogue to what we'd build.
+- **[The Commodity Compass](https://www.thecommoditycompass.com/)** (Alexander Stahel)
+- **The Commodity Report** (Lukas Kuemmerle) · **Commodity Conversations** ·
+  **Agriculture Commodity Newsletter** · **LiveSquawk Commodity Corner** · **Commodity Labs**
+
+**Net: total rises to 25, but the character of the bet changes.** It is no longer a
+thin-competition play. It is a high-edge, high-advertiser-depth play **against real incumbents**.
+
+### ⚠️ But there is a specific unoccupied slot inside it
+
+Nothing in either scan covers **what physical vessel movements reveal about commodity supply
+chains.** Commodity Context does oil market research; Benchmark does minerals pricing; the price
+reporting agencies do assessments. **Nobody reads the ships to explain the commodity.**
+
+That is exactly Fuller's FreightWaves insight applied one layer up — he was upstream of the goods
+economy because he watched container bookings before customs data. **Vessel flows are upstream of
+commodity availability in the same way.**
+
+- It is defensible: it needs data and domain access most commodity writers don't have.
+- It uses the edge fully.
+- **⚠️ It also collides with [D2](../DECISIONS.md) hardest of anything on the list** — physical
+  commodity flow intelligence *is* the employer's product.
+- **⚠️ And it converges with candidate #5 (AI × shipping).** These two are no longer clearly separate
+  options; the strongest version of #3 sits between them.
 
 ### Enterprise software procurement, buy-side — 24
 $1.4T global enterprise software spend; **30-40% of enterprise IT spend is SaaS.** Nearly all content

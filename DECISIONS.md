@@ -90,7 +90,8 @@ asset — clearly distinct from anything the user might build personally.
 Narrow the Phase 4 search to three:
 
 1. **Industrial AI post-mortems** — what was deployed, what it cost, what it didn't do *(score 25)*
-2. **Commodity & energy trading technology (CTRM/ETRM)** *(score 24)*
+2. **Commodity & energy trading** — broadened 2026-08-26 to include rare metals and physical
+   commodity supply-chain analysis, not just CTRM/ETRM software *(rescored 25)*
 3. **AI × shipping/logistics** *(score 24)*
 
 Drop the rest, including **buy-side AI compute (26)** — the highest-scoring candidate.
