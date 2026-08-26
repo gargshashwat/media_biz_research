@@ -135,6 +135,40 @@ commodity analysis is not thin at all:**
 **Net: total rises to 25, but the character of the bet changes.** It is no longer a
 thin-competition play. It is a high-edge, high-advertiser-depth play **against real incumbents**.
 
+### ⚠️ Separate the content hook from the advertiser — they are not the same question
+
+**Raised by the user, 2026-08-26, and it corrects a conflation in the scoring above.**
+
+The topic is **interesting commodity, rare-metal and physical supply-chain content** — publishable
+weekly, genuinely readable. The **advertisers** are CTRM/ETRM vendors, price reporting agencies, data
+providers, brokers and marine insurers. *"I can't write about CTRM software all week"* — correct, and
+you don't have to. **You write the hook; they sponsor the audience.**
+
+This is Fuller's model precisely. He never wrote about avionics; he wrote about flying, and Garmin
+advertised. His framing: *"our interests are directly aligned with theirs... I'll never compete with
+Garmin."* And it is Poyar's ad mechanic — **thematic alignment plus an educational offer**, not a
+hard sell. A piece on a lithium supply disruption carries a trading-risk vendor's webinar naturally.
+
+**Consequence for the scoring above:** the **competition 2** score applies to *commodity analysis as
+a topic*. It does **not** transfer to monetization — the incumbent commodity Substacks largely sell to
+investors, not to enterprise software vendors. **Topic competition and advertiser competition are
+different markets.**
+
+### ⚠️ The risk this creates: attracting the wrong reader
+
+Most existing commodity newsletters are **trader/investor-flavoured** — Commodity Context, The
+Commodity Compass, The Commodity Report are all trade-idea shaped. **Writing in that register
+accumulates retail investors, and CTRM vendors do not want retail investors.** They want procurement
+leads, trading operations, risk managers and supply-chain heads.
+
+**The voice therefore has to be operator-flavoured, not trader-flavoured:** not *"here's the trade,"*
+but *"here's what this disruption does to your sourcing, your exposure and your contracts."* Same
+subject matter, different reader — and by [L1](../LEARNINGS.md) roughly a 100x difference in revenue
+per subscriber.
+
+**This is a positioning decision to make on day one, not a drift to correct later.** It determines
+who subscribes, and therefore who will pay to reach them.
+
 ### ⚠️ But there is a specific unoccupied slot inside it
 
 Nothing in either scan covers **what physical vessel movements reveal about commodity supply
