@@ -54,6 +54,36 @@ vertical is chosen, **advertising and adjacent products should lead over paid su
 
 ---
 
+## D2 — Treat the employer overlap as an open, unresolved dependency
+**Date:** 2026-08-26 · **Status:** Active · **Unresolved**
+
+The strongest niche candidates under [D1](#d1) sit close to the user's employer's business — Signal
+Ocean owns Alphaliner and covers liner shipping, and the user works there. **Do not resolve this in
+the research.** Keep developing the strongest options, and carry the conflict as an explicit open
+dependency until the user has had the conversation internally.
+
+**Driven by:** Not a research finding — a risk surfaced *by* the research. Scoring niches on
+[L2](LEARNINGS.md) (commercial intent) and [C6](LEARNINGS.md) (weak competition) pushed the top
+candidates directly into the user's professional domain, because that is exactly where their edge and
+the market gap coincide.
+
+**The specific unresolved questions:** IP and non-compete terms; whether proprietary or
+non-public insight would be used; who owns an audience built while employed; whether the employer sees
+it as competitive, complementary, or a recruiting/brand asset.
+
+**Rejected alternative:** Ruling out employer-adjacent niches pre-emptively. That would discard the
+user's single largest unpriced advantage ([L14](LEARNINGS.md)) on a risk that may well be clearable
+with a conversation.
+
+**Would change our mind:** The user getting sign-off (downgrade to a noted constraint), or being told
+no (hard-rule the domain and re-score without it).
+
+**⚠️ Practical rule until resolved:** anything learned from the day job informs the personal project
+but does not become it. Keep [Alphaliner](resources/summaries/alphaliner-signal-group.md) — a company
+asset — clearly distinct from anything the user might build personally.
+
+---
+
 ## Format
 
 ```markdown
