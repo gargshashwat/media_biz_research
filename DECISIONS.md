@@ -126,6 +126,43 @@ harder business than the ad model the research otherwise favours.
 
 ---
 
+## D4 — Two broad themes to sit with; defer the choice
+**Date:** 2026-08-26 · **Status:** Active · **Supersedes [D3](#d3)**
+
+Carry **two deliberately broad themes** rather than a narrow niche, and **do not choose yet**:
+
+- **Theme 1 — Deep tech and science: advancements and deployments**
+- **Theme 2 — Commodity supply chains, told as infotainment stories rather than news**
+
+Each will be explored in its own dedicated session before a decision.
+
+**Driven by:** The Phase 4 scans repeatedly found that narrowing to a defensible niche produced
+options that were either crowded, employer-conflicted, or too narrow to write weekly for years. This
+also aligns with **[C5](LEARNINGS.md)** and Lenny's position directly: *"If I followed the classic
+advice of picking a narrow niche, I'd have focused on just product management. But I don't care about
+product management that much"* — breadth is what makes a six-year run survivable.
+
+**Rejected alternative:** The D3 shortlist (industrial AI post-mortems / commodity & energy trading /
+AI × shipping). Not discarded on evidence — **deliberately widened**, because all three were narrow
+enough to become a chore, and two carried direct employer conflict.
+
+**⚠️ Known tension with [D1](#d1), recorded rather than resolved:** D1 says target high commercial
+intent, which pushes toward professional audiences and narrow verticals. "Infotainment" pushes toward
+a broad, entertained readership — and [L1](LEARNINGS.md) puts roughly a 100x revenue gap between
+those. **The likely reconciliation is that register and persona are separable:** Odd Lots is
+entertaining and its listeners are finance professionals. Entertaining writing *for operators* keeps
+D1 intact; entertaining writing *for a general audience* does not. **This must be settled before
+launch, not after.**
+
+**Would change our mind:** The deep-dive sessions showing one theme is unwritable at 5-10 hrs/week, or
+that its audience can't be monetized.
+
+**Still open:** [D2](#d2) (employer overlap) applies to Theme 2 and escalated to a *direct* overlap
+when the minor-bulk scan returned AXSMarine — Alphaliner's publisher, now owned by Signal Ocean — as
+a top result.
+
+---
+
 ## Format
 
 ```markdown

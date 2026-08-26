@@ -555,3 +555,132 @@ with a direct employer collision.
 
 **The deciding question is not which topic is better. It is whether the employer conversation can be
 had** — because it determines whether B is available at all, and B is otherwise the stronger business.
+
+---
+
+# The two themes to sit with (D4, 2026-08-26)
+
+Deliberately broad. Each gets its own deep-dive session before a decision.
+**Everything below is a starting brief for those sessions, not a conclusion.**
+
+---
+
+## Theme 1 — Deep tech & science: advancements and deployments
+
+### Candidate topic territory
+Semiconductors and advanced packaging · robotics and physical AI · fusion and advanced nuclear ·
+space and launch economics · synthetic biology and biomanufacturing · advanced materials · energy
+storage and grid hardware · defence tech · mining and processing technology · desalination and water
+· quantum.
+
+**The differentiator is the word "deployments."** Existing coverage is dominated by funding rounds,
+investment theses and research papers. **What almost nobody publishes is what actually got built,
+where, at what cost, at what scale, and whether it worked.**
+
+### ⚠️ Competition — crowded, and overwhelmingly investor-facing
+- **[The Deep Tech Newsletter](https://deeptechnewsletter.com/)** — self-described *"most widely read
+  newsletter in deep tech,"* weekly.
+- **[AlleyCorp Deep Tech](https://acdeeptech.substack.com/)** — VC-published, energy/manufacturing/
+  aerospace/compute/robotics.
+- **[HardTech Deep Dives](https://hardtechdeepdives.substack.com/)** (Paulina Szyzdek) — physical AI,
+  robotics, humanoids; market maps and investment theses.
+- **[The Semiconductor Newsletter](https://thesemiconductornewsletter.substack.com/)**,
+  **Deeptech Decoded**, **Invest Deeptech**, **HardTech Reads**, **Deep into the Forest**.
+
+**Every one of them is oriented to investors** — theses, market maps, funding. The engineering-and-
+deployment register is comparatively empty. The best-in-class proof that a deep technical niche can be
+a real business sits outside this scan: **SemiAnalysis** (Dylan Patel) and **Construction Physics**
+(Brian Potter), both deep, specific, unglamorous, and successful.
+
+### Reader personas to test
+| | Who | Why they'd pay |
+|---|---|---|
+| ★ | **Corporate strategy / BD at an industrial or energy major** | Needs to know what's real before committing capital |
+| | **Deep tech investor** (VC, growth, public markets) | High value, well-served already — ⚠️ the crowded persona |
+| | **Engineer / technical lead** at a hard-tech company | Loyal, shares widely, low willingness to pay directly |
+| | **Policy and procurement** (defence, energy, industrial strategy) | Budget authority, poorly served |
+
+### Advertiser territory
+Test and measurement, EDA and simulation software, specialty materials suppliers, contract
+manufacturers, industrial data providers, law and IP firms, banks and advisors in the space,
+recruitment.
+
+### Where it can take you
+Newsletter → paid research tier → advisory/expert-network work → scout or venture role → fund.
+**Deep tech is investment-adjacent, so the [Stebbings media→capital path](../resources/summaries/harry-stebbings-20vc-business.md)
+is genuinely available here** — more so than in any other option considered.
+
+### For the deep-dive session
+1. Read three editions each of The Deep Tech Newsletter, HardTech Deep Dives and AlleyCorp — is the
+   deployment/engineering register actually empty, or does the search just make it look that way?
+2. Draft 10 real headlines you'd want to write. If eight are funding or thesis pieces, the
+   differentiation isn't there.
+3. Which sub-domain could you reach genuine depth in within ~12 months? ([L9](../LEARNINGS.md))
+
+---
+
+## Theme 2 — Commodity supply chains as infotainment
+
+### Candidate topic territory
+How a specific material reaches a specific product · chokepoints (Panama, Suez, Malacca, Hormuz) ·
+the shadow fleet and sanctions evasion · why one mine moves a global price · stockpiling and strategic
+reserves · smuggling and grey markets · the physical plumbing of trade finance · what a single ship's
+voyage reveals · substitution and material science shocks · who controls processing versus who
+controls the ore.
+
+### ⚠️ Competition — two large incumbents own this register
+- **[Odd Lots](https://www.bloomberg.com/news/newsletters/)** (Joe Weisenthal & Tracy Alloway,
+  Bloomberg) — podcast, newsletter and video, institutionally backed. *"The Hidden Plumbing of
+  Commodity Finance,"* *"How Commodity Supercycles Come to an End."* **This is precisely the
+  register.**
+- **[Doomberg](https://newsletter.doomberg.com/)** — the paid-Substack proof point. Anonymous, energy
+  and commodities, entertaining and serious at once, and reportedly one of the largest paid finance
+  Substacks.
+
+**But this register tolerates many players in a way a reference product does not.** Nobody reads only
+one explainer publication. That is different from CTRM, where one analyst firm can hold the field.
+
+### Reader personas to test
+| | Who | Why they'd pay |
+|---|---|---|
+| ★ | **Procurement / supply-chain lead** exposed to material risk | Professional need dressed in readable form |
+| ★ | **Trader / analyst** at a commodity house, fund or bank | Reads for edge and for pleasure |
+| | **Curious professional** — consultants, engineers, policy, founders | ⚠️ Large, cheap to acquire, low willingness to pay |
+| | **Retail investor** | ⚠️ **The trap.** Easy to attract, worth little to advertisers |
+
+### Advertiser territory
+Price reporting agencies, market data and analytics, supply-chain risk software, trade finance banks,
+marine and cargo insurers, brokers, consultancies, commodity exchanges.
+
+### Where it can take you
+Newsletter → podcast/YouTube (the register travels extremely well to audio and video) → book →
+speaking → a professional tier layered on the free audience. **Morning-Brew-shaped rather than
+Poyar-shaped**: bigger audience, lower revenue per head, more optionality.
+
+### For the deep-dive session
+1. **Settle the register-versus-persona question first.** Odd Lots is entertaining *and* its audience
+   is professional. Can you write entertainingly for operators, or does infotainment inevitably
+   recruit a general audience? This determines whether [D1](../DECISIONS.md) survives.
+2. Read Doomberg's paid model — what exactly do people pay for, given the content is entertaining
+   rather than reference?
+3. Draft 10 story ideas. How many need proprietary data (⚠️ [D2](../DECISIONS.md) risk) versus open
+   sources and reporting?
+
+---
+
+## What the two themes have in common, and how they differ
+
+| | **Deep tech & deployments** | **Commodity supply chains, infotainment** |
+|---|---|---|
+| Register | Technical, specific, reference | Narrative, entertaining, episodic |
+| Audience shape | Small, expert, high value | Larger, mixed, variable value |
+| Competition | Crowded but **investor-skewed** — engineering gap open | Two large incumbents, but a register that supports many |
+| Your edge | Adjacent | Native to commodities; **⚠️ [D2](../DECISIONS.md) applies** |
+| Sustainable to write weekly? | Depends on finding one deep sub-domain | **Yes — story-driven, endlessly renewable** |
+| Natural endpoint | Research tier → advisory → capital | Podcast/YouTube → book → broad sponsorship |
+| Fits [D1](../DECISIONS.md)? | Yes, straightforwardly | **Only if the persona stays professional** |
+
+**The shared question underneath both:** *am I building a reference product for a small expensive
+audience, or an audience product for a large cheap one?* Every case in this project sits clearly on
+one side. **These two themes sit on opposite sides, which is exactly why running them as separate
+sessions is the right call.**
