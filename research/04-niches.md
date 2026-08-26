@@ -73,7 +73,7 @@ access/credibility · `Comp` weakness of competition · `Cap` capacity fit at 5-
 | # | Candidate | Int | Ads | Edge | Comp | Cap | Dur | **Total** |
 |---|---|---|---|---|---|---|---|---|
 | 1 | **Buy-side of AI compute** — GPU & inference procurement | 5 | 5 | 4 | **5** | 4 | 3 | **26** |
-| 2 | **Industrial AI, honestly covered** — what actually failed | 5 | 4 | 4 | 4 | 4 | 4 | **25** |
+| 2 | **Industrial AI post-mortems** — what was deployed, what it cost, what it didn't do | 5 | 4 | 4 | 4 | 4 | 4 | **25** |
 | 3 | **Commodity & energy trading technology** (CTRM/ETRM) | 5 | 4 | 4 | 3 | 3 | **5** | **24** |
 | 4 | **Grid interconnection & data-centre power** | 5 | 5 | 2 | 4 | 3 | **5** | **24** |
 | 5 | **AI × shipping/logistics** *(revised down)* | 5 | 4 | **5** | 2 | 4 | 4 | **24** |
@@ -165,7 +165,10 @@ model-routing vendors, hardware resellers — a category actively spending to re
 **⚠️ Durability is the weak axis (3).** H100 lead times already fell from 30-40 weeks to 10-14 in a
 year. Procurement advice ages fast, and the whole topic could normalize into ordinary cloud FinOps.
 
-### 2. Industrial AI, honestly covered · **25**
+### 2. Industrial AI post-mortems · **25**
+
+*(Named for the editorial angle — honest post-mortems of deployments. ⚠️ Not a claim that the
+niche is currently well covered; the point below is that it is covered almost exclusively by vendors.)*
 
 **The audience:** operations and plant leadership at mid-market manufacturers and asset-heavy
 industrials — people with capex authority and no in-house AI expertise.
