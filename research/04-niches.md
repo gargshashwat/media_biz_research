@@ -474,3 +474,84 @@ the seam.
 ## Next step
 Run the 10-company test on each shortlisted persona, then validate by talking to ~5 of the reader
 persona and ~3 of the advertiser persona ([L16](../LEARNINGS.md) on cold outreach).
+
+---
+
+# The two finalists (user framing, 2026-08-26)
+
+> **A. AI actually in use or being piloted for real-world physical / manufacturing use cases — not software AI**
+> **B. Commodity trading, especially minor bulk flows or rare earth metal supply chains**
+
+Both are sharper than the versions above. **Both competition scans came back worse than expected.**
+
+---
+
+## A — "Physical AI" · ⚠️ competition revised 4 → 2
+
+The narrowing (physical/embodied AI, *not* software AI) is a genuinely good instinct — but it is
+**already a recognized category with established publications:**
+
+- **[Robotics & Embodied AI Newsletter](https://aiweekly.co/newsletters/ai-robotics)** — **9,163
+  subscribers, publishing since 2019.**
+- **[Breaking the Bottleneck](https://breakingthebottleneck.substack.com/)** — weekly manufacturing
+  technology; explicitly covers *"how robots, autonomous vehicles and embodied AI systems move from
+  research labs into the real world."* **This is Option A, already running.**
+- **Six Degrees of Robotics**, **Eximius Echo**, **Intellibytes**, **MacroNotes**, **Import AI**,
+  plus CSET policy briefs.
+
+**⚠️ The China angle is also taken.** Six Degrees of Robotics published *"China Just Made Physical AI
+the Center of Its Economy."* The bridge idea flagged earlier is weaker than it looked.
+
+### But one gap survives
+**Most of these are investor- or enthusiast-flavoured, not operator-flavoured.** StockQuest and
+MacroNotes are explicitly markets/macro; several others are technology-enthusiast. **None found is
+written for the person with a plant, a budget and a decision to make.**
+
+This is the same structural gap as everywhere else in this research: *the register determines the
+reader, and the reader determines the revenue.* **Topic competition 2; operator-facing-persona
+competition possibly still 4.** Unverified — it needs checking against the actual editions, not the
+search results.
+
+---
+
+## B — Minor bulks & rare earth supply chains · competition ~3
+
+**Thinner than Option A**, and the sources found are mostly not media businesses:
+
+- **[The Dry Bulk](https://thedrybulk.com/)** — the one dedicated publication; covers manganese,
+  bauxite, chrome ore alongside the majors.
+- **Braemar** — broker research (monetized by broking).
+- **Torvald Klaveness** — shipowner outlook reports (monetized by shipping).
+- **HandyBulk**, plus **Splash247** covering minor bulk trade shifts editorially.
+
+**Same pattern as the PE roll-up verticals: the space is held by firms giving analysis away to sell
+something else.** That is the "nobody neutral" gap again.
+
+### ⚠️ But the employer overlap is now direct, not adjacent
+**The top search result for minor bulk flow analysis was AXSMarine** — *the publisher of Alphaliner,
+now owned by Signal Ocean.* Their public blog runs exactly this content: *"Another Record Year for Dry
+Bulk Flows in 2025,"* *"Key Dry Bulk Data Trends."*
+
+**This escalates [D2](../DECISIONS.md) from an open risk to a direct overlap.** Writing about minor
+bulk flows means publishing against the employer's own content marketing, using domain knowledge
+acquired there. **This is no longer something to address later — it is a precondition for Option B.**
+
+---
+
+## Honest comparison
+
+| | **A — Physical AI** | **B — Minor bulks / rare earths** |
+|---|---|---|
+| Topic competition | **2** — established incumbents, one at 9k subs since 2019 | **3** — thin, and mostly non-media firms |
+| Persona gap | Possibly open — incumbents skew investor/enthusiast | Open — incumbents are brokers and owners |
+| Your edge | 3 — adjacent, not native | **5** — native |
+| Advertiser depth | 4 | **5** |
+| Durability | 3 — fast-moving, heavily written about | **5** — slow, data-gated |
+| ⚠️ Employer conflict | Low | **Direct** |
+| Capacity fit | 4 | 3 — needs data access |
+
+**Neither is an open field.** A is a crowded topic with a possibly-open persona; B is a thin topic
+with a direct employer collision.
+
+**The deciding question is not which topic is better. It is whether the employer conversation can be
+had** — because it determines whether B is available at all, and B is otherwise the stronger business.
