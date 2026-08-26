@@ -62,18 +62,81 @@ DealSeam and Home Service Hound (home services).
 
 ---
 
-## Scored candidates
+## Scored candidates — full list
 
-| Candidate | Intent | Ads | Edge | Weak comp | Capacity | Durability | **Total** |
-|---|---|---|---|---|---|---|---|
-| **Buy-side of AI compute** (GPU/inference procurement) | 5 | 5 | 4 | **5** | 4 | 3 | **26** |
-| **Industrial AI, honestly covered** | 5 | 4 | 4 | 4 | 4 | 4 | **25** |
-| **Grid interconnection & data-centre power** | 5 | 5 | 2 | 4 | 3 | **5** | **24** |
-| AI × shipping/logistics *(revised down)* | 5 | 4 | **5** | 2 | 4 | 4 | 24 |
-| MSP / IT services ownership | 5 | 5 | 2 | 3 | 3 | 4 | 22 |
-| HVAC & home services ownership | 5 | 5 | 1 | 3 | 3 | 4 | 21 |
-| Veterinary practice ownership | 5 | 4 | 1 | 3 | 3 | 4 | 20 |
-| ~~Marine insurance / ship finance~~ | 5 | 4 | 4 | **1** | 3 | 4 | — |
+**Scored 1-5 on each axis.** `Int` commercial intent · `Ads` advertiser depth · `Edge` the user's
+access/credibility · `Comp` weakness of competition · `Cap` capacity fit at 5-10 hrs/wk ·
+`Dur` durability of the value.
+
+### Tier 1 — competition actually scanned
+
+| # | Candidate | Int | Ads | Edge | Comp | Cap | Dur | **Total** |
+|---|---|---|---|---|---|---|---|---|
+| 1 | **Buy-side of AI compute** — GPU & inference procurement | 5 | 5 | 4 | **5** | 4 | 3 | **26** |
+| 2 | **Industrial AI, honestly covered** — what actually failed | 5 | 4 | 4 | 4 | 4 | 4 | **25** |
+| 3 | **Commodity & energy trading technology** (CTRM/ETRM) | 5 | 4 | 4 | 3 | 3 | **5** | **24** |
+| 4 | **Grid interconnection & data-centre power** | 5 | 5 | 2 | 4 | 3 | **5** | **24** |
+| 5 | **AI × shipping/logistics** *(revised down)* | 5 | 4 | **5** | 2 | 4 | 4 | **24** |
+| 6 | **Enterprise software procurement** (buy-side) | 5 | 5 | 3 | 3 | 4 | 4 | **24** |
+| 7 | MSP / IT services ownership & exit | 5 | 5 | 2 | 3 | 3 | 4 | 22 |
+| 8 | HVAC & home services ownership & exit | 5 | 5 | 1 | 3 | 3 | 4 | 21 |
+| 9 | Marine insurance & ship finance | 5 | 4 | 4 | **1** | 3 | 4 | 21 |
+| 10 | Veterinary practice ownership & exit | 5 | 4 | 1 | 3 | 3 | 4 | 20 |
+| 11 | RevOps / GTM engineering | 4 | 5 | 4 | **1** | 4 | 2 | 20 |
+| 12 | EU sustainability compliance (CSRD/CSDDD) | 5 | 4 | 2 | 3 | 3 | **2** | 19 |
+
+### Tier 2 — plausible, but **not competition-scanned**. Scores are estimates only.
+
+| # | Candidate | Int | Ads | Edge | Comp | Cap | Dur | **Est.** |
+|---|---|---|---|---|---|---|---|---|
+| 13 | Maritime decarbonisation & compliance (EU ETS, CII, FuelEU) | 5 | 4 | 4 | 4 | 3 | 5 | ~25 |
+| 14 | Freight & logistics procurement (buy-side, shipper's view) | 5 | 4 | 4 | 4 | 4 | 4 | ~25 |
+| 15 | Data-centre construction supply chain (transformers, switchgear, cooling) | 5 | 5 | 1 | 4 | 3 | 4 | ~22 |
+| 16 | Hospital & health-system supply chain | 5 | 5 | 1 | 4 | 2 | 4 | ~21 |
+| 17 | Ag equipment dealers & precision agriculture | 4 | 4 | 1 | 4 | 3 | 4 | ~20 |
+| 18 | "Boring cash-flow" CRE (self-storage, car washes, RV parks) | 5 | 4 | 1 | 2 | 3 | 4 | ~19 |
+
+---
+
+## What the new scans found
+
+### Commodity & energy trading technology (CTRM/ETRM) — 24
+**The user asked for this one explicitly, and it scores well.**
+
+- **Intent is extreme.** CTRM/ETRM systems are seven-figure purchases for trading firms, utilities and
+  majors. A bad selection is a multi-year, multi-million-dollar mistake.
+- **Competition is thin but not empty (3).** [CTRM Center](https://www.ctrmcenter.com/) is the
+  incumbent — effectively the publishing arm of **Commodity Technology Advisory**, the analyst firm
+  (Gary Vasey et al.). [Energy Trading Week](https://energytradingweek.com/insider/) runs a paid
+  "Insider" newsletter. **There is no modern, independent newsletter here** — the space is held by an
+  analyst practice and a conference business, both monetizing via advisory and events.
+- **Advertisers already exist and already spend:** ION, and the wider ETRM/CTRM vendor field, sponsor
+  the incumbent.
+- **Durability is the standout (5).** Enterprise trading systems move slowly; the knowledge does not
+  commoditize and free AI content does not erode it.
+- **Edge (4)** is genuine and under-appreciated: Signal covers tanker and dry bulk — *physical
+  commodity flow* — which is the same world as the trading desks that buy CTRM.
+- ⚠️ **Capacity (3)** — the subject is technical and the audience is small and expert. Getting it
+  wrong is immediately visible to readers who do this for a living.
+
+### Enterprise software procurement, buy-side — 24
+$1.4T global enterprise software spend; **30-40% of enterprise IT spend is SaaS.** Nearly all content
+is produced by procurement-software vendors — Tropic, Josys, NPI, Vertice, Varisource — with
+[ERP Today](https://erp.today/) the one established independent voice. **Same structural gap as AI
+compute: sellers write everything.** Scores slightly lower than #1 only on edge.
+
+### ⚠️ RevOps / GTM engineering — eliminated on competition
+Heavily occupied by established Substacks with real audiences: **Jeff Ignacio's RevOps Impact**,
+**Alex Lindahl's GTM Engineering Newsletter** (an early GTM engineer at Clay), **Stuart Balcombe's
+ConnectedGTM**, Revenue Wizards, The GTM Index. This was the obvious read of the user's background
+and it is the most crowded option on the list. **Competition 1.**
+
+### ⚠️ EU sustainability compliance — the forcing function is weakening
+The thesis was that regulation creates forced, recurring budget. **The evidence now points the other
+way:** the Omnibus I package has [rolled back CSRD and CSDDD obligations](https://www.wsgr.com/en/insights/eu-rolls-back-csrd-reporting-and-corporate-sustainability-due-diligence-obligations.html),
+and coverage is dominated by law firms (Ropes & Gray, White & Case, Wilson Sonsini) and consultancies
+(ERM, ISS) giving analysis away to source billable work. **Durability drops to 2.** A publication
+premised on a deadline that regulators keep moving is a bad bet.
 
 ---
 
