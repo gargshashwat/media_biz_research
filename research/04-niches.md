@@ -314,3 +314,123 @@ use-what-you-know route.
 Not more desk research. **The cheapest decisive test is talking to ~5 potential readers and ~3
 potential advertisers in the top one or two candidates** — which is also how Lenny, Poyar and Fuller
 each found their angle. See [LEARNINGS.md L16](../LEARNINGS.md) on cold outreach.
+
+---
+
+# Personas — reader and advertiser
+
+Added 2026-08-26. **The core principle:** in this model the reader *is* the product. An advertiser
+buys access to a named job title, not to a subject. So the persona choice determines revenue per
+subscriber more than the topic does ([L1](../LEARNINGS.md), [L4](../LEARNINGS.md)).
+
+**The test for any persona pair:** can you name **10 real companies** that would pay to reach this
+exact person? If not, the persona is wrong — or it's a reader who will never be monetizable.
+
+**⚠️ Pick one primary persona.** Stebbings' *"narrow until it hurts"* ([C5](../LEARNINGS.md)) applies
+hardest here. Secondary personas can be tolerated; a publication written for three is written for
+none.
+
+---
+
+## Option 1 — Industrial AI post-mortems
+
+### Reader personas
+| | Who | What they're trying to do | Why they'd subscribe |
+|---|---|---|---|
+| **★ Primary** | **Digital transformation / Industry 4.0 lead** at a mid-market manufacturer ($50M-$1B) | Own the AI programme and prove it worked | **Career exposure.** They championed it; four in five programmes aren't delivering. They need benchmarks and cover |
+| Secondary | **VP Operations / Plant Manager** | Keep the line running; approve or block capex | Wants to know what's real before signing |
+| Secondary | **Maintenance & reliability manager** | The person whose downtime numbers didn't move | Most acute pain, least budget authority |
+| Tertiary | **CFO / Controller** at an industrial | Sign off capex, demand ROI evidence | Reads occasionally, forwards often |
+
+### Advertiser personas
+Industrial software (MES, historian, CMMS, APM), systems integrators and consultancies, sensor and
+edge hardware, industrial AI platforms.
+**Buyer inside those firms:** VP Marketing / Demand Gen, who is measured on qualified pipeline into
+exactly the primary reader.
+
+**⚠️ The structural conflict, restated.** The editorial thesis is *"most of these deployments don't
+deliver."* The advertisers are the vendors selling them. **Unlike Fuller-and-Garmin, this is not
+aligned — it is adverse.** Realistic monetization is buy-side: reader subscriptions, consulting, or
+buyer-commissioned vendor-neutral research.
+
+---
+
+## Option 2 — Commodity & energy trading, rare metals, physical supply chains
+
+**⚠️ This option contains two different publications. Choosing between them is the real decision.**
+
+### Path A — the trading desk
+| | Who | Why they'd subscribe |
+|---|---|---|
+| **★ Primary** | **Physical trader / trading operations** at a commodity house (Trafigura, Glencore, Vitol, Cargill) or a major's trading arm | Edge on physical availability and flow before it's priced in |
+| Secondary | **Risk manager** at the same firms | Exposure, counterparty, logistics risk |
+| Secondary | **Chartering / freight desk** | Where commodity meets shipping — the crossover reader |
+
+**Advertisers:** CTRM/ETRM vendors (ION and the wider field), price reporting agencies (Argus,
+Fastmarkets, Platts — who advertise to acquire subscribers), brokers, trade-finance banks, marine
+insurers.
+**Audience:** small, expert, extremely high value per head. Errors are immediately visible.
+
+### Path B — the industrial buyer
+| | Who | Why they'd subscribe |
+|---|---|---|
+| **★ Primary** | **Procurement / strategic sourcing lead** at an industrial buyer exposed to critical minerals — battery, automotive, chemicals, defence, electronics | Their supply is at geopolitical risk and they must explain it upward |
+| Secondary | **Supply chain risk manager** | Mapping and mitigating exposure |
+| Secondary | **Corporate strategy / market intelligence** | Building the internal view |
+
+**Advertisers:** supply-chain risk software, market data and analytics providers, consultancies,
+trade-finance and insurance, ESG/traceability vendors.
+**Audience:** larger than Path A, still high commercial intent, less expert-brutal.
+
+### ⚠️ The persona trap in this option
+Existing commodity newsletters (Commodity Context, The Commodity Compass, The Commodity Report) are
+**trader/investor-flavoured**, and that register attracts **retail investors** — a reader
+**CTRM vendors and data providers will not pay to reach.**
+
+> **Write for the operator, not the punter.** Not *"here's the trade,"* but *"here's what this does
+> to your sourcing, your exposure and your contracts."*
+
+**Path B is the safer persona** — it is definitionally operator-flavoured, harder to drift into
+investor content, and the audience is larger. **Path A has higher value per reader and a proven
+advertiser base.**
+
+---
+
+## Option 3 — AI × shipping/logistics
+
+### Reader personas
+| | Who | What they're trying to do | Why they'd subscribe |
+|---|---|---|---|
+| **★ Primary** | **Digitalisation / innovation lead** at a carrier, shipowner or terminal operator | Choose and land technology that actually works | Owns the budget and the blame. Exactly who maritime SaaS wants |
+| Secondary | **Chartering / operations manager** | Run the fleet commercially | Practical, sceptical, high-volume reader |
+| Secondary | **Founder / product lead at a maritime tech startup** | Understand the buyer | Engaged, evangelical — but *is* the advertiser, not the audience |
+| Tertiary | **CTO / Head of IT** at a shipping company | Integration and data reality | Small population, high authority |
+
+### Advertiser personas
+Maritime SaaS (voyage management, emissions, port optimisation), class societies (DNV, Lloyd's
+Register, ABS), marine insurers and P&I clubs, satellite/AIS data providers, port and terminal tech.
+
+**⚠️ Two flags.** The maritime-startup reader is a *seller*, and a publication that fills with vendors
+rather than buyers loses its ad value. And this advertiser set overlaps the employer's competitive
+landscape most directly ([D2](../DECISIONS.md)).
+
+---
+
+## Cross-cutting observations
+
+**1. The strongest persona across all three is the same shape:** *someone with budget authority,
+career exposure to getting it wrong, and no neutral source of information.* That combination — not
+seniority, not audience size — is what makes a reader worth paying to reach.
+
+**2. Every option has a "seller" reader who must not become the core audience.** Industrial AI has
+vendors; commodity has retail investors; shipping has maritime startups. Each is enthusiastic,
+easy to attract, and worth little to advertisers. **Attracting the wrong reader is the main failure
+mode**, and it happens by drifting into the register that reader enjoys.
+
+**3. Path B of Option 2 and the primary persona of Option 3 are close cousins** — both are
+operators managing physical-flow risk with budget. If the shortlist ever needs collapsing, that is
+the seam.
+
+## Next step
+Run the 10-company test on each shortlisted persona, then validate by talking to ~5 of the reader
+persona and ~3 of the advertiser persona ([L16](../LEARNINGS.md) on cold outreach).
