@@ -9,7 +9,7 @@ belong in the relevant `research/` file. Keep this skimmable; prune when it isn'
 **Confidence** reflects both the strength of the evidence and how many *independent* sources
 support it. A single source, however credible, is rarely `high`.
 
-_Status: 11 resources studied. Nothing here is final — several entries have real counter-evidence,
+_Status: 15 resources studied. Nothing here is final — several entries have real counter-evidence,
 which is noted rather than smoothed over._
 
 ---
@@ -82,6 +82,9 @@ The clearest statement, from Ben Gilbert on Acquired:
 Their rule of thumb: **~50% direct monetization, ~50% advertising.** Corroborated everywhere —
 Poyar's ads run **5-6x** his subscriptions; Imran is **70% brand deals**; The Hustle and Morning Brew
 are ~all advertising, and Austin Rief rejected subscriptions as a goal outright.
+
+**⚠️ The strongest single confirmation:** Lenny Rachitsky is *the* paid-newsletter success story —
+~18,000 paid subscribers, ~$2M/year — and **his ad-supported podcast outearns it.**
 
 **⚠️ The one dissenting source is beehiiv, which sells subscription software** — and its claim that
 subscriptions are ~85% of creator revenue is almost certainly a measurement artifact, since beehiiv
@@ -184,10 +187,16 @@ an evergreen archive into sellable inventory.
 Both worked. **The distinction is L8** — distribution businesses need volume, knowledge businesses
 need depth. Pick the model first, then the cadence.
 
+**⚠️ The sharpest operating principle in the research resolves the cadence-vs-depth tension:**
+**Lenny's two biggest research projects drove 50% of his entire first-year subscriber growth** — one
+added ~2,000 subscribers when he had only 2,800. His motto: **"Keep writing great stuff every week,
+and work on something epic in the background."** Weekly cadence is maintenance; the occasional deep
+artifact is what compounds. **They are different jobs, not competing strategies.**
+
 **Source:** [Poyar](resources/summaries/kyle-poyar-growth-unhinged-1-5m-solo.md) ·
-[Lenny](resources/summaries/lenny-rachitsky-behind-the-scenes-interview.md) ·
+[Lenny (mechanics)](resources/summaries/lenny-rachitsky-business-mechanics.md) ·
 [beehiiv](resources/summaries/beehiiv-state-of-paid-newsletters-2026.md) ·
-[Senra](resources/summaries/david-senra-founders-acquired.md) · **Confidence: medium-high**
+[Senra](resources/summaries/david-senra-founders-acquired.md) · **Confidence: high**
 
 ---
 
@@ -257,6 +266,33 @@ overhead-to-craft ratio. Podcasts look worst on this measure.**
 
 ---
 
+### L16 — Cold outreach is how people without networks acquire access
+Four independent cases. **Stebbings** found Guy Kawasaki's email in his website's source code and sent
+four lines citing a specific page of his book; he emailed **Marc Benioff 53 times** with a different
+esoteric PS each time. **Sam Parr** cold-called and cold-emailed founders repeatedly to get free
+conference speakers, and cold-DM'd Steph Smith off a blog post. **Dwarkesh** cold-emails scholars —
+and regrets the ones he didn't reach before they died. **Molly O'Shea:** *"cold outreaching to people
+you admire can truly benefit you more than anything else."*
+
+The repeating structure: **short, demonstrated proof of work, one clear ask, and persistence past the
+point most people stop.**
+
+**Source:** [Stebbings](resources/summaries/harry-stebbings-20vc-business.md) ·
+[The Hustle](resources/summaries/sam-parr-hustle-growth-in-reverse.md) ·
+[Dwarkesh](resources/summaries/dwarkesh-patel-progress-update.md) ·
+[Sourcery](resources/summaries/molly-oshea-sourcery.md) · **Confidence: high**
+
+### L17 — For professional audiences, add a tier for people whose employer pays
+Lenny runs an **"I Can Expense It" tier at $300** alongside his $150/yr standard. Molly O'Shea kept an
+**"expense it" tier** for fund managers even while cutting her headline price 70%. Same product,
+different willingness to pay, no extra production cost. **Two sources, both in high-commercial-intent
+niches.**
+
+**Source:** [Lenny (mechanics)](resources/summaries/lenny-rachitsky-business-mechanics.md) ·
+[Sourcery](resources/summaries/molly-oshea-sourcery.md) · **Confidence: medium**
+
+---
+
 ## Open contradictions — do not treat as settled
 
 ### C1 — When to start charging: four sources, four incompatible answers
@@ -276,8 +312,42 @@ profitable than the source. But he also argues firsthand expertise is the durabl
 Brew's editorial cost structure remains unstudied — **this is the crux of whether "summarize others"
 is a real model or just a cheap start.**
 
-### C4 — Nobody in this research built at 5-10 hrs/week
-Poyar is the closest and the most encouraging: **4.5 years alongside a demanding full-time job, with
-monetization contractually forbidden the entire time.** Everyone else was full-time (Imran 20-50
-hrs/week, Rowan 80). **The honest reading is that the constraint is survivable but sets the timeline
-in years, and makes L10 (depth) and L15 (overhead ratio) the decisive design questions.**
+### C4 — ⚠️ PARTLY RESOLVED: it can be done alongside a job, and the timeline is years
+Two cases now built real media assets while employed full-time, and they agree closely:
+- **Kyle Poyar:** 4.5 years alongside a demanding VC job, monetization contractually forbidden
+  throughout. Went solo and was at a $1.5M run-rate within ~10 months.
+- **Molly O'Shea (Sourcery):** ~6,000 subscribers over ~4 years at **4:30am around a full-time
+  investing job**, then 2x subscribers and 4.5M impressions in year five.
+
+**O'Shea is the more instructive case because she reached the go-full-time decision and declined**,
+naming her reasons: *"I am not rich & need real income," "my personal risk tolerance isn't there yet,"
+and "I just love investing too much."* She also states the core difficulty plainly — *"as one person,
+to constantly pump out thoughtful, well-researched pieces... with a full time investing job, it's
+just overall very difficult to manage."*
+
+**Reading: the constraint is survivable, the timeline is ~4 years to a small but valuable audience,
+and staying part-time is a legitimate end state rather than a failure to commit.** Everyone else
+studied was full-time (Imran 20-50 hrs/week, Rowan 80).
+
+### C5 — ⚠️ NEW: narrow hard, or stay broad? Two major cases say opposite things
+**Harry Stebbings:** *"Biggest mistake: trying to be too much to too many people."* For **two years he
+interviewed only seed investors in San Francisco.** His instruction is **"narrow until it hurts"** —
+narrow focus gives a clear guest profile, an obvious sponsorship model, and a thousand true fans.
+
+**Lenny Rachitsky:** *"If I followed the classic advice of picking a narrow niche, I'd have focused on
+just product management. **But I don't care about product management that much.**"* He credits staying
+broad with still publishing six years later.
+
+**A possible reconciliation, flagged as inference rather than finding:** *narrow to start, broaden to
+sustain.* Stebbings narrowed for two years then widened; Lenny began with Airbnb-specific growth and
+marketplace research before widening. **Narrow buys traction and a sellable proposition when you have
+no leverage; breadth buys the will to keep going.** Note this sits directly on top of
+[D1](DECISIONS.md) — which survives either way, because commercial intent is a different axis from
+topical breadth.
+
+### C6 — ⚠️ NEW: is "weak competition" a better filter than market size?
+Three sources now argue the absence of good incumbents *is* the opportunity: Stebbings' European
+arbitrage (*"can't name five good Series A funds"*), Rowan Cheung's *"verticalized content is blue
+ocean — nobody's doing AI-for-law content,"* and Fuller being told by every VC that freight was
+"a boring niche." **More actionable than market size, but untested — and all three are describing
+markets they entered years ago.**
