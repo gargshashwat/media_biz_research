@@ -969,3 +969,373 @@ seller persona is large enough and reachable enough to be the growth engine; and
 documents really do contain enough deployment detail to sustain a weekly piece. **The first and third
 are testable cheaply — the third by simply trying to source four consecutive weeks from public
 documents alone.**
+
+---
+
+# Theme 2 deep dive — Commodity supply chains as infotainment
+**Session:** 2026-08-27 · **Status:** exploration, no decision taken
+
+The counterpart session to the Theme 1 deep dive above, worked against the same filters:
+[D1](../DECISIONS.md) (commercial intent), [D5](../DECISIONS.md) (fun register, operator reader),
+and 5-10 hrs/week. **⚠️ Same discipline as Theme 1: nothing here comes from new reading.** The
+competitor reads in the starting brief — Odd Lots' actual editions, Doomberg's paid tier — have still
+not been done, so every claim about incumbents is a desk-scan impression, and the named publications
+below are recalled rather than verified.
+
+---
+
+## 1. The reframe: the unit of content is a journey, not a price
+
+The starting brief said "commodity supply chains, told as stories rather than news." Pushed harder,
+the differentiator isn't tone — **it's the unit of content.**
+
+| Framing | Unit | Reader | Competition | Our edge |
+|---|---|---|---|---|
+| "Commodities & macro, entertainingly" | A market view, a price call | Trader, finance-curious | ⚠️ Odd Lots and Doomberg own this | 2 — no edge in macro |
+| **"How a physical thing actually gets from the ground to the thing you're holding"** | **A traced route, with a cast** | **The person who has to buy or move it** | Close to empty in this register | **4 — native** |
+
+Odd Lots' unit is an interview about a macro question. Doomberg's unit is a contrarian energy
+argument. Both are *market* products wearing an entertaining register. **Neither traces the physical
+leg as the story itself** — the pit, the truck, the smelter, the port, the bonded warehouse, the
+inspection certificate, the invoice.
+
+That is the reframe, and it does the same job §1 did for Theme 1: it changes who the publication is
+*for* without narrowing what it can cover. Every material, every route, every disruption stays in
+scope. What narrows is the persona — **the buyer and the mover, not the speculator.**
+
+Three consequences worth stating:
+
+- **It moves off the employer's turf without giving up the edge.** See §7. The user's edge is
+  literacy in how physical trade actually works. Applied to *vessels, rates and chartering* that
+  edge collides directly with Signal Ocean/Alphaliner ([D2](../DECISIONS.md)). Applied to
+  *materials, processing and the industrial buyer* it does not — same knowledge, different reader,
+  different advertiser, non-competing product.
+- **It makes the content answerable to [D5](../DECISIONS.md)'s discipline test.** "Does this help a
+  reader do their job?" A trace that ends at *who actually controls this input and what happens to
+  you if they stop* is a procurement answer. A trace that ends at *isn't that fascinating* is
+  audience-building only. **The difference is the last two paragraphs of every piece**, and it is the
+  whole ballgame for this theme (§8).
+- **It is renewable in a way Theme 1 is not.** There are effectively unlimited objects and routes,
+  and the format doesn't age. This is the property [D4](../DECISIONS.md) actually wanted from this
+  theme and it survives the reframe intact.
+
+**⚠️ Recorded as a proposal, not a decision.**
+
+---
+
+## 2. The audience, in more depth
+
+Scored on what predicts revenue ([L1](../LEARNINGS.md), [L2](../LEARNINGS.md)) rather than size.
+
+### ★ A — The supply chain / procurement operator
+Category managers, direct-materials buyers, supply chain risk leads, sourcing directors — at
+manufacturers, autos, electronics, chemicals, defence primes, energy, medical devices, food.
+
+- **Commercial intent: very high.** A single-source input they didn't know was single-source is a
+  line-stop. Tariffs and export controls have made "where is this actually from" a board-level
+  question rather than a purchasing one.
+- **Willingness to pay:** moderate personally, **high on expense** — textbook
+  [L17](../LEARNINGS.md).
+- **⚠️ Reachability: high, and this is the single most important finding of this session.**
+  Supply chain is an unusually content-dense, LinkedIn-native profession — it has active
+  practitioner communities, a real conference circuit, and a culture of sharing operational posts.
+  **This is precisely what Theme 1's persona A lacked**, and it was recorded there as the biggest
+  unresolved risk in that theme. **The same buyer, reachable.**
+- **Advertiser value: very high.** See §4 — nearly every advertiser wants this person.
+
+### ★ B — The physical trader, charterer and merchant
+Desks at trading houses, merchants, and the operations people around them.
+
+- **Commercial intent: highest of any persona in either theme.** They turn information into
+  positions.
+- **⚠️ But they are already served, expensively.** Argus, Fastmarkets, Platts, Bloomberg, broker
+  research. They are also the most error-intolerant readers imaginable ([D5](../DECISIONS.md) risk 2).
+- **⚠️ And this is the persona closest to [D2](../DECISIONS.md).** Serving them well means talking
+  about rates, tonnage and flows — the employer's product.
+- **Reading: a welcome byproduct, not a target.** They will read a good trace publication. Do not
+  build the editorial calendar for them.
+
+### C — The logistics and freight operator
+Forwarders, 3PLs, chartering and ops, port and terminal management.
+
+- Reachable, ad-rich, and **the one segment with a well-capitalised incumbent aimed squarely at it:**
+  FreightWaves ([Fuller](../resources/summaries/craig-fuller-freightwaves-media-arbitrage.md)), plus
+  Lloyd's List, TradeWinds, Splash247, gCaptain, The Loadstar, Supply Chain Dive *(recalled, unverified)*.
+- **Reading: do not enter as a freight publication.** Freight is the *mechanism* in the stories, not
+  the beat.
+
+### D — Policy, sanctions and industrial-strategy people
+Export control, trade compliance, resilience and reshoring functions; consultancies serving them.
+
+- Budget authority, growing fast, badly served in a readable register, **and they expense
+  everything.** Slow to build relationships with; few ad products early.
+- **Reading: park as a launch audience, target explicitly from year 2** — this is where the
+  briefing/advisory business in §3 comes from.
+
+### E — The curious professional and the retail investor
+- **⚠️ The trap, and Theme 2's gravitational pull is much stronger toward it than Theme 1's.** A
+  well-told trace piece is inherently shareable to people with no professional stake. They cost
+  nothing to acquire, they inflate the subscriber number, and they are worth close to nothing to a
+  supply-chain-risk-software advertiser. [L1](../LEARNINGS.md) prices this drift at up to ~100x.
+- **This is not a risk to accept quietly. It is the thing that decides whether Theme 2 is a
+  ~$17.50/subscriber business or a ~$0.15 one.** See §8.
+
+### The persona conclusion
+**Write for A, so that B and D read it, and refuse to write for E.** The procurement operator is
+reachable, has commercial intent, expenses things, and is wanted by every advertiser in §4. The
+trader and the policy reader arrive free if the work is rigorous. The general reader arrives free
+whether you want them or not — the discipline is not to start writing *for* them.
+
+---
+
+## 3. What this can lead to
+
+Sequenced against [L11](../LEARNINGS.md), [L13](../LEARNINGS.md) and [C4](../LEARNINGS.md).
+
+| Stage | Rough timing | What exists | Revenue |
+|---|---|---|---|
+| 0 | Months 0-6 | Weekly trace, LinkedIn-native distribution, zero monetization | £0 |
+| 1 | Months 6-18 | 2,000-5,000 subscribers; two repeatable formats; the first map/graphic that travels | £0 → first ad slot |
+| 2 | Year 2 | 5,000-15,000; one slot per issue, quarterly packages, category exclusivity ([L5](../LEARNINGS.md)); YouTube/podcast begins | Low five figures |
+| 3 | Years 3-4 | 15,000-40,000; expense-it tier ([L17](../LEARNINGS.md)); commissioned risk research; first paid workshop | Mid five to low six figures |
+| 4 | Year 4+ | Advisory / training / events, or a maintained chokepoint dataset ([L6](../LEARNINGS.md)) | The adjacent business, larger than the media |
+
+**⚠️ Ceiling arithmetic, explicitly an estimate.** Theme 2's audience is *larger* than Theme 1's and
+*worth less per head*, because the E-drift is real even when managed. At half Poyar's
+~$17.50/subscriber/yr ([L1](../LEARNINGS.md)), 20,000 subscribers is ~$175k/yr — the same number
+Theme 1 reaches at 10,000. **Theme 2 needs roughly twice the audience for the same money, and can
+plausibly get it.** Both are far below the Morning Brew shape and should be planned as such
+([L8](../LEARNINGS.md)).
+
+**The three exits, ranked by fit:**
+1. **Supply-chain risk advisory and commissioned research.** Persona A and D both buy this today at
+   consultancy rates. Available earliest, highest fit, [L6](../LEARNINGS.md)'s pattern exactly.
+2. **A maintained chokepoint/dependency map.** The reference product (§6). The one asset a
+   competitor cannot clone in a weekend and the seed of a paid tier sold as reference, not as a feed.
+3. **Media → audio/video → book → speaking.** ⚠️ Genuinely stronger here than in Theme 1 — the
+   register travels to YouTube and podcast far better than deployment mechanics do, and traced
+   physical journeys are natively visual. **Optionality worth designing for from week one** (take
+   photos, make maps), **but not a revenue plan** — [L15](../LEARNINGS.md) rates podcasts worst on
+   overhead-to-craft, and the capacity budget is the binding constraint.
+
+**Monetization order:** free newsletter, advertising, adjacent services — paid tier late and sold as
+reference. Same conclusion as Theme 1, reached from [L4](../LEARNINGS.md) rather than
+[L12](../LEARNINGS.md). ⚠️ Note the exception: **Doomberg is the visible counter-example**, a large
+paid-subscription commodities publication. See §8 for why it should not be copied.
+
+---
+
+## 4. Advertiser map
+
+**⚠️ This is deeper than Theme 1's**, and it is the strongest single argument for Theme 2.
+
+| Advertiser | Buying access to | Ad-worthy? |
+|---|---|---|
+| Price reporting agencies (Argus, Fastmarkets, ICIS, Platts) | A + B | ★★★ |
+| Supply-chain risk & mapping software (Everstream, Interos, Resilinc, Sourcemap) | A + D | ★★★ |
+| Trade compliance / customs / export control software | A + D | ★★★ |
+| Inspection, testing & certification (SGS, Bureau Veritas, Cotecna) | A + B | ★★★ |
+| Marine, cargo and political-risk insurers | A + B + C | ★★★ |
+| Trade finance banks and fintechs | B + A | ★★ |
+| Procurement suites and direct-materials sourcing tools | A | ★★ |
+| Exchanges and clearing (LME, CME, SHFE-adjacent) | B | ★★ |
+| Freight forwarders and digital forwarders | A + C | ★★ |
+| Law firms — sanctions, export control, trade remedies | D + A | ★★ |
+| Recruitment in supply chain and commodities | All | ★★ |
+| ⚠️ Commodity trading & market data software | B | ★★★ — **but closest to [D2](../DECISIONS.md)** |
+
+**The structural point:** these advertisers sell *risk reduction to buyers*, and a publication whose
+thesis is "you don't know where your inputs come from" is aligned with all of them. That is the same
+alignment test Theme 1's reframe had to repair, and Theme 2 passes it without needing repair.
+
+---
+
+## 5. What the day-to-day actually looks like
+
+Budget: **5-10 hrs/week**, of which [L15](../LEARNINGS.md) says half goes to distribution —
+so **3-5 hrs/week of craft.**
+
+### A representative week (~7 hrs)
+
+| When | Hrs | What |
+|---|---|---|
+| Mon | 0.75 | **Signal sweep.** Sanctions listings, customs releases, exchange stock reports, port and mine notices, corporate filings, disruption news. Capture only. |
+| Tue | 1.5 | **Draft.** One repeatable format (§6), filled with this week's material. |
+| Wed | 1.0 | **⚠️ Fact-check, and this is heavier than Theme 1.** Ownership, capacity and route claims are where a trace piece dies. Persona B reads for a living. |
+| Wed | 1.25 | **One map or diagram.** A traced route is natively visual and this theme's graphics travel further than Theme 1's ([L10](../LEARNINGS.md) — Poyar's infographics). Budgeted higher deliberately. |
+| Thu | 0.75 | **Ship + distribute.** Newsletter out; LinkedIn version written natively ([L7](../LEARNINGS.md)) — persona A actually lives there. |
+| Thu | 0.5 | **One cold outreach** ([L16](../LEARNINGS.md)) — a buyer, a shipper, a smelter, an inspector. |
+| Fri | 0.75 | **The epic.** Incremental work on the background project (§6). |
+| Rolling | 0.5 | Replies, advertiser conversations. |
+
+### The sourcing position, stated plainly
+**⚠️ This is where Theme 2 is clearly stronger than Theme 1.** Theme 1's constraint is NDA — the
+people who know are contractually silent. Theme 2's constraint is *volume and cost of data*, which is
+a work problem rather than an access problem. Roughly in order of cost-effectiveness:
+
+1. **Government commodity statistics** — USGS Mineral Commodity Summaries, EIA, national geological
+   surveys. Free, authoritative, and the backbone of the "who controls processing" claim.
+2. **Customs and trade data** — UN Comtrade free; several countries publish shipment-level records.
+   ⚠️ The good bill-of-lading products are paid and not cheap; budget for one, eventually.
+3. **Sanctions and enforcement filings** — OFAC listings, DOJ and EU enforcement actions. These read
+   as *narrative already written*: named vessels, shell companies, falsified certificates.
+4. **Corporate disclosure** — miner and processor annual reports, capacity and offtake announcements.
+   Under-read, full of the numbers that make a trace concrete.
+5. **Exchange and warehouse data** — LME/SHFE stocks and warrants, freight indices.
+6. **Interviews** — a buyer who has been burned, an inspector, a customs broker. ⚠️ Slower, but
+   **materially easier to source than Theme 1's deployment insiders**, because these are not
+   proprietary-technology conversations.
+
+**What the day-to-day is, in one line:** reading public trade and geological data nobody else reads,
+turning one dependency at a time into a story with a named cast, and drawing one map a week.
+
+### The epic in the background
+[L10](../LEARNINGS.md): Lenny's two big research projects drove ~50% of first-year growth. The
+candidate here is a **maintained dependency map** — a public, citable record of chokepoints and
+single-source inputs: material, where it's mined, where it's *processed* (the actual chokepoint),
+who owns that, and what the substitution options are. It is the growth artifact, the credibility
+proof, the paid product seed, and it accretes from the weekly piece rather than competing with it.
+First public cut at ~month 9.
+
+---
+
+## 6. Post ideas
+
+Fifteen in the [D5](../DECISIONS.md) register — playful framing, operator payload. Repeatable formats
+marked ⟳, because at 3-5 hrs/week **three formats that run forty times each beat fifteen good
+headlines** (the lesson recorded in Theme 1 §6). **⚠️ All specifics below are placeholders requiring
+verification; nothing here has been checked.**
+
+### The trace *(the flagship format)*
+1. ⟳ **"Your brake rotor started in a pit you can't pronounce."** One everyday object, traced
+   backwards to the ground, ending with *who could switch it off.* **The core weekly format.**
+2. ⟳ **"Everything in this room, ranked by how far it travelled."** The trace format applied to a
+   set rather than an object — a hospital ward, a data centre, an EV, a fighter jet, a supermarket.
+3. **"The most boring monopoly on earth."** One obscure input — a reagent, a coating, a bearing
+   grade — where a single plant supplies most of the world.
+
+### Chokepoints and failure *(the shareable ones)*
+4. ⟳ **"Chokepoint of the month."** One physical bottleneck; why it exists; who gets rich when it
+   jams; what a buyer can actually do about it.
+5. ⟳ **"What broke this week, and who pays for it."** Short disruption roundup — **with the invoice
+   attached.** The "who pays" clause is what keeps it a procurement product rather than news.
+6. **"Nobody budgets for demurrage."** The costs that appear after the price is agreed: demurrage,
+   detention, quality claims, inspection failures.
+7. **"Who controls the processing, not the ore."** The single most misreported fact in commodity
+   coverage, told once properly and then linked to forever.
+
+### Public-data formats *(the native edge, no access required)*
+8. ⟳ **"The customs data says otherwise."** A widely-repeated claim about a trade shift, checked
+   against public trade statistics. *(Recurring, purely public, and nobody in this register does it.)*
+9. ⟳ **"Stockpile watch."** Exchange and strategic-reserve inventories told as a story about who is
+   quietly getting nervous. *(Recurring monthly.)*
+10. **"A tariff, traced."** Follow one tariff line from the statute to a shelf price, with the real
+    cost stack in between.
+11. **"How the sanctioned cargo got here anyway."** Built entirely from enforcement filings — named
+    vessels, shell companies, forged certificates of origin. **⚠️ Reads like crime fiction and is
+    entirely public.**
+
+### Explainers for the buyer *(the [D1](../DECISIONS.md) payload)*
+12. **"How to actually buy a cargo."** Incoterms, letters of credit, inspection, assay disputes,
+    laytime — for the buyer who has only ever raised a PO. **Nobody teaches this readably.**
+13. **"Your supplier's supplier's supplier."** How to map tier-3 dependency with public data and no
+    budget. *(The piece most likely to be forwarded internally — which is how persona A recruits
+    persona A.)*
+14. **"The substitution race."** What happens when engineers design a material out, and why the lag
+    between price shock and redesign is the whole story.
+15. **"The Dependency Map, 2026."** The annual epic (§5).
+
+**Self-score against the brief's test — *how many need proprietary data?*** **One: #1's vessel-level
+detail, if it goes to voyage granularity.** The other fourteen run on government statistics,
+enforcement filings, corporate disclosure and exchange data. **That is the clearest single result of
+this session:** the strongest formats in Theme 2 are open-source, which means [D2](../DECISIONS.md)
+constrains the beat but does not gate the publication.
+
+**And on the [D5](../DECISIONS.md) discipline test:** 4 of 15 are pure audience-building (#2, #3, #7,
+#11) and would need their last two paragraphs to earn their place. **That ratio is the thing to
+watch.**
+
+---
+
+## 7. ⚠️ The employer question, specifically
+
+[D2](../DECISIONS.md) applies harder here than anywhere else in this research — the minor-bulks scan
+returned AXSMarine, Alphaliner's publisher and a Signal Ocean company. The reframe in §1 does not
+dissolve that; it does draw a usable line:
+
+| Employer's field — avoid as a beat | Open field — the §1 reframe |
+|---|---|
+| Container/liner economics, capacity, alliances | The material and its processing chain |
+| Freight rates, chartering, tonne-mile analytics | The buyer's dependency and cost stack |
+| Vessel-level flow analysis as a product | Chokepoints as narrative, from public data |
+| The shipowner, charterer and broker as reader | The manufacturer and procurement lead as reader |
+
+**Three operating rules if Theme 2 proceeds:**
+1. **Public sources only, always cited.** Not a nicety — it is the evidence that nothing proprietary
+   was used, and it needs to be visible in every piece.
+2. **Do not target the employer's customer.** Persona A is not who Signal Ocean sells to; persona B
+   and C are. The persona choice in §2 is what keeps this non-competing.
+3. **⚠️ Have the conversation before publishing anything, not before deciding.** [D2](../DECISIONS.md)
+   remains unresolved and this session does not change that.
+
+---
+
+## 8. Honest assessment of Theme 2 after this session
+
+**What got better.**
+1. **⚠️ The reachability problem that sank Theme 1's main persona doesn't exist here.** Same
+   industrial buyer, but supply chain professionals congregate publicly and share operational content
+   habitually. Every growth loop in this research needs an audience that already gathers somewhere;
+   this one gathers.
+2. **Sourcing is a work problem, not an access problem** (§5) — the inverse of Theme 1's central
+   difficulty, and 14 of 15 post ideas need no privileged data.
+3. **Advertiser depth is the best found in this project** (§4), and structurally aligned with the
+   editorial thesis.
+4. **It is genuinely writable for years** — the property [D4](../DECISIONS.md) wanted — and it
+   travels to video and audio in a way Theme 1 does not.
+
+**What got worse.**
+1. **⚠️ The E-drift is the defining risk, and it is worse than it looked.** Theme 1's failure mode is
+   *nobody reads it*; Theme 2's is *the wrong people read it, in large numbers, and it feels like
+   success.* A trace piece is inherently shareable to people with no professional stake, and
+   [L1](../LEARNINGS.md) prices that drift at up to ~100x revenue per head. **The counter-discipline
+   is mechanical: every piece ends on what the operator should do, and the subscriber base is audited
+   by job title, not by count.**
+2. **⚠️ Verification cost is higher than Theme 1's** and lands in the same 3-5 hr/week budget.
+   Ownership and capacity claims are exactly what persona B checks instinctively
+   ([D5](../DECISIONS.md) risk 2).
+3. **⚠️ [D2](../DECISIONS.md) is structural here, not incidental** (§7).
+4. **Two incumbents genuinely own the entertaining register.** The earlier scan's argument — that
+   nobody reads only one explainer publication — still stands, but it is an argument for *coexistence*,
+   not for differentiation. **The differentiation claim rests entirely on §1's unit-of-content
+   reframe, which is untested.**
+5. **⚠️ Doomberg should not be read as a model.** It is a prolific, high-frequency, opinion-led
+   subscription business, reportedly a team rather than one person. Copying the *monetization* means
+   copying the *cadence*, which is out of scope at 5-10 hrs/week ([L15](../LEARNINGS.md)).
+   **Impression, unverified — the brief's read of Doomberg's paid tier still needs doing, and it is
+   now the highest-value single read available for this theme.**
+
+**What would need to be true.** That an entertainingly-written trace can end on something a buyer
+acts on without losing the register; that persona A will subscribe to an independent publication
+rather than rely on their PRA subscription; and that [D2](../DECISIONS.md) clears at least as far as
+§7's boundary. **The first is testable immediately and cheaply — write three traces and check whether
+the last two paragraphs are honest.**
+
+### How it compares to Theme 1 — no decision taken ([D4](../DECISIONS.md) stands)
+
+| | **Theme 1 — deep tech deployments** | **Theme 2 — supply chains as journeys** |
+|---|---|---|
+| Persona reachability | ⚠️ 2 — the unresolved risk | **5 — the strongest thing here** |
+| Sourcing | ⚠️ 2 — NDA-gated | **4 — public, abundant, laborious** |
+| Advertiser depth | 4 | **5** |
+| Our edge | 4 — GTM-native, technology-adjacent | **4 — native, but constrained by [D2](../DECISIONS.md)** |
+| Employer conflict | Low | ⚠️ **Direct — managed, not removed** |
+| Writable for years | 3 — depends on one deep sub-domain | **5** |
+| Revenue per subscriber | **4** — audience stays professional by default | ⚠️ 2-4 — depends entirely on resisting drift |
+| Audience ceiling | ~85k universe; low-six-figure business | Larger universe; needs ~2x the audience for the same revenue |
+
+**The two themes fail in opposite directions**, which is the most useful thing to come out of the two
+sessions: **Theme 1 risks an unreachable audience; Theme 2 risks a worthless one.** Theme 1's problem
+is solved by finding a channel. Theme 2's is solved by weekly editorial discipline. **Neither is
+solvable by choosing harder — both are testable in about a month of actual writing**, and that is the
+recommended next step rather than a further scan.
