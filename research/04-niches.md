@@ -628,17 +628,22 @@ reserves · smuggling and grey markets · the physical plumbing of trade finance
 voyage reveals · substitution and material science shocks · who controls processing versus who
 controls the ore.
 
-### ⚠️ Competition — two large incumbents own this register
-- **[Odd Lots](https://www.bloomberg.com/news/newsletters/)** (Joe Weisenthal & Tracy Alloway,
-  Bloomberg) — podcast, newsletter and video, institutionally backed. *"The Hidden Plumbing of
-  Commodity Finance,"* *"How Commodity Supercycles Come to an End."* **This is precisely the
-  register.**
-- **[Doomberg](https://newsletter.doomberg.com/)** — the paid-Substack proof point. Anonymous, energy
-  and commodities, entertaining and serious at once, and reportedly one of the largest paid finance
-  Substacks.
+### ⚠️ Competition — ~~two large incumbents own this register~~ **corrected 2026-08-27: one does**
+- **⚠️ [Odd Lots](https://www.bloomberg.com/news/newsletters/) was miscounted here.** It is Joe
+  Weisenthal and Tracy Alloway's **generalist** Bloomberg markets-and-economics show — bond market
+  plumbing one week, chip fabs the next, container rates the week after. It runs commodity and
+  supply-chain episodes often enough to *feel* like a commodities publication, **but it never holds
+  a beat**, and a generalist show cannot be the incumbent for a dedicated one. **Reclassify it from
+  competitor to proof point:** entertaining register, finance-professional audience — which is
+  exactly the use [D5](../DECISIONS.md) makes of it, and that use is unaffected.
+- **[Doomberg](https://newsletter.doomberg.com/)** — the real incumbent in this register, and the
+  paid-Substack proof point. Anonymous, energy and commodities, entertaining and serious at once, and
+  reportedly one of the largest paid finance Substacks.
 
-**But this register tolerates many players in a way a reference product does not.** Nobody reads only
-one explainer publication. That is different from CTRM, where one analyst firm can hold the field.
+**Net effect of the correction: register competition is thinner than recorded** — one genuine
+incumbent, opinion-led and energy-weighted, rather than two. The original argument still holds on top
+of that: **this register tolerates many players in a way a reference product does not.** Nobody reads
+only one explainer publication. That is different from CTRM, where one analyst firm can hold the field.
 
 ### Reader personas to test
 | | Who | Why they'd pay |
@@ -979,7 +984,8 @@ The counterpart session to the Theme 1 deep dive above, worked against the same 
 [D1](../DECISIONS.md) (commercial intent), [D5](../DECISIONS.md) (fun register, operator reader),
 and 5-10 hrs/week. **⚠️ Same discipline as Theme 1: nothing here comes from new reading.** The
 competitor reads in the starting brief — Odd Lots' actual editions, Doomberg's paid tier — have still
-not been done, so every claim about incumbents is a desk-scan impression, and the named publications
+not been done (⚠️ and §1 records a correction to the Odd Lots classification that came from the user,
+not from a read), so every claim about incumbents is a desk-scan impression, and the named publications
 below are recalled rather than verified.
 
 ---
@@ -991,13 +997,15 @@ the differentiator isn't tone — **it's the unit of content.**
 
 | Framing | Unit | Reader | Competition | Our edge |
 |---|---|---|---|---|
-| "Commodities & macro, entertainingly" | A market view, a price call | Trader, finance-curious | ⚠️ Odd Lots and Doomberg own this | 2 — no edge in macro |
+| "Commodities & macro, entertainingly" | A market view, a price call | Trader, finance-curious | Doomberg owns this; Odd Lots visits it *(corrected — see above)* | 2 — no edge in macro |
 | **"How a physical thing actually gets from the ground to the thing you're holding"** | **A traced route, with a cast** | **The person who has to buy or move it** | Close to empty in this register | **4 — native** |
 
-Odd Lots' unit is an interview about a macro question. Doomberg's unit is a contrarian energy
-argument. Both are *market* products wearing an entertaining register. **Neither traces the physical
-leg as the story itself** — the pit, the truck, the smelter, the port, the bonded warehouse, the
-inspection certificate, the invoice.
+Doomberg's unit is a contrarian energy argument — a *market* product wearing an entertaining
+register. Odd Lots' unit is an interview about whatever is interesting this week, which happens to be
+a commodity perhaps a fifth of the time; **it is a generalist show and therefore never owns the beat
+it is visiting** *(corrected 2026-08-27 — it had been recorded as an incumbent, which it is not).*
+**Neither traces the physical leg as the story itself** — the pit, the truck, the smelter, the port,
+the bonded warehouse, the inspection certificate, the invoice.
 
 That is the reframe, and it does the same job §1 did for Theme 1: it changes who the publication is
 *for* without narrowing what it can cover. Every material, every route, every disruption stays in
@@ -1305,10 +1313,13 @@ dissolve that; it does draw a usable line:
    Ownership and capacity claims are exactly what persona B checks instinctively
    ([D5](../DECISIONS.md) risk 2).
 3. **⚠️ [D2](../DECISIONS.md) is structural here, not incidental** (§7).
-4. **Two incumbents genuinely own the entertaining register.** The earlier scan's argument — that
-   nobody reads only one explainer publication — still stands, but it is an argument for *coexistence*,
-   not for differentiation. **The differentiation claim rests entirely on §1's unit-of-content
-   reframe, which is untested.**
+4. **~~Two incumbents genuinely own the entertaining register.~~ ⚠️ Corrected same day: one does.**
+   Odd Lots is a generalist show that visits commodities, not a commodities publication; only
+   Doomberg is a true incumbent, and it is opinion-led and energy-weighted rather than
+   supply-chain-led. **This is a real improvement to the theme's competitive position** — but the
+   argument it replaces (nobody reads only one explainer publication) was an argument for
+   *coexistence*, and this one is only an argument for *space*. **The differentiation claim still
+   rests entirely on §1's unit-of-content reframe, which is untested.**
 5. **⚠️ Doomberg should not be read as a model.** It is a prolific, high-frequency, opinion-led
    subscription business, reportedly a team rather than one person. Copying the *monetization* means
    copying the *cadence*, which is out of scope at 5-10 hrs/week ([L15](../LEARNINGS.md)).
