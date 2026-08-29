@@ -3,6 +3,11 @@
 > ⚠️ **Rough notes. No decisions.** Captured 2026-08-26 at the user's request as a strategy sketch to
 > return to if this theme is chosen. **Themes 1 and 2 currently live inside
 > [04-niches.md](04-niches.md)** — worth consolidating if this one is pursued.
+>
+> **Updated 2026-08-29:** all three themes are now compared on one sheet in
+> [04-niches.md § Three-theme comparison](04-niches.md#three-theme-comparison-2026-08-29), and the
+> outcome is recorded as [D6](../DECISIONS.md). ⚠️ The comparison materially revises the
+> "price ceiling — highest" row in the table at the foot of this file — see [L18](../LEARNINGS.md).
 
 **Shape:** a Citrini-style thematic investment research publication, with an eventual fund as the
 endgame. See [Citrini Research](../resources/summaries/citrini-research.md) — 258k subscribers,
@@ -232,7 +237,7 @@ legal setup, insurance, disclosure discipline, and a permanent constraint on how
 | | Theme 1 — deep tech | Theme 2 — commodity supply chains | **Theme 3 — investment themes** |
 |---|---|---|---|
 | Audience | Operators, strategy, policy | Operators in physical flow | **Professional investors** |
-| Price ceiling | Moderate | Moderate | **Highest** — $999/yr is proven |
+| Price ceiling | Moderate | Moderate | **Highest** — $999/yr is proven ⚠️ **but see [L18](../LEARNINGS.md): that is ~$3.87/subscriber/yr, and it only pays above ~50k subs** |
 | Competition | Crowded, investor-skewed | Two large incumbents | ⚠️ **Very crowded** — Citrini, plus the whole finance Substack field |
 | Endgame | Research tier → advisory | Podcast/book/sponsorship | **Fund** |
 | Regulatory load | None | None | ⚠️ **Real** |

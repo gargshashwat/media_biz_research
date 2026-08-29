@@ -1350,3 +1350,317 @@ sessions: **Theme 1 risks an unreachable audience; Theme 2 risks a worthless one
 is solved by finding a channel. Theme 2's is solved by weekly editorial discipline. **Neither is
 solvable by choosing harder — both are testable in about a month of actual writing**, and that is the
 recommended next step rather than a further scan.
+
+---
+
+# Three-theme comparison (2026-08-29)
+**Status:** comparison only — **no decision taken.** [D4](../DECISIONS.md) deferred the choice and it
+stays deferred; this session adds the third option and scores all three on one sheet.
+
+Theme 3 — **thematic investment research, Citrini-shaped** — was added by the user as a live option
+alongside D4's two. Its material lives in
+[06-theme3-investment-research.md](06-theme3-investment-research.md) and the
+[Citrini case study](../resources/summaries/citrini-research.md).
+
+**⚠️ Read the asymmetry in the evidence before the table.** Themes 1 and 2 each had a dedicated
+deep-dive session (§ above) that produced personas, advertiser maps, week-plans and 15 post ideas
+apiece. Theme 3 has a user sketch, Claude's annotations, a regulatory background note, and **one**
+case study. It has never been scored on the rubric, its competition has never been scanned, and no
+advertiser map exists for it. **Theme 3's scores below are therefore softer than the other two's**,
+and the direction of that error is unknown — thin evidence flatters as often as it penalises.
+
+---
+
+## 1. These are not three subject matters. They are three business models.
+
+The most useful thing to establish first, because almost every difference downstream follows from it:
+
+| | Theme 1 — deep tech deployments | Theme 2 — supply chains as journeys | Theme 3 — investment themes |
+|---|---|---|---|
+| **Who pays** | The advertiser | The advertiser | **The reader** |
+| **The product sold** | Access to a buyer and a seller | Access to a procurement operator | **The trade** |
+| **What scale it needs** | Small, qualified | Large-ish, qualified | **Very large free list** |
+| **Shape** | Poyar | Morning Brew, shrunk | **Citrini** |
+| **Endgame** | Advisory / commissioned research | Advisory / training / events | **Institutional research → capital** |
+
+All three satisfy [D1](../DECISIONS.md) — every one of these readers turns the content into money —
+so **D1 has no discriminating power here.** Neither does [D5](../DECISIONS.md): Citrini's
+market-moving February 2026 piece was *fictional*, which makes it the strongest proof in the whole
+project that an entertaining register carries professional research. **The fun register is
+theme-neutral. Stop scoring it.**
+
+What actually separates them is who pays, what it costs to be allowed in the room, and what happens
+if it works.
+
+---
+
+## 2. The scoresheet
+
+Same 1-5 basis as the rubric at the top of this file, extended with the axes the two deep dives
+surfaced as load-bearing. **Higher is better on every row** — including the two risk rows, where 5
+means "no load."
+
+| Axis | T1 — deep tech deployments | T2 — supply chains | T3 — investment themes |
+|---|---|---|---|
+| Commercial intent | **5** | 4 | **5** |
+| Advertiser depth | 4 | **5** | ⚠️ 3 — never scanned |
+| Edge / unfair input | 4 | 4 | ⚠️ **2** |
+| Weak competition | 3 | 4 | ⚠️ **1** |
+| Capacity fit (5-10 hrs/wk) | 3 | 3 | ⚠️ **2** |
+| Durability | 4 | 4 | 3 |
+| Persona reachability | ⚠️ **2** | **5** | **5** |
+| Sourcing | ⚠️ **2** | 4 | 4 |
+| Employer conflict *(5 = none)* | 4 | ⚠️ **2** | 4 — ⚠️ *different in kind, see §7* |
+| Regulatory / liability load *(5 = none)* | **5** | **5** | ⚠️ **2** |
+| Writable for years | 3 | **5** | 4 |
+| Revenue per subscriber *(publication only)* | **4** | 3 | 3 |
+| Endgame ceiling | 3 | 3 | **5** |
+| **Total** | **46** | **51** | **43** |
+
+**⚠️ Do not let the total decide anything.** The D3 pass already demonstrated why: buy-side AI compute
+topped that table at 26 and was dropped, because edge and durability mattered more than the sum. The
+same applies here — T2's four-point lead is built almost entirely on reachability and sourcing, and
+its `2` on employer conflict is a **gate**, not a deduction. A gate that fails ends the theme
+regardless of the other twelve rows.
+
+---
+
+## 3. Revenue: the finding that inverts the obvious ranking
+
+The intuitive case for Theme 3 is [L1](../LEARNINGS.md) — investing is the top-priced vertical,
+Citrini charges **$999/yr** against beehiiv's $27/month investing median, and no other theme has a
+proven price point remotely like it. That case is real but it is **not** a case about the publication.
+
+**The arithmetic, derived from figures already in this project:**
+
+| | Total subs | Paid | Price | Revenue | **Per total sub/yr** |
+|---|---|---|---|---|---|
+| **Citrini** (Substack layer only) | 258,000 | ~1,000 | $999/yr | ~$999k | **~$3.87** |
+| **Poyar** (ads + subs + consulting) | 85,000 | — | — | ~$1.5M | **~$17.65** |
+| **beehiiv investing vertical** (subs only) | 5,000 | — | ~$27/mo | ~$13,600 | **~$2.72** |
+
+*Derived here from [Citrini](../resources/summaries/citrini-research.md),
+[Poyar](../resources/summaries/kyle-poyar-growth-unhinged-1-5m-solo.md) and
+[beehiiv](../resources/summaries/beehiiv-state-of-paid-newsletters-2026.md). ⚠️ Citrini's paid count
+and price are **secondary-sourced (medium trust)**, and its Substack certainly carries revenue this
+line doesn't capture. Poyar's figure is a blended run-rate including consulting. Treat the comparison
+as an order of magnitude, not a measurement.*
+
+**The highest-priced product in the research earns roughly a quarter as much per subscriber as an
+ad-led professional newsletter.** A 0.4% conversion is what a $999 price buys, and 0.4% of a small
+list is nothing at all. Run it at a size this project could realistically reach:
+
+| At 10,000 subscribers | Revenue | Source of the rate |
+|---|---|---|
+| T3, Citrini's structure (0.4% × $999) | **~$40,000** | [Citrini](../resources/summaries/citrini-research.md) |
+| T3, beehiiv investing rate | **~$27,000** | [beehiiv](../resources/summaries/beehiiv-state-of-paid-newsletters-2026.md) |
+| T1, half of Poyar's rate *(the honest planning number, §3 above)* | **~$87,500** | [L1](../LEARNINGS.md) |
+| **One sponsor at $2,000/month — at 5,000 subs** | **$24,000** | [05-strategy](05-strategy.md), Inversion 1 |
+
+**Three consequences:**
+
+1. **The $999 price is a late-stage asset, not an early one.** It only pays at very large free-list
+   scale — Citrini needed 258,000 subscribers to reach 1,000 paying ones. Below roughly 50,000
+   subscribers, one sponsor beats the entire paid funnel, which is exactly what
+   [Inversion 1](05-strategy.md) already concluded on general grounds. **Theme 3 does not escape
+   [L4](../LEARNINGS.md); it is the clearest confirmation of it.**
+2. **Theme 3's advantage is the layer behind the publication, not the publication.** Citrini's
+   ~$1M of visible Substack revenue is *"almost certainly the smaller half"* — the business is
+   [citrini.com](https://www.citrini.com/), an institutional research firm, plus Citrinitas Capital
+   Management. **Compared as publications, Themes 1 and 2 win. Theme 3 wins only if you get to the
+   endgame** — which is [L6](../LEARNINGS.md) stated more sharply than anywhere else in the project.
+3. **Top-decile finance conversion is 18-20%** ([L11](../LEARNINGS.md)) — 45x Citrini's rate. There is
+   a differently-shaped investment publication with far better per-subscriber economics than
+   Citrini's. **Copying Citrini's structure is not the same as choosing the investing vertical**, and
+   the two have been conflated in the framing so far.
+
+---
+
+## 4. Edge — the axis where Theme 3 is genuinely weakest
+
+[L14](../LEARNINGS.md) is the most uncomfortable finding in this project: *every* success studied had
+an unpriced advantage none of them foreground. Applying it honestly to each theme:
+
+| | The unfair input the theme requires | Does the user have it? |
+|---|---|---|
+| **T1** | Literacy in how industrials buy technology | **Yes — native.** GTM into B2B/industrial is the day job |
+| **T2** | Literacy in how physical trade actually works | **Yes — native**, and the strongest of the three |
+| **T3** | A markets track record, an analytical frame, and an audience that already trusts your calls | ⚠️ **Not recorded anywhere in this project** |
+
+Citrini's own caveat is explicit: Van Geelen *"organically grew the research business out of X"* —
+**an audience migration, not a cold start.** That is why Citrini reached 258k in three years while
+every other case in [L13](../LEARNINGS.md) took four or more. **The three-year timeline is not
+available without the pre-existing following**, and the case study flags this itself.
+
+Layer [C6](../LEARNINGS.md) on top — weak competition may be a better filter than market size — and
+Theme 3 fails it hardest. **Finance Substack is the most competitive category in this research**, and
+it is the only one of the three where a well-capitalised incumbent (Citrini, plus the entire field
+behind it) is already executing the exact model under consideration. Themes 1 and 2 both have a
+register gap; Theme 3 has a queue.
+
+---
+
+## 5. Reachability and sourcing — where Theme 1 is weakest
+
+The two deep dives established that T1 and T2 fail in opposite directions. Theme 3 lands on T2's side
+of both:
+
+| | T1 | T2 | T3 |
+|---|---|---|---|
+| Does the audience congregate somewhere cheap? | ⚠️ **No.** Industrial capex decision-makers are the unresolved risk | **Yes.** Supply chain is LinkedIn-native and shares operationally | **Yes.** Finance X/Substack is the most content-native audience of the three, and attention converts fast |
+| Is the raw material obtainable? | ⚠️ **NDA-gated.** The people who know what a deployment cost cannot say | **Public and abundant** — USGS, Comtrade, OFAC filings, corporate disclosure | **Public and abundant** — filings, prices, transcripts |
+| So what is actually scarce? | **Access** | **Time** | ⚠️ **Judgment that is provably right, in public** |
+
+**That last cell is the whole difference.** Theme 3's scarce input is not information — it is a
+defensible view, published under your name, that the market can grade. The other two themes reward
+diligence with public documents. Theme 3 rewards being right, and grades you continuously.
+
+---
+
+## 6. Capacity — Theme 3 has a clock the others don't
+
+[L15](../LEARNINGS.md) halves the 5-10 hrs/week to **3-5 hrs/week of craft.** Against that budget:
+
+- **T1 and T2 write about things that stay true.** A deployment post-mortem or a traced supply chain
+  is as publishable on Sunday as it was on Tuesday. Both deep dives produced week-plans that fit.
+- **⚠️ T3 writes about things that change while you write them.** A thematic call is timely by nature,
+  competes with desks that read the same tape full-time, and — per the case study — Citrini runs
+  **10+ analysts across three continents.** Nothing in this project shows that shape of output being
+  produced at 3-5 hrs/week of craft.
+
+**And the user's own sketch contains a capacity trap the annotations already caught:** step 1 is
+*"practise without publishing."* That contradicts nearly every case studied, and the
+[06 annotations](06-theme3-investment-research.md) recommend hard-timeboxing it. Worth restating here
+because it is the step most likely to consume the first six months of a scarce budget and produce no
+signal.
+
+---
+
+## 7. Risk load — the asymmetry that is not a scoring row
+
+Two of these are not preferences. They are conditions that have to clear.
+
+**Regulatory and liability — Theme 3 only.** [Recorded in full in 06](06-theme3-investment-research.md).
+The publisher's exclusion (US, *Lowe v. SEC*), the FCA's narrower financial-promotion regime and its
+active finfluencer enforcement, MAR Article 20 in the EU, §17(b) paid-promotion disclosure, and
+anti-fraud and scalping rules that no exclusion waives. **The jurisdiction is not recorded anywhere in
+this project, and it determines nearly all of the above.** Themes 1 and 2 carry none of this.
+⚠️ Visibility raises this risk non-linearly — **success is what creates the exposure.**
+
+**Employer overlap ([D2](../DECISIONS.md)) — different in kind for each, not just in degree:**
+
+- **T2: direct and structural.** The minor-bulks scan returned AXSMarine, Alphaliner's publisher and
+  a Signal Ocean company. §7 of the Theme 2 deep dive draws a workable line (materials and the
+  industrial buyer, not vessels and rates), but it manages the conflict rather than removing it.
+- **T1: low.** Procurement and deployment mechanics are not Signal Ocean's market.
+- **⚠️ T3: low on competition, but a category D2 has not considered.** Signal Ocean is a market-data
+  business serving traders. Employers in that line commonly run **personal account-dealing and
+  outside-publication policies** that bite regardless of whether the subject matter competes. **This
+  is a new question, not a variant of the existing one, and nothing in this project addresses it.**
+
+---
+
+## 8. The three failure modes
+
+Stated as a set, because they are the most decision-relevant output of the comparison:
+
+| | How it fails | Can it be fixed by effort? |
+|---|---|---|
+| **T1** | **Nobody reads it.** The buyer persona doesn't congregate anywhere you can reach cheaply | Only by finding a channel — no amount of writing solves it |
+| **T2** | **The wrong people read it, in large numbers, and it feels like success.** [L1](../LEARNINGS.md) prices the E-drift at up to 100x per head | **Yes — weekly editorial discipline.** Mechanical, and testable in a month |
+| **T3** | **You are invisible among thousands** — and if you are visible, a wrong high-profile call is permanent and public | ⚠️ Only by having the unfair input in §4, which effort does not manufacture quickly |
+
+**T2's failure mode is the only one that is a work problem.** T1's is structural; T3's is a
+starting-position problem, which is precisely the class [L14](../LEARNINGS.md) says retrospectives
+never price in.
+
+---
+
+## 9. ⚠️ The three options are not independent — Theme 3 is downstream of Theme 1
+
+The single most useful structural observation from putting all three on one sheet:
+
+**Citrini's themes *are* deep tech.** AI, robotics, defence, GLP-1s — the case study says so
+explicitly, and the theme brief already noted the overlap. Theme 1 and Theme 3 are largely the **same
+subject matter told to different readers**: the operator versus the investor.
+
+That relationship is **asymmetric**, and the asymmetry favours starting at Theme 1:
+
+- **Theme 1's deep dive already concluded that investors arrive free** — persona C is *"a welcome
+  byproduct... investors read what buyers read."* Serving operators well recruits the investor
+  audience without competing for it.
+- **It does not work in reverse.** Writing investment theses does not make an industrial buyer read
+  you, and it puts you straight into the most crowded lane in the research.
+- **The media→capital path is explicitly available from Theme 1.** The brief records that deep tech is
+  investment-adjacent and the [Stebbings path](../resources/summaries/harry-stebbings-20vc-business.md)
+  is *"more available here than in any other option considered."*
+- **And it defers the regulatory load** (§7) to the point where it would be paid for by an actual
+  business, rather than carried from week one.
+
+**So Theme 3's endgame appears reachable from Theme 1 without paying Theme 3's entry cost.** ⚠️ Two
+honest caveats: this is **inference from two existing files, not a new finding**, and it does *not*
+buy the $999 price — operator content earns operator prices. It converts Theme 3 from a third option
+into an **endgame that two of the paths lead toward**, which is a different question from which theme
+to write.
+
+---
+
+## 10. Reading — what this comparison actually says
+
+**Kept separate from any decision. [D4](../DECISIONS.md)'s deferral stands.**
+
+1. **Theme 3 is the strongest endgame and the weakest entry.** It wins decisively on price ceiling and
+   on what the business becomes, and loses decisively on the two axes this project keeps finding are
+   the real constraints: **an unfair input** ([L14](../LEARNINGS.md)) and **weak competition**
+   ([C6](../LEARNINGS.md)). It is also the only theme carrying a regulatory load and the only one
+   whose failure mode is public and permanent.
+2. **The price argument for Theme 3 does not survive the arithmetic at achievable scale** (§3). It is
+   the strongest single result of this session, and it was not visible until the three were on one
+   sheet.
+3. **Theme 2 leads the scoresheet on the two axes that sank Theme 1** — reachability and sourcing —
+   and has the deepest advertiser map found anywhere in this project. **Its employer overlap is a gate
+   that has to clear before any of that counts.**
+4. **Theme 1 is the safest on risk and the most fragile on distribution.** Its reframe (transactions,
+   not technology) is sound and repairs the D3 monetization flaw, but the unreachable-buyer problem
+   was never solved and is not solved here.
+5. **Theme 3's subject matter is not lost by choosing Theme 1** (§9), which materially lowers the cost
+   of not picking it now.
+
+**⚠️ What would flip this.** One fact, not recorded anywhere in this project: **an existing markets
+following or a public track record.** Citrini's three-year run was an audience migration off X. If
+the user has that input, Theme 3's `2` on edge and its `1` on competition both move, its entry cost
+collapses, and it plausibly becomes the strongest of the three. Without it, Theme 3 asks for a cold
+start in the most crowded category in the research, under a regulatory load, at a price point that
+only pays above ~50,000 subscribers.
+
+---
+
+## 11. What is still not known
+
+Ranked by how much each would change the comparison.
+
+1. **Does the user have an existing markets audience or track record?** Flips Theme 3 outright (§10).
+2. **Does [D2](../DECISIONS.md) clear** — and does the employer have a personal-dealing or
+   outside-publication policy (§7)? Gates T2, and possibly T3 in a way not previously considered.
+3. **Which jurisdiction?** Determines the whole of Theme 3's regulatory load.
+4. **Theme 3 has never had a competition scan or an advertiser map.** Both exist for T1 and T2.
+   The comparison is uneven until it does.
+5. **The incumbent reads specified in both earlier briefs are still not done** — Doomberg's paid tier
+   (highest value single read available), the deep tech newsletters, and now Citrini's actual editions.
+   **Every competition claim in this file remains a desk-scan impression.**
+
+## 12. The cheap test, extended to three
+
+The Theme 1/2 comparison ended by recommending *"about a month of actual writing"* over further
+scanning, on the grounds that neither failure mode is solvable by choosing harder. **That
+recommendation holds and extends cleanly to three**, because each theme has a different question and
+all three are answerable by writing rather than reading:
+
+| Theme | Write | The question it answers |
+|---|---|---|
+| **T1** | Four consecutive weeks sourced **only** from public documents | Do public sources sustain a weekly piece, without NDA-gated access? |
+| **T2** | Three traces, checking whether the last two paragraphs are honest | Can an entertaining trace end on something a buyer acts on? |
+| **T3** | Three thematic pieces, **dated and unedited afterwards** | Is the analytical view differentiated — and are you willing to be graded in public? |
+
+That is roughly three to four weeks of the existing budget, produces the Stage 0 habit either way
+([05-strategy](05-strategy.md)), and answers more than another scan would.

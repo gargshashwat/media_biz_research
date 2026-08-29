@@ -127,7 +127,7 @@ harder business than the ad model the research otherwise favours.
 ---
 
 ## D4 — Two broad themes to sit with; defer the choice
-**Date:** 2026-08-26 · **Status:** Active · **Supersedes [D3](#d3)**
+**Date:** 2026-08-26 · **Status:** **Superseded in part by [D6](#d6)** (a third theme was added 2026-08-29) · **the deferral itself remains Active** · **Supersedes [D3](#d3)**
 
 Carry **two deliberately broad themes** rather than a narrow niche, and **do not choose yet**:
 
@@ -204,6 +204,51 @@ what every incumbent in every niche we scanned already does, and it is why they 
 
 **Would change our mind:** Reader conversations showing the target operators actively distrust an
 entertaining register in this subject matter.
+
+---
+
+## D6 — Carry three themes, not two; the choice stays deferred
+**Date:** 2026-08-29 · **Status:** Active · **Supersedes [D4](#d4--two-broad-themes-to-sit-with-defer-the-choice) on the count only**
+
+Add **Theme 3 — thematic investment research, Citrini-shaped** to the set carried alongside D4's two.
+The deferral D4 established is unchanged: **still no choice.** All three are now scored on one sheet
+in [04-niches.md](research/04-niches.md#three-theme-comparison-2026-08-29).
+
+**Driven by:** the [Citrini case study](resources/summaries/citrini-research.md), which is what made
+this a live option rather than a topic — 258k subscribers in three years, a proven **$999/yr** price
+against beehiiv's $27/mo investing median, and a two-layer structure with an institutional research
+arm behind the Substack. It could not have been proposed without that read.
+
+**What the comparison established, none of it a decision:**
+- **[L18](LEARNINGS.md) — the price argument does not survive the arithmetic at achievable scale.**
+  Citrini's Substack earns **~$3.87 per subscriber per year** against Poyar's ~$17.65. The $999 price
+  only pays above roughly 50,000 subscribers; below that one sponsor beats the whole paid funnel.
+  **Theme 3's advantage is the institutional layer, not the publication.**
+- **Theme 3 is the strongest endgame and the weakest entry.** It scores lowest of the three on the two
+  axes this project keeps finding decisive — [L14](LEARNINGS.md) (an unfair input; Citrini's growth was
+  an **audience migration off X**, not a cold start) and [C6](LEARNINGS.md) (weak competition; finance
+  Substack is the most crowded category in the research).
+- **It is the only theme carrying a regulatory and liability load**
+  ([06](research/06-theme3-investment-research.md)), and the only one whose failure mode is public and
+  permanent.
+- **⚠️ Theme 3's subject matter is largely Theme 1's, told to investors instead of operators** — and
+  Theme 1's deep dive already found that investors arrive as a byproduct. The reverse is not true.
+  **Not choosing Theme 3 now costs less than it appears to.**
+
+**Rejected alternative:** Deciding now. The evidence is uneven — T1 and T2 have had dedicated deep-dive
+sessions, T3 has one case study, no competition scan and no advertiser map — and the comparison ends
+with the same recommendation the T1/T2 one did: **three to four weeks of actual writing answers more
+than another scan.**
+
+**Would change our mind — one fact, and it flips the ranking:** whether the user has an **existing
+markets following or public track record.** With it, Theme 3's weakest scores both move and its entry
+cost collapses. Without it, it asks for a cold start in the most crowded category under a regulatory
+load. **This is not recorded anywhere in the project.**
+
+**⚠️ [D2](#d2--treat-the-employer-overlap-as-an-open-unresolved-dependency) gains a new question, not just a new subject.** Signal Ocean is a market-data
+business serving traders; employers in that line commonly run **personal account-dealing and
+outside-publication policies** that bite regardless of whether the subject matter competes. That is a
+different question from the competitive overlap D2 was opened for, and it applies to Theme 3 only.
 
 ---
 

@@ -9,7 +9,7 @@ belong in the relevant `research/` file. Keep this skimmable; prune when it isn'
 **Confidence** reflects both the strength of the evidence and how many *independent* sources
 support it. A single source, however credible, is rarely `high`.
 
-_Status: 15 resources studied. Nothing here is final — several entries have real counter-evidence,
+_Status: 15 resources studied (19 summaries on file). Nothing here is final — several entries have real counter-evidence,
 which is noted rather than smoothed over._
 
 ---
@@ -139,6 +139,38 @@ Monetization happens against the retained layer, never the rented one.
 [The Hustle](resources/summaries/sam-parr-hustle-growth-in-reverse.md) ·
 [Poyar](resources/summaries/kyle-poyar-growth-unhinged-1-5m-solo.md) ·
 [Stebbings (notes)](resources/summaries/harry-stebbings-media-playbook-notus.md) · **Confidence: high**
+
+---
+
+### L18 — Even in the top-priced vertical, subscription revenue per subscriber is several times below ad-led revenue per subscriber
+Derived by putting the three revenue figures on one basis (arithmetic done in
+[04-niches.md §3](research/04-niches.md), not stated by any source):
+
+| | Total subs | Revenue counted | **Per total sub/yr** |
+|---|---|---|---|
+| **Citrini** — Substack layer only, ~1,000 paid at $999 | 258,000 | ~$999k | **~$3.87** |
+| **beehiiv investing vertical** — subscriptions only | 5,000 | ~$13,600 | **~$2.72** |
+| **Poyar** — ads + subs + consulting | 85,000 | ~$1.5M | **~$17.65** |
+
+**A $999 price is what a 0.4% conversion buys**, and 0.4% of a small list is nothing: Citrini needed
+**258,000 subscribers to reach 1,000 paying ones.** Below roughly 50,000 subscribers a single sponsor
+at $2,000/month beats the entire paid funnel ([05-strategy](research/05-strategy.md), Inversion 1).
+
+**This is L4 confirmed by its most likely counter-example.** Citrini looked like the case where the reader outbids the
+advertiser; on a per-subscriber basis it is not. The real business is the institutional arm behind the
+Substack (L6) — the visible
+~$1M is *"almost certainly the smaller half."*
+
+**⚠️ Order of magnitude, not a measurement.** Citrini's paid count and price are secondary-sourced;
+its Substack carries revenue this line doesn't capture; Poyar's figure is a blended run-rate including
+consulting. **And note top-decile finance conversion is 18-20% (L11) — 45x Citrini's rate**, so a
+differently-shaped investing publication has far better economics than Citrini's. *Choosing the
+investing vertical and copying Citrini's structure are not the same decision.*
+
+**Source:** [Citrini](resources/summaries/citrini-research.md) ·
+[beehiiv](resources/summaries/beehiiv-state-of-paid-newsletters-2026.md) ·
+[Poyar](resources/summaries/kyle-poyar-growth-unhinged-1-5m-solo.md) · **Confidence: medium** — the
+inputs are sound, the comparison is derived here rather than sourced
 
 ---
 
