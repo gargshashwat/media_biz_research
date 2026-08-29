@@ -25,6 +25,23 @@ out of X and Substack since 2023.
 8. **Engage subscribers** — ask what they're interested in, take custom requests.
 9. **Launch paid tier later; hire analysts later.**
 
+### Parked ideas — for much later
+
+**Custom reports for VC / private markets.** Cover themes that are hot in private markets but have no
+clean public-market expression yet — new startup categories, PE roll-up theses, emerging sectors
+before they list. Sold as bespoke research rather than published to the list.
+
+*Why this is worth keeping:* it is the highest-value version of [L6](../LEARNINGS.md) — the money is
+in the adjacent business, not the media. It also matches how every case in this project actually
+monetized: Citrini's institutional arm, Poyar's consulting (50% of his time), Fuller's adjacent
+businesses, Stebbings' fund. **And VC/PE is the one audience segment where a single report can be
+worth five figures**, because the reader's decision is worth seven or eight.
+
+*⚠️ Two cautions:* custom research is **consulting, not media** — it doesn't scale, it competes for
+the same hours as writing, and it pulls toward client work over audience building. And it only
+becomes possible once the publication has established credibility with that audience, so it is
+genuinely a later-stage move, as noted.
+
 ---
 
 ## Annotations against the research
