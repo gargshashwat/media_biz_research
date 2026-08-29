@@ -122,6 +122,111 @@ Bloomberg reported Citrini's founder was *"shocked"* his scenario piece moved ma
 
 ---
 
+## ⚠️ Regulatory background — publishing investment opinions
+
+> **This is general, factual background gathered as research. It is not legal advice, and I am not a
+> lawyer. Jurisdiction changes the answer substantially, and this needs qualified professional advice
+> before anything is published commercially.** Recorded here because it is a real cost and constraint
+> that Themes 1 and 2 do not carry.
+
+### The core distinction: publisher vs. adviser
+
+Most regimes separate **impersonal commentary published to everyone** from **advice given to a
+person**. Publishing is broadly permitted; advising for compensation is a regulated activity.
+
+**United States.** The Investment Advisers Act contains a **publisher's exclusion**, shaped by the
+Supreme Court in *Lowe v. SEC* (1985). Broadly, a publication may fall outside adviser registration
+if it is:
+1. **Bona fide** — a genuine publication, not a front for promoting holdings;
+2. **Of general and regular circulation** — a real schedule, not timed to market events;
+3. **Impersonal** — not tailored to any individual's situation.
+
+Cross into personalized advice for compensation and you are likely an **investment adviser**, which
+means SEC or state registration.
+
+**United Kingdom.** The FCA's **financial promotion** regime (s21 FSMA 2000) is stricter: an
+invitation or inducement to engage in investment activity generally must be made or approved by an
+authorised person unless an exemption applies. A journalism exemption exists but is **narrower than
+the US publisher's exclusion**, and the FCA has been **actively pursuing "finfluencers."**
+
+**EU.** Investment advice is regulated under **MiFID II**. Separately, **Market Abuse Regulation
+(MAR) Article 20** governs *investment recommendations* — obligations to disclose methodology,
+conflicts and positions. **MAR obligations apply even to non-professionals** producing
+recommendations, in lighter form.
+
+### ⚠️ What applies regardless of any exclusion
+
+The publisher's exclusion is not a shield against everything. These persist:
+
+- **Anti-fraud rules.** You cannot lie, omit material facts, or mislead. This is not waivable.
+- **Scalping / touting.** Holding a position, recommending it, then selling into the buying you
+  created is the classic enforcement case. **Disclose positions.**
+- **Paid promotion disclosure.** In the US, Securities Act §17(b) requires disclosing compensation for
+  promoting a security. **This is what actually catches influencers** — the 2022-onward social-media
+  enforcement wave, including the Kardashian/EthereumMax settlement.
+- **General advertising/endorsement rules** (FTC and equivalents) on sponsored content.
+
+### On "influencers do it, so it must be fine"
+
+**⚠️ This is the assumption to be most careful with.** Three things are true at once:
+
+1. **Many do operate in a grey zone**, and most are never pursued — enforcement is selective and
+   capacity-constrained.
+2. **Enforcement is real and increasing.** The SEC, FCA and ESMA have all pursued finfluencers, and
+   the UK has been notably aggressive.
+3. **The ones who scale do formalize.** Citrini has a company, terms of service, and runs its capital
+   arm (**Citrinitas Capital Management**) as a **separate entity** from the research business. That
+   separation is itself the informative detail — it is the standard structure precisely because the
+   activities are regulated differently.
+
+**Visibility raises risk non-linearly.** A small anonymous account is unlikely to attract attention;
+a publication that moves markets is a different proposition. Citrini's February 2026 piece moved the
+whole market and drew Bloomberg and CNBC coverage — **success is what creates the exposure.**
+
+### Does forming a company help?
+
+**A company limits personal liability. It does not grant permission to do a regulated activity** —
+it is the *activity* that is regulated, not the entity. Generally prudent to have one; not a
+substitute for authorization where authorization is required. **Professional indemnity / E&O
+insurance is the practical protection** most publishers rely on.
+
+### The practical de-risking pattern
+
+What publishers who stay on the right side of the line generally do:
+- Publish on a **regular schedule to a general audience**, not on request
+- Give **impersonal commentary**, never individual recommendations
+- **Disclose positions** in anything discussed
+- **Disclose paid promotion** clearly
+- Maintain **terms of service and disclaimers** *(note: disclaimers signal intent; they do not
+  override the law)*
+- **Never take custody of money or manage accounts**
+
+**The line in practice:** *"here's why defence procurement is likely to accelerate, and these are the
+companies exposed"* sits very differently from *"you should buy X."* Themes and analysis are safer
+ground than specific personal recommendations.
+
+### ⚠️ And the fund is categorically different
+
+An actual fund — taking outside money — requires authorization, registration, compliance, custody
+arrangements and LP obligations in every major jurisdiction. **There is no grey zone.** This is not a
+step up from publishing; it is a different business requiring specialist legal and compliance advice
+from the outset.
+
+### What this means for the theme comparison
+
+**Theme 3 carries a regulatory and liability load that Themes 1 and 2 do not.** Deep-tech deployment
+analysis and commodity supply-chain stories create no equivalent exposure. That is a real cost —
+legal setup, insurance, disclosure discipline, and a permanent constraint on how you write.
+
+**Two open questions before pursuing this:**
+1. **Which jurisdiction?** It is the variable that determines nearly everything above, and the answer
+   is not recorded anywhere in this project.
+2. **Themes, or tickers?** Staying at the thematic level is materially lower-risk than naming
+   securities. It also happens to be Citrini's stated positioning — *baskets and megatrends*, not
+   single-name calls.
+
+---
+
 ## Where this theme sits against the other two
 
 | | Theme 1 — deep tech | Theme 2 — commodity supply chains | **Theme 3 — investment themes** |
