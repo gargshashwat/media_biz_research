@@ -174,6 +174,41 @@ inputs are sound, the comparison is derived here rather than sourced
 
 ---
 
+### L19 — ⚠️ L4's boundary condition: the advertiser outbids the reader only where a deep vendor ecosystem sells to that reader
+**L4** holds wherever an industry of suppliers wants the reader's attention — B2B SaaS vendors
+chasing growth leaders (Poyar), risk software and price reporting agencies chasing procurement leads
+([04-niches](research/04-niches.md) Theme 2, twelve aligned categories). **It is a claim about the
+supply of bidders, not about professional audiences as such.**
+
+**Professional investors appear to be the exception.** Four independent signals, from the Theme 3
+advertising pass ([02-monetization](research/02-monetization.md) §4b):
+1. Institutional-side buyers — price reporting agencies, expert networks, prime brokers, alt-data —
+   buy through relationships and trade press, **not newsletter placements**.
+2. Regulated financial advertisers are slow, filing-bound, and **cannot cede ad copy control** under
+   FINRA 2210 — which partially breaks **L5**'s highest-margin tactic.
+3. **Neither Citrini nor Doomberg is visibly ad-led**, and both are the closest comparables.
+4. ⚠️ **Conditional:** ETF issuers may not buy newsletter placements at all — unverified, and the
+   stress-test premise that produced this entry.
+
+**The mechanical consequence matters more than the score.** **L5**'s yield model — constrain
+inventory, sell out, then raise prices — **requires excess demand.** A pool of a handful of realistic
+buyers has no queue, category exclusivity is worth little, and the publisher is a **price-taker**.
+
+**The practical test before assuming an ad-led model:** *name six advertisers who are already buying
+placements aimed at this exact reader.* If you cannot, the reader is likely the better payer — which
+is why the top publications in this vertical sell subscriptions.
+
+**⚠️ This does not restore the paid tier at small scale** — **L18**'s arithmetic is untouched. Where
+both routes are thin, the first money plausibly comes from **a person, not a placement**
+(**L6** — commissioned research, advisory), and the adjacent business moves earlier than
+[05-strategy](research/05-strategy.md) assumes.
+
+**Source:** [02-monetization](research/02-monetization.md) ·
+[06 competition scan](research/06-theme3-investment-research.md) · **Confidence: low-medium** — one
+branch of it is an explicit assumption, and the whole pass ran on search summaries with no page access
+
+---
+
 ## What actually differentiates
 
 ### L8 — Expertise lets you monetize a small audience; without it you need a very large one

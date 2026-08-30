@@ -178,6 +178,99 @@ publications this theme is modelled on appear to have done subscriptions first.
 
 ---
 
+## 4b. ⚠️ The pessimistic branch: what follows if ETF issuers don't buy at all
+
+**Conditional, not a finding.** §3 flagged ETF issuers as the conspicuous absence and said it was more
+likely a gap in the evidence than in the market. **This section takes the other branch and asks what
+the world looks like if they genuinely don't advertise in investment newsletters.** ⚠️ The premise is
+*not* established — some issuers are known to sponsor finance podcasts and media — so this is a stress
+test of [D7](../DECISIONS.md)'s monetization plan, not a revision of the record.
+
+### Why they'd be absent — the mechanism decides who else is absent
+Three explanations, and they generalise very differently:
+
+1. **Channel mismatch.** An issuer's actual customer is the **allocator** — advisors, RIAs, model
+   portfolios, institutional gatekeepers — reached through wholesalers, platforms and trade press.
+   A reader who *trades* is not a reader who *allocates*. ⚠️ **If this is the reason, it applies to
+   every allocator-facing advertiser, not just ETFs.**
+2. **No attribution.** A fund purchase executes through a broker, so the issuer cannot measure a
+   newsletter's contribution. Newsletter advertising is dominated by advertisers with a trackable
+   signup precisely because attribution is the product. ⚠️ **If this is the reason, it excludes every
+   non-direct-response advertiser** — which is most of the deep-pocketed ones.
+3. **Compliance cost per placement.** Fund marketing carries filing, standardized-performance and
+   prospectus obligations on top of [FINRA 2210](#2-️-the-finding-that-changes-how-ads-have-to-be-sold-in-this-vertical).
+   ⚠️ **If this is the reason it is a friction, not a wall** — surmountable at scale, not by a small
+   publisher.
+
+**All three point the same way for a small publication.** Reasons 1 and 2 are the more likely, and
+both are structural rather than temporary.
+
+### What it changes — the ad model for this theme goes thin, not absent
+Combined with §3's other finding — that **institutional-side buyers (price reporting agencies, expert
+networks, prime brokers, alternative-data vendors) buy through relationships and trade press, not
+newsletter marketplaces** — the realistic advertiser base collapses to **Tier 1 only**: research and
+data tools, conferences, recruiters, education.
+
+**⚠️ Revise Theme 3's advertiser depth from 3 to 2** in the
+[scoresheet](04-niches.md#2-the-scoresheet). For comparison, Theme 2 scored **5** on twelve
+structurally-aligned categories, and Theme 1 scored 4.
+
+**And the mechanical consequence is sharper than the score suggests:**
+
+> **[L5](../LEARNINGS.md)'s yield model requires excess demand.** Poyar constrained inventory to one
+> slot, **sold out**, then raised prices — that works because advertisers were queuing. **A pool of
+> perhaps six realistic buyers has no queue.** Category exclusivity is worth little when the category
+> has two members, and a publisher facing a handful of possible advertisers is a **price-taker**, not
+> a yield manager. The [§1 gap](#1-what-finance-newsletter-advertising-is-reportedly-worth) between
+> CPM pricing and ROI pricing resolves toward CPM — the low end.
+
+### ⚠️ The conclusion, and it is the significant one
+**Four independent signals now point the same way:**
+1. ETF issuers absent *(this branch's premise)*
+2. Institutional buyers don't buy newsletter placements (§3, Tier 3)
+3. Regulated advertisers are slow, compliance-bound and cannot cede copy control (§2)
+4. **Neither Citrini nor Doomberg is visibly ad-led** (§4)
+
+**Read together: investment research looks like a subscription-and-relationship business, not an
+advertising business** — unlike B2B SaaS commentary (Poyar) or supply-chain risk (Theme 2), where a
+deep vendor ecosystem is bidding for the reader. **This is the boundary condition on
+[L4](../LEARNINGS.md)** — see [L19](../LEARNINGS.md).
+
+**⚠️ What it does *not* say.** It does not restore the paid tier as the early business:
+[L18](../LEARNINGS.md)'s arithmetic is untouched, and a $999 tier still needs a very large free list.
+**Under this branch, neither of the two standard early revenue routes works at small scale.** The
+honest consequences:
+
+- **Plan for a longer zero-revenue runway than [05-strategy](05-strategy.md) implies.** ⚠️ This is
+  survivable only because the day job is staying ([C4](../LEARNINGS.md)), and it makes surviving the
+  middle — already named the real risk — harder rather than easier.
+- **Expect the first real money to come from a person, not a placement.** Commissioned or bespoke
+  research, advisory, a private-market client ([L6](../LEARNINGS.md)) — the *"custom reports for
+  VC / private markets"* idea parked in the sketch above, which
+  [§5's MiFID II finding](06-theme3-investment-research.md) independently upgraded. **The adjacent
+  business moves earlier than [05-strategy](05-strategy.md)'s Stage 4.**
+- **⚠️ But do not turn it into consulting-first.** It competes for the same 5-10 hrs
+  ([L15](../LEARNINGS.md)), doesn't scale, and O'Shea's case shows client work crowding out the
+  writing. The point is what the first cheque plausibly *is*, not what to chase.
+- **It shifts value from reach to trust — which favours this operator specifically.** A thin ad market
+  punishes audience-volume plays and rewards credibility-led ones, and credibility is precisely what
+  the Citadel/BP/PhD background supplies
+  ([06 §4](06-theme3-investment-research.md)). ⚠️ It does nothing for the cold-start problem.
+
+**⚠️ Recorded for accuracy, not to reopen:** this branch widens the gap that already existed between
+Theme 2 and Theme 3 on the [scoresheet](04-niches.md). [D7](../DECISIONS.md) was made knowing Theme 3
+ranked third, and stands.
+
+### Cheapest ways to settle the premise
+1. **Read the ad slots in four ad-supported investing newsletters** (Compounding Quality, Exec Sum,
+   The Daily Upside, a Lane A publication) and simply list who appears. One hour with a browser
+   answers it better than any amount of search.
+2. **Email two data-tool vendors** (Koyfin, Fiscal.ai) and one thematic ETF issuer asking whether they
+   buy newsletter placements and at what size. ⚠️ A direct answer from a buyer outranks every source
+   in this file.
+
+---
+
 ## 5. What to verify first when page access is available
 In rough order of value:
 1. **Two or three real media kits** from ad-supported finance newsletters — the only way to replace

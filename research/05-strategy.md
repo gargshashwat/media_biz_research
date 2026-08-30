@@ -151,5 +151,10 @@ as a genuine decision point rather than a formality.
 1. **20 consecutive weeks not achieved in Stage 0** → the cadence is wrong, or the topic is.
 2. **No single outperforming piece by month 18** → the angle isn't differentiated; change it or stop.
 3. **No sponsor interest at 5,000 professional subscribers** → the audience isn't monetizable; the
-   persona is wrong ([D1](../DECISIONS.md)).
+   persona is wrong ([D1](../DECISIONS.md)). ⚠️ **Miscalibrated for Theme 3 — revised 2026-08-30.**
+   [L19](../LEARNINGS.md) finds the advertiser pool for professional investors is thin, and the two
+   closest comparables are subscription-first. **Absence of a sponsor is therefore weak evidence about
+   the audience here**, and killing on it could kill a working publication. **The Theme 3 version:
+   *nobody with budget — sponsor, subscriber, or client — engages at 5,000 readers.*** Test all three
+   routes before concluding the persona is wrong.
 4. **The sponsor doesn't renew** → you sold access you didn't deliver.
