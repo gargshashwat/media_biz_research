@@ -1350,3 +1350,147 @@ sessions: **Theme 1 risks an unreachable audience; Theme 2 risks a worthless one
 is solved by finding a channel. Theme 2's is solved by weekly editorial discipline. **Neither is
 solvable by choosing harder — both are testable in about a month of actual writing**, and that is the
 recommended next step rather than a further scan.
+
+---
+
+# Theme selection framework
+**Added:** 2026-08-30 · **Status:** method, not a decision · **Scope:** theme only — format is a
+downstream choice and is deliberately excluded
+
+How to choose between candidate themes ([D4](../DECISIONS.md) currently carries two, plus the
+Theme 3 sketch in [06](06-theme3-investment-research.md)). Written before a choice is made, so the
+criteria can't be reverse-engineered from a preferred answer.
+
+## ⚠️ Why not just re-use the six-axis rubric
+
+**The [rubric above](#the-rubric) is a screening instrument. It has already failed once as a
+selection instrument, in this file.**
+
+- The Tier 1 table clusters: **26, 25, 25, 24, 24, 24**. Six candidates inside two points, on axes
+  scored by desk judgement. That spread is inside the noise.
+- **[D3](../DECISIONS.md) rejected the top scorer (26) on judgement anyway** — edge and durability
+  overrode the total. So the total was not what made the decision even when it existed.
+- **[D4](../DECISIONS.md) then superseded D3 entirely**, one day later, on a consideration the rubric
+  does not contain at all: whether the thing is still writable in year three.
+- The competition axis in particular is the noisiest input in this file — **revised 5→2 for
+  AI × shipping**, 4→2 for physical AI, and "two large incumbents" corrected to one. Three revisions
+  on one axis; it should not carry the same weight as the others.
+- Two axes are not independent. **Commercial intent and advertiser depth measure nearly the same
+  thing** ([L2](../LEARNINGS.md) → [L4](../LEARNINGS.md)) and score 5/5 together in eleven of twelve
+  Tier 1 rows, silently double-weighting one variable.
+
+**Rule taken from this: do not produce a total again.** Screening ranks many options cheaply.
+Selection compares two or three options honestly. They are different jobs.
+
+## The framework
+
+**Four gates, three discriminators, one tie-break, then stop analysing and test.**
+
+### Layer 0 — State each theme in a form that can be judged
+
+A theme is **a reader plus a standing question**, not a subject. "Commodities" is a subject;
+*"what a physical trade actually costs, told as a story, for people who move cargo"* is a theme.
+
+Two tests before a candidate enters the comparison:
+
+1. **50 headlines.** Write fifty specific pieces the theme would produce. Fewer than fifty and it is
+   a beat, not a theme. This is the cheapest available proxy for [C5](../LEARNINGS.md)'s
+   narrow-vs-broad problem and for D4's "too narrow to write weekly for years."
+2. **What it excludes.** A theme that excludes nothing has no editorial identity and will drift into
+   whatever performs — the exact failure [D5](../DECISIONS.md) flags as risk #1.
+
+### Layer 1 — Gates (binary; failing one removes the candidate, no score compensates)
+
+| Gate | Test | Backed by |
+|---|---|---|
+| **Capacity** | Producible weekly at ~4 effective craft-hours, after [L15](../LEARNINGS.md) takes half the budget for distribution — and at the raised bar [D5](../DECISIONS.md) sets, since fun costs more than commentary | C4, L15, D5 |
+| **Commercial intent** | The reader makes or saves money, and someone wants to sell to them at that moment | D1, L1, L2 |
+| **Employer conflict** | Clears [D2](../DECISIONS.md), or survives being written with nothing from the day job | D2 |
+| **Durability** | The value still exists in three years — free substitutes don't erode it ([L12](../LEARNINGS.md) is the cautionary case at 13.33% monthly churn) | L12 |
+
+Gates are where the capacity filter belongs. **Scoring capacity 3/5 lets a theme that can't be
+produced survive on the strength of its advertisers** — which is how an unwritable option reaches a
+shortlist.
+
+### Layer 2 — Discriminators, in strict priority order
+
+Not summed. Applied in order, and **a clear win on an earlier one is not overturned by a later one.**
+
+**1. Endurance — will you still be doing this in year three?**
+The highest-weighted axis, because [L13](../LEARNINGS.md) says every case took years and
+[05-strategy](05-strategy.md) says the plan should be optimised for surviving the middle. Lenny's
+reason for staying broad was not strategic: *"I don't care about product management that much"*
+([C5](../LEARNINGS.md)).
+
+Tests, in descending order of honesty:
+- How many hours have you already spent on this voluntarily, for free, before any of this existed?
+- Would you keep reading it if you never published?
+- Whose work in this space do you envy? A theme with nobody you want to be is a bad sign.
+
+**2. Edge — inherited, or buildable?**
+[L14](../LEARNINGS.md): every success studied had an unpriced advantage. [L9](../LEARNINGS.md): the
+only one buildable from nothing is preparation. So the question is not "do I have an edge" but
+**"can I have one within 12 months, at 5-10 hrs/week?"** — and if not, [L8](../LEARNINGS.md)'s
+substitute applies: are you your own audience?
+
+**3. Nameable advertisers.**
+Replaces the "advertiser depth 1-5" score with something falsifiable: **name ten companies with an
+existing budget line to reach this reader, and the person who holds it.** If the list is generic
+categories rather than names, the 5/5 was fiction. [L5](../LEARNINGS.md) prices on the advertiser's
+ROI, which requires knowing the specific advertiser's deal size.
+
+**Demoted on purpose:** weak competition ([C6](../LEARNINGS.md)) drops to a check, not a
+discriminator — it is the least reliable axis in this file, and the
+[meta-finding above](#the-meta-finding-the-roll-up-pattern-is-already-being-farmed) shows the useful
+version is qualitative anyway: *who subsidises the incumbent, and is the neutral slot open?*
+
+### Layer 3 — Tie-break: regret asymmetry, not score
+
+When two themes survive Layer 2 close together, decide on **cost of being wrong**, and the governing
+fact is that **the theme's two halves are wildly different in reversibility**:
+
+| Component | Reversible? | Evidence |
+|---|---|---|
+| **Subject matter** | Cheaply — drift within a persona is normal | Lenny broadened from Airbnb-specific growth; Stebbings narrowed then widened ([C5](../LEARNINGS.md)) |
+| **Reader persona** | Barely | It sets the ad rate and the price ceiling; [L1](../LEARNINGS.md) puts ~100x between a retail and a professional reader |
+| **Price point** | Almost not at all | Fuller raised $8→$30 and **lost 70% of subscribers** ([05-strategy](05-strategy.md)) |
+
+**So the theme decision is mostly a persona decision, and most of that persona is already fixed** —
+[D1](../DECISIONS.md) sets commercial intent, [D5](../DECISIONS.md) sets an operator reader and an
+entertaining register. **The live variable is which operator, and the subject is the cheap half.**
+That is the single largest simplification available here: stop weighing subjects against each other
+and ask which reader you want to be writing to in 2029.
+
+Second tie-break, if still level: **which ceiling do you want?** [L6](../LEARNINGS.md) says the money
+is in the adjacent business, and the themes have genuinely different Stage 4 endpoints — research
+tier → advisory → capital, versus podcast → book → broad sponsorship. Choose the one whose endgame
+you'd accept, not the one with the better start.
+
+### Layer 4 — Stop analysing; the rest is only answerable by publishing
+
+Everything above is a desk exercise, and the sections before it show diminishing returns clearly:
+three passes, two supersessions, three competition revisions, no new information about whether anyone
+wants to read this. The residual questions — does the theme renew, does the register land, will a
+reader reply — **are not answerable by another scan**, which [PROJECT.md](../PROJECT.md) already names
+as the trigger to stop researching and start producing.
+
+The cheap tests, in order of cost:
+
+1. **Three pieces per finalist**, written but not necessarily published. **The signal is whether the
+   third was easier or harder than the first** — that is the renewability test, and it is the one
+   thing no amount of scanning produces.
+2. **Five reader conversations.** Not "would you read this" — *what did you last pay for, and what
+   did you last forward to a colleague.*
+3. **Three advertiser conversations** against the Layer-2 names. One question: *do you have a budget
+   line for reaching these people today, and what do you spend it on?* [L5](../LEARNINGS.md) and the
+   [05-strategy](05-strategy.md) arithmetic both make one sponsor worth ~5x a median subscription
+   funnel at 5,000 subscribers, so this is the highest-value conversation available.
+4. **The 20-week Lindy test** — [05-strategy](05-strategy.md) Stage 0. ⚠️ **You can only afford to
+   run this once**, which is what makes the choice worth making properly and then leaving alone.
+
+### What to write down when the choice is made
+
+A [DECISIONS.md](../DECISIONS.md) entry naming (a) the gate that eliminated each loser, (b) which
+discriminator decided it, (c) the would-change-our-mind observation, and (d) **a re-open moratorium** —
+the date or gate before which the theme is not revisited. D3 → D4 took one day; the cost of that was
+low then and will be high after Stage 0 starts.
