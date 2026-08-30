@@ -1664,3 +1664,88 @@ all three are answerable by writing rather than reading:
 
 That is roughly three to four weeks of the existing budget, produces the Stage 0 habit either way
 ([05-strategy](05-strategy.md)), and answers more than another scan would.
+
+---
+
+## 13. The user's read on the comparison, and what the evidence says (2026-08-30)
+**Still no decision.** Recorded because it sharpens three things the comparison above got only partly right.
+
+### Claim 1 — "Theme 3 is easier: audience building and initial research both"
+
+**Half-credited, and the correction matters.**
+
+**On audience: the right word is *faster*, not *easier*.** Finance X/Substack scores 5 on reachability
+and Citrini went 0 → 258k in three years, faster than every case in [L13](../LEARNINGS.md). But the
+case study's own caveat is that this was an **audience migration off an existing X following, not a
+cold start**, and the field is the most crowded in this research ([C6](../LEARNINGS.md)).
+
+**⚠️ Inference, not a finding:** financial content has a **built-in scoreboard** — a call is dated and
+gradeable, so a right one produces shareable proof. Nothing in Theme 1 or 2 has that. The honest
+statement is that **Theme 3 has the highest-variance distribution of the three: a much better ceiling
+and a much better speed, on an unknown and probably worse median.** Themes 1 and 2 grow slowly and
+predictably; Theme 3 either catches or doesn't.
+
+**On research: easier to *do*, harder to be *differentiated* with.** Sourcing scores 4 for Theme 3
+because the data is public and abundant. But so is everyone's — thousands of full-time professionals
+read the same filings, transcripts and prices. Compare:
+
+| | Where differentiation comes from | What the public data is |
+|---|---|---|
+| **T1 / T2** | Reading documents almost nobody reads | ⭐ **The moat** ([L8](../LEARNINGS.md), [L9](../LEARNINGS.md)) |
+| **T3** | Framing and synthesis of documents everyone reads | ⚠️ **Table stakes** |
+
+**⚠️ But this cuts in Theme 3's favour once [D5](../DECISIONS.md) is applied.** D5 already committed to
+**craft and register as the differentiator**. Theme 3 is the one theme where that differentiator alone
+has produced a documented top-tier outcome: Citrini's market-moving February 2026 piece was a
+**fictional memo**, and Citrini's thesis is that *narrative is the analytical method*, not decoration.
+**If the user's real edge is storytelling rather than domain access, Theme 3 is the theme most
+consistent with D5** — and that argument was missing from §1-12 above.
+
+### Claim 2 — "Theme 1 seems too niche; or maybe that's an advantage"
+
+**⚠️ The question splits in two, and the halves have opposite answers.**
+
+- **Too niche *commercially*? No — that is the point of the whole project.**
+  [L1](../LEARNINGS.md) (revenue per head dwarfs audience size), [L8](../LEARNINGS.md) (expertise
+  monetizes a small audience) and [D1](../DECISIONS.md) all say small-and-qualified is the design, not
+  the compromise. *Extra Points* does **$200k+/yr from 2,000 paying readers**
+  ([beehiiv](../resources/summaries/beehiiv-state-of-paid-newsletters-2026.md)). Theme 1's ~85k
+  universe is a Poyar-shaped ceiling — a good living, not a media empire, and that was known.
+- **Too niche *to sustain writing for four years*? Yes — and that is exactly why
+  [D4](../DECISIONS.md) exists.** D4 widened away from the D3 shortlist because those options were
+  *"narrow enough to become a chore."* [C5](../LEARNINGS.md) is unresolved on precisely this axis.
+
+**So the instinct is right, but about cadence and stamina, not about market size.** And note it is
+still not Theme 1's recorded main risk, which is **reachability** — the buyer persona doesn't
+congregate anywhere cheap. **The concrete Theme 1 kill signal: if you cannot name, in one sentence,
+the place where the hard-tech seller persona already gathers, the theme fails on distribution before
+niche-ness ever becomes the problem.**
+
+### Claim 3 — "Citrini shows quality plus luck plus publicizing a few good calls can work"
+
+**Accepted as a strategy, with its requirements made explicit.** The user already prices in the luck,
+so the useful contribution is not to repeat the survivorship warning in the
+[case study](../resources/summaries/citrini-research.md) but to state what a few-good-calls strategy
+structurally needs:
+
+1. **Enough shots.** "A few good calls" is a portfolio strategy — it needs volume of *differentiated*
+   calls. ⚠️ At 3-5 hrs/week of craft ([L15](../LEARNINGS.md)) that is perhaps 20-40 thematic pieces a
+   year, against a Citrini running **10+ analysts**. This is the binding constraint on the strategy,
+   and it is a capacity problem, not a talent one.
+2. **Dated, public, checkable calls.** A right call earns nothing if it wasn't timestamped. This is
+   free to do and has to start with the first piece.
+3. **⚠️ The cost of being wrong is at its *minimum* right now, and rises with success.** A wrong call
+   at zero audience costs nothing; Citrini's founder was *"shocked"* his piece moved markets. **This
+   is a genuine argument for testing Theme 3 early rather than later** — the risk the user correctly
+   identifies is the one thing that gets strictly worse with time.
+4. **[L18](../LEARNINGS.md) does not argue against the theme — it argues against the paid tier.** The
+   arithmetic vetoes *subscriptions as the early business*, and the user's own sketch already puts
+   **sponsorship (#6) before the paid tier (#9)**. The finding refines the plan rather than blocking it.
+
+### What this changes about the recommended test order
+
+§12 proposed testing all three by writing. **Theme 3 should go first**, for three reasons that have
+nothing to do with it being the favourite: it is the **fastest to falsify** (three dated pieces), the
+**cost of being wrong is lowest today** and only rises, and it is the only theme whose central
+question — *is my analytical view differentiated?* — **cannot** be answered by any amount of further
+desk research. Themes 1 and 2's central questions can each wait a month without decaying.
