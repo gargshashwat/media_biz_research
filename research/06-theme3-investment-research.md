@@ -20,7 +20,7 @@ out of X and Substack since 2023.
 4. **Build AI automations where possible.**
 5. **Grind to build subscribers and market well, going viral.** All free tier at this stage. Aim at
    professional investors, but experiment with formats — more fun, visuals, shorts.
-6. **First $100k revenue through sponsorship.**
+6. **First $100k revenue through sponsorship.** *(→ worked through in [02-monetization.md](02-monetization.md#the-path-to-100k) — the arithmetic, and why the paid tier may beat sponsorship to $100k in this specific niche.)*
 7. **Automate marketing** via hires and tools; also **buy other research reports.**
 8. **Engage subscribers** — ask what they're interested in, take custom requests.
 9. **Launch paid tier later; hire analysts later.**
