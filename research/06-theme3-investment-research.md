@@ -1,8 +1,12 @@
-# Theme 3 — Investment themes research (and, later, a fund)
+# Theme 3 — Investment themes research (and, later, a fund) · **CHOSEN**
 
-> ⚠️ **Rough notes. No decisions.** Captured 2026-08-26 at the user's request as a strategy sketch to
-> return to if this theme is chosen. **Themes 1 and 2 currently live inside
-> [04-niches.md](04-niches.md)** — worth consolidating if this one is pursued.
+> ✅ **THIS IS THE CHOSEN THEME as of 2026-08-30 — [D7](../DECISIONS.md).** This file is now the
+> live theme file and the notes below stop being a sketch to return to. **⚠️ Everything in it
+> predates the decision and none of it has been reworked yet** — the annotations, tensions and
+> regulatory background all still stand, and the section at the foot of this file lists what has to
+> happen next. Originally captured 2026-08-26 as a strategy sketch. Themes 1 and
+> 2 were not pursued and stay where they are, in [04-niches.md](04-niches.md), as the reasoning
+> behind the pick.
 >
 > **Updated 2026-08-29:** all three themes are now compared on one sheet in
 > [04-niches.md § Three-theme comparison](04-niches.md#three-theme-comparison-2026-08-29), and the
@@ -253,3 +257,55 @@ told to operators.** Same subject matter, different persona, different business.
    most competitive category in the project's research.
 3. **What's the unfair input?** Citrini had an X following and a distinctive analytical frame.
    Without one, this is the hardest of the three themes to enter.
+
+
+---
+
+# Now the chosen theme — what happens next (2026-08-30)
+
+[D7](../DECISIONS.md) picked this theme. **Nothing above was written with that status and none of it
+is invalidated by it** — but the following are now live work rather than notes.
+
+## Blocking before anything is published commercially
+1. **⚠️ Jurisdiction.** It determines nearly all of the regulatory background above and is **still not
+   recorded anywhere in this project.** Then qualified legal advice — *the background above is
+   research, not advice, and I am not a lawyer.*
+2. **⚠️ [D2](../DECISIONS.md) in its Theme 3 form.** Signal Ocean is a market-data business serving
+   traders; employers in that line commonly run **personal account-dealing and outside-publication
+   policies** that bite regardless of subject-matter overlap. This is a different question from the
+   competitive overlap D2 was opened for. **Have the conversation before publishing.**
+3. **Adopt the de-risking pattern from piece one** (see the regulatory section above): impersonal
+   commentary, regular schedule, disclosed positions, disclosed paid promotion, no custody of money.
+   **Themes, not tickers** — which is Citrini's own positioning and materially lower-risk.
+
+## The research that was never done for this theme
+Themes 1 and 2 each got a full deep-dive session; this one has one case study.
+1. **⚠️ A competition scan.** Finance Substack is the most crowded category in this research and it
+   has **never been scanned**. This is now the highest-value research task in the project.
+2. **⚠️ An advertiser map.** Themes 1 and 2 both have one ([04-niches](04-niches.md)); Theme 3 does
+   not — and [L18](../LEARNINGS.md) makes sponsorship the *first* revenue, so this matters early.
+3. **Read Citrini's actual editions.** Every claim about them here is from a compiled case study.
+4. **The open question from the sketch: publication, or fund?** Still unanswered, and they have almost
+   nothing in common operationally.
+
+## Planning constraints carried in from the comparison
+- **Sponsorship before the paid tier** — [L18](../LEARNINGS.md). Citrini's Substack earns
+  **~$3.87/subscriber/yr**; below ~50k subscribers one sponsor beats the entire paid funnel. ✅ The
+  sketch above already sequences it this way (#6 before #9).
+- **Decide the eventual price bracket now, launch it late** — the audience assembled sets the ceiling
+  ([05-strategy](05-strategy.md), Inversion 2).
+- **Dated, public, checkable calls from the first piece.** A right call earns nothing untimestamped,
+  and the whole thesis of a few-good-calls strategy rests on accumulating gradeable proof.
+- **⚠️ Volume is the binding constraint.** A few-good-calls strategy needs enough shots. At 3-5
+  hrs/week of craft ([L15](../LEARNINGS.md)) that is perhaps **20-40 differentiated pieces a year**,
+  against a Citrini running 10+ analysts. Format design should be judged against that number.
+- **Time-box "practise without publishing" to ~2 weeks.** Stage 0's gate is **20 consecutive weeks
+  published** ([05-strategy](05-strategy.md)).
+- **⚠️ The one unanswered question that shapes the plan:** whether the user has an **existing markets
+  following or public track record.** Citrini's three-year run was an audience migration off X, not a
+  cold start. Without one, the distribution plan needs an answer nothing in this research supplies.
+
+## The immediate test
+From [04-niches §12](04-niches.md): **write three thematic pieces, dated, and do not edit them
+afterwards.** It answers whether the analytical view is differentiated — the one question no amount of
+further desk research can settle — and it doubles as the start of Stage 0.

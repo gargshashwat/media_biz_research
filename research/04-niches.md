@@ -2,7 +2,12 @@
 
 Track A (domain edge) and Track B (open market scan), scored on a shared rubric and compared.
 
-**Status:** First detector pass complete, 2026-08-26. Eight candidates screened against public
+**Status: CLOSED 2026-08-30 — [D7](../DECISIONS.md) picked Theme 3 (thematic investment research).**
+Themes 1 and 2 are not pursued. Everything below is kept as the reasoning that led there; the
+three-theme comparison is §12-13 and the decision note is §14. **Do not re-litigate the pick here** —
+supersede D7 in [DECISIONS.md](../DECISIONS.md) if it needs reopening.
+
+First detector pass complete, 2026-08-26. Eight candidates screened against public
 evidence. **Everything here is a screening result, not a validated finding** — no reader interviews,
 no advertiser conversations, no revenue tests.
 
@@ -1749,3 +1754,36 @@ nothing to do with it being the favourite: it is the **fastest to falsify** (thr
 **cost of being wrong is lowest today** and only rises, and it is the only theme whose central
 question — *is my analytical view differentiated?* — **cannot** be answered by any amount of further
 desk research. Themes 1 and 2's central questions can each wait a month without decaying.
+
+---
+
+## 14. Decision — Theme 3 (2026-08-30)
+
+**Phase 4 closes here.** [D7](../DECISIONS.md) picks **Theme 3 — thematic investment research,
+Citrini-shaped, aimed at professional investors.** Themes 1 and 2 are not pursued.
+
+**What settled it:** the user's stated edge is **craft, storytelling and research — not domain
+access.** That input re-scores this file, because the edge column throughout was scored on domain
+adjacency. [D5](../DECISIONS.md) had already made craft the differentiator, and Theme 3 is the only
+theme where craft *alone* has produced a documented top-tier outcome — Citrini's market-moving
+February 2026 piece was fiction.
+
+**⚠️ Recorded against the scoresheet, not smoothed into it.** Theme 3 finished **third (43)**. The
+craft input lifts its edge score from 2 toward 3 — **not to 5, because craft is not a markets track
+record** — and it lifts Theme 2 too, whose flagship "trace" format is itself narrative. **Theme 2
+still leads on points.** The pick overrides the total deliberately, on the [D3](../DECISIONS.md)
+precedent, for the endgame ceiling, consistency with D5, and conviction — which
+[C5](../LEARNINGS.md) and [C4](../LEARNINGS.md) both treat as a real input over a four-year timeline.
+
+**What survives from the rejected themes:**
+- **Theme 1's subject matter largely survives** (§9) — Citrini's themes *are* deep tech. Same
+  material, investor persona.
+- **§3's arithmetic ([L18](../LEARNINGS.md)) now governs the monetization plan:** sponsorship first,
+  paid tier late and priced for professionals.
+- **§13's requirements for a few-good-calls strategy** — enough shots, dated and checkable, and the
+  capacity ceiling of 20-40 differentiated pieces a year at 3-5 hrs/week of craft — carry forward as
+  live planning constraints.
+
+**What this file no longer needs:** Theme 1 and Theme 2's competitor reads, advertiser scans and
+open questions. **⚠️ Theme 3's own competition scan and advertiser map were never done** and are now
+the priority research, in [06](06-theme3-investment-research.md).

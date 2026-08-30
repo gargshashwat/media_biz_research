@@ -3,8 +3,13 @@
 The synthesis — chosen format, niche, positioning, cadence, distribution, monetization sequence,
 and kill criteria.
 
-**Status:** Niche not yet chosen ([D4](../DECISIONS.md) — two themes still open). This file currently
-holds the **resourcing and sequencing model**, which is niche-agnostic.
+**Status (2026-08-30):** **Niche chosen — Theme 3, thematic investment research
+([D7](../DECISIONS.md)).** The staged model below was written niche-agnostic and **survives the pick
+unchanged**; it was in fact derived from the Citrini shape in the first place. ⚠️ Three Theme 3
+conditions from D7 attach to it: **jurisdiction and legal advice before publishing commercially**,
+**[D2](../DECISIONS.md)'s personal-dealing question resolved before publishing**, and **dated,
+checkable calls from the first piece.** Theme-specific detail lives in
+[06-theme3-investment-research.md](06-theme3-investment-research.md).
 
 ---
 

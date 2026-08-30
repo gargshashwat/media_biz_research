@@ -208,7 +208,7 @@ entertaining register in this subject matter.
 ---
 
 ## D6 — Carry three themes, not two; the choice stays deferred
-**Date:** 2026-08-29 · **Status:** Active · **Supersedes [D4](#d4--two-broad-themes-to-sit-with-defer-the-choice) on the count only**
+**Date:** 2026-08-29 · **Status:** **Superseded by [D7](#d7)** (the choice was made 2026-08-30) · **Superseded [D4](#d4--two-broad-themes-to-sit-with-defer-the-choice) on the count only**
 
 Add **Theme 3 — thematic investment research, Citrini-shaped** to the set carried alongside D4's two.
 The deferral D4 established is unchanged: **still no choice.** All three are now scored on one sheet
@@ -249,6 +249,87 @@ load. **This is not recorded anywhere in the project.**
 business serving traders; employers in that line commonly run **personal account-dealing and
 outside-publication policies** that bite regardless of whether the subject matter competes. That is a
 different question from the competitive overlap D2 was opened for, and it applies to Theme 3 only.
+
+---
+
+## D7 — Theme 3 is the pick: thematic investment research, Citrini-shaped
+**Date:** 2026-08-30 · **Status:** Active · **Supersedes [D6](#d6)** and closes the deferral D4 opened
+
+**The niche is chosen.** Build a **thematic investment research publication** — themes and narratives
+translated into what the trade is — aimed at **professional investors**, in the
+[D5](#d5--fun-is-the-differentiator-the-operator-is-the-audience) register. Themes 1 (deep tech
+deployments) and 2 (commodity supply chains) are **not pursued**. Phase 4 is closed; work moves to
+[05-strategy](research/05-strategy.md) and [06](research/06-theme3-investment-research.md).
+
+**Driven by — the user's stated edge, which re-scores the comparison.** Asked what their advantage
+actually is, the user named **craft, storytelling and research** — *not* domain access. That is the
+load-bearing input, because the entire [three-theme scoresheet](research/04-niches.md#2-the-scoresheet)
+scored edge on domain adjacency:
+
+- **[D5](#d5--fun-is-the-differentiator-the-operator-is-the-audience) already committed to craft and
+  register as the differentiator**, and **Theme 3 is the only theme where craft alone has produced a
+  documented top-tier outcome.** Citrini's market-moving February 2026 piece was a **fictional memo**,
+  and Citrini's thesis is that narrative *is* the analytical method, not decoration
+  ([case study](resources/summaries/citrini-research.md)). Theme 3 is the choice most consistent with
+  a decision already taken.
+- **Highest endgame ceiling of the three** — the two-layer structure, institutional research and
+  capital behind the publication ([L6](LEARNINGS.md)).
+- **Highest commercial intent and the only proven premium price** — investing tops
+  [L1](LEARNINGS.md)'s revenue table; $999/yr is documented.
+- **The cost of being wrong is at its minimum now and rises with success**
+  ([04-niches §13](research/04-niches.md)) — the risk the user correctly identified is the one that
+  gets strictly worse with delay. Starting early is the cheap end of it.
+
+**⚠️ Recorded honestly: Theme 3 ranked *third* on the scoresheet (43 vs 51 and 46), and the craft
+input does not move it to first.** Craft raises Theme 3's edge score from 2 toward 3 — **not to 5,
+because craft is not a markets track record** — and it lifts Theme 2 as well, whose flagship format is
+itself narrative. **Theme 2 still leads the sheet.** This decision overrides the total deliberately,
+on the [D3](#d3) precedent that raw score does not decide (buy-side AI compute topped that table and
+was dropped), and on three things the total does not capture: the endgame ceiling, consistency with
+D5, and the user's conviction. **Conviction is itself evidence-supported** —
+[C5](LEARNINGS.md)/Lenny (*"I don't care about product management that much"* — breadth and interest
+are what make a six-year run survivable) and [C4](LEARNINGS.md)/O'Shea (*"I just love investing too
+much"*). At a 5-10 hr/week budget over the four-year timeline [L13](LEARNINGS.md) predicts, wanting to
+do it is a real input, not a tiebreaker.
+
+**Rejected alternatives.** **Theme 2**, which led the scoresheet on reachability, sourcing and
+advertiser depth — its employer overlap ([D2](#d2)) was a live gate, and its edge rested on
+physical-trade literacy rather than the craft edge the user actually claims. **Theme 1**, safest on
+risk and weakest on distribution; its unreachable-buyer problem was never solved. ⚠️ **Theme 1's
+subject matter is not fully lost** — Citrini's themes *are* deep tech (AI, robotics, defence), so the
+material survives told to investors rather than operators
+([04-niches §9](research/04-niches.md)).
+
+**Conditions attached — these are part of the decision, not caveats to it:**
+1. **⚠️ Jurisdiction must be resolved, and qualified legal advice taken, before publishing
+   commercially.** The regulatory load is real and is Theme 3's alone
+   ([06](research/06-theme3-investment-research.md)). Adopt the de-risking pattern from piece one:
+   impersonal commentary, regular schedule, disclose positions, disclose paid promotion, never take
+   custody. **Themes, not tickers.**
+2. **⚠️ [D2](#d2) gains its Theme 3 form and is now live:** Signal Ocean is a market-data business
+   serving traders, and employers in that line commonly run **personal account-dealing and
+   outside-publication policies** that bite regardless of subject-matter overlap. **Resolve before
+   publishing, not before planning.**
+3. **Sponsorship before the paid tier.** [L18](LEARNINGS.md) vetoes subscriptions as the early
+   business — Citrini's Substack earns ~$3.87/subscriber/yr, and below ~50k subscribers one sponsor
+   beats the whole paid funnel. The user's own sketch already sequences it this way.
+4. **Dated, public, checkable calls from the first piece.** A right call earns nothing untimestamped.
+5. **Time-box the "practise without publishing" step** to ~2 weeks. The Stage 0 gate stays
+   **20 consecutive weeks *published***, not written.
+6. **Decide the eventual price bracket now even though the tier launches late** — the audience you
+   assemble sets the ceiling ([05-strategy](research/05-strategy.md), Inversion 2).
+
+**⚠️ Still unanswered, and it shapes the plan rather than the decision:** whether the user has an
+**existing markets following or public track record.** Citrini's three-year run was an audience
+migration off X, not a cold start. Without one, the distribution plan needs an answer that no other
+part of this research supplies.
+
+**Would change our mind:**
+- **The Stage 0 gate missed** — 20 consecutive weeks not published ([05-strategy](research/05-strategy.md)).
+- **[D2](#d2) resolving badly on the personal-dealing question**, which could hard-rule the theme.
+- **A jurisdiction answer that makes independent publishing genuinely impractical.**
+- **Eighteen months in with no piece that travels** — in a market with a built-in scoreboard, that is
+  a clearer signal than in either rejected theme.
 
 ---
 
