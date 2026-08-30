@@ -452,15 +452,29 @@ had none. **Two of the three are now present.** ⚠️ **A defensible revision i
 would move Theme 3's total from 43 to 45 — **still short of Theme 2's 51.** Recorded for accuracy,
 not to relitigate: [D7](../DECISIONS.md) is made, and it was made knowing the total was third.
 
-### ⚠️ Two obligations this creates
-1. **Former-employer confidentiality.** Citadel and BP both impose confidentiality and IP terms that
-   typically survive employment. **Nothing proprietary — methods, data, positions, systems — can
-   appear**, and the credential must be used as biography, not as a claim to inside knowledge. **This
-   needs checking against the actual agreements, not assumed.**
-2. **How the credential is used is itself a regulatory surface.** Under the
-   **publisher/adviser distinction** set out in the regulatory section above, staking authority on an institutional pedigree while making
-   recommendations is exactly the fact pattern regulators look at. **Biography in the About page;
-   impersonal commentary in the writing.**
+### Obligations this creates
+
+**1. ✅ Former-employer risk — cleared by the user, 2026-08-30.** The user states they **will not write
+about their work at Citadel or BP**, and that they are **well past the non-compete period**. On that
+basis the credential is usable as **biography** and this is not carried as a live risk.
+
+⚠️ **One distinction worth keeping straight, because it changes nothing now and could later:** a
+non-compete and a confidentiality obligation run on **different clocks.** Non-competes expire;
+confidentiality and IP terms typically **survive indefinitely**. So what clears this is the *first*
+half of the statement — not writing about the work — rather than the non-compete having lapsed.
+**The permanent rule, unchanged: the pedigree is a byline, never a source.** No methods, data,
+positions or systems from either firm, at any distance in time.
+
+**2. How the credential is *used* stays open — and it is regulatory, not contractual.** Under the
+**publisher/adviser distinction** set out in the regulatory section above, staking authority on an
+institutional pedigree while making recommendations is exactly the fact pattern regulators look at.
+**Biography in the About page; impersonal commentary in the writing.** This belongs to the open
+jurisdiction question, and #1 clearing does not touch it.
+
+**3. ⚠️ [D2](../DECISIONS.md) concerns the *current* employer and is unaffected.** Signal Ocean, not
+Citadel or BP — the personal account-dealing and outside-publication question raised in
+[D7](../DECISIONS.md). **It remains one of the two blockers before publishing.** Past-employer risk
+clearing is not evidence about it.
 
 ---
 
