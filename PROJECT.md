@@ -30,8 +30,11 @@ are all in scope. Deliberately not committing to one; the choice should fall out
 research rather than precede it. Narrow once the trade-offs are actually understood.
 
 **Niche research — run two tracks and compare.**
-- *Track A — domain edge:* niches where I already have an unfair advantage (AI, sales/GTM,
-  B2B software). Faster credibility, smaller addressable audience, usually better monetization
+- *Track A — domain edge:* niches where I already have an unfair advantage. **Updated 2026-08-30:**
+  a maths PhD and quant research at **Citadel (equities)** and **BP (oil trading)**, alongside AI,
+  sales/GTM and B2B software. ⚠️ Institutional credibility and a cross-asset range — **not** a public
+  writing or social following. See [04-niches](research/04-niches.md) and
+  [06](research/06-theme3-investment-research.md) §4. Faster credibility, smaller addressable audience, usually better monetization
   per subscriber.
 - *Track B — open market scan:* niches selected purely on business attractiveness — high CPM,
   weak incumbent quality, monetizable and reachable audience — regardless of background.

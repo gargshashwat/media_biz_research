@@ -309,3 +309,212 @@ Themes 1 and 2 each got a full deep-dive session; this one has one case study.
 From [04-niches §12](04-niches.md): **write three thematic pieces, dated, and do not edit them
 afterwards.** It answers whether the analytical view is differentiated — the one question no amount of
 further desk research can settle — and it doubles as the start of Stage 0.
+
+---
+
+# Competition scan and positioning (2026-08-30)
+
+The scan [D7](../DECISIONS.md) recorded as missing. **⚠️ Same limitation as
+[02-monetization](02-monetization.md): web search only — page fetching was blocked all session, so
+every publication below is known from search-result summaries, not from reading it.** Subscriber
+counts are aggregator-reported. **Nothing here has been read.** This is a map of who exists, not a
+judgement of how good they are, and the brief's instruction to *read* the incumbents is still
+outstanding.
+
+---
+
+## 1. The field splits into two lanes that barely touch
+
+This is the main result of the scan, and it was not visible before running it.
+
+### Lane A — thematic, macro and narrative research
+| Publication | Who | Territory | Reported scale |
+|---|---|---|---|
+| **[Citrini Research](https://www.citriniresearch.com/)** | James van Geelen | Thematic equity + global macro, cross-asset | ⚠️ **212k** per one aggregator vs **258k** read live in Aug 2026 ([case study](../resources/summaries/citrini-research.md)) — see note |
+| **[Doomberg](https://newsletter.doomberg.com/)** | Anonymous team, ex-executives | Energy, commodities, macro; contrarian and entertaining | ~240k, subscription-first |
+| **[Net Interest](https://www.netinterest.co/)** | Marc Rubinstein, ex-hedge fund manager | Banks, insurance, fintech, financial plumbing | Sector specialist |
+| **[The Macro Compass](https://themacrocompass.substack.com/)** | Alfonso Peccatiello | Macro, liquidity, positioning | — |
+| **[Lead-Lag Report](https://www.leadlagreport.com/)**, **[fx:macro](https://www.fxmacro.info/)**, **MacroEdge**, **The Transcript**, **Eliant's Exploits**, **Macro Daily** | Various | Macro, flows, positioning, transcripts | — |
+| **Compounding Quality** | — | Quality equity investing | **~150k, and demonstrably ad-supported** (§3) |
+
+**Register: narrative-led.** Citrini's stated method is that *markets are driven by narratives* and
+the product is the story. This is the lane [D7](../DECISIONS.md) picked.
+
+### Lane B — quantitative technique
+| Publication | Who | What it actually is |
+|---|---|---|
+| **[Machine Learning & Quant Finance](https://blog.ml-quant.com/)** | Dr Derek Snow | ML applied to markets — reportedly tens of thousands of subs |
+| **[Harbourfront Quantitative Finance](https://harbourfrontquant.substack.com/)** | Nam Nguyen, PhD | Quant research — reportedly ~6,000 subs |
+| **[OpenQuant](https://openquant.substack.com/)** | — | Quant careers and technique |
+| **[Quant Journey](https://quantjourney.substack.com/)**, **[Quantitative Finance](https://quantfinance.substack.com/)** | Jakub · Sebastian Gutierrez | Methods, algos, research process |
+| **[Diary of a Quant Hedge Fund](https://investorama.substack.com/)** | Dr Richard Saldanha, ex-quant HF | Career stories, cautionary tales |
+
+**⚠️ Note what this lane is *not* doing.** These are **teaching quantitative method** — models, ML,
+backtests, career paths — to people who want to *be* quants. **They are not producing investable
+thematic views.** And the audiences are an order of magnitude smaller than Lane A's.
+
+### The gap, stated plainly
+**Lane A has the audience and the money and is quantitatively thin. Lane B has the rigour and is
+writing for practitioners of the method rather than for allocators of capital.**
+
+**⚠️ Nothing found in this scan occupies the intersection: institutional-grade quantitative rigour
+applied to thematic narratives, written entertainingly, for people deploying capital.** That is a
+genuine-looking slot and it maps onto the user's background almost exactly.
+
+**⚠️ Two disciplines on that claim.** First, an unoccupied slot found by desk scan is what
+[04-niches](04-niches.md) got wrong once already — the AI × shipping "weak competition 5" was revised
+to 2 the moment a real scan ran. **Assume this gap is smaller than it looks until the incumbents have
+actually been read.** Second, the gap may be unoccupied because it doesn't pay: quantitative rigour is
+slow, and [L15](../LEARNINGS.md) already caps craft at 3-5 hrs/week.
+
+### ⚠️ A subscriber-count discrepancy worth carrying
+The [case study](../resources/summaries/citrini-research.md) recorded **258,000, read live off
+Citrini's page on 2026-08-26.** An aggregator this session reports **212k+**. Both cannot be right.
+The live read is the better source and stays the project's number; the discrepancy is recorded because
+**it is a warning about every other aggregator-sourced subscriber count in this file.**
+
+---
+
+## 2. Adjacent field — energy and commodities
+
+Worth mapping because of the user's BP background (§4), and because it is Doomberg's territory.
+
+- **Independent:** [Commodity Context](https://www.commoditycontext.com/) (Rory Johnston — data-driven
+  oil), [The Crude Chronicles](https://thecrudechronicles.substack.com/) (fundamental, value-based),
+  [Oil Market Brief](https://oilmarket.substack.com/) (Jesús Rodríguez).
+- **⚠️ Institutional incumbents, and they are serious:** [Energy Aspects](https://www.energyaspects.com/),
+  [RBN Energy](https://rbnenergy.com/), [Quantum Commodity Intelligence](https://www.qcintel.com/),
+  plus the price reporting agencies already mapped in [04-niches](04-niches.md).
+
+**Reading: energy is a *credential and a source of themes*, not a beat to own.** The independent lane
+is occupied by people doing exactly the data-driven oil analysis the user could do, and the
+institutional lane is occupied by firms with staff. **Cross-asset thematic work that uses physical
+energy literacy as one input is defensible; "another oil newsletter" is not.**
+
+---
+
+## 3. Sponsors — see [02-monetization](02-monetization.md)
+
+The advertiser map, the CPM evidence and its severe trust problems, and the **FINRA Rule 2210**
+finding — that regulated financial advertisers cannot hand copy control to a publisher, which
+partially breaks [L5](../LEARNINGS.md)'s highest-margin tactic — are all in
+[02-monetization](02-monetization.md). Three things from it belong in the theme's own record:
+
+1. **Start with unregulated advertisers** — research and data tools (Koyfin, Fiscal.ai/FinChat,
+   Daloopa, AlphaSense), conferences, recruiters, education. **FinChat reportedly sponsored
+   Compounding Quality (~150k subs) in March 2026**, which is the one concrete, named, live
+   sponsorship of an investing newsletter this scan found.
+2. **⚠️ Neither Citrini nor Doomberg is visibly ad-led.** The ad-first path this project recommends
+   has **no proven exemplar inside this specific niche** — the exemplars are business media. Recorded
+   as an open contradiction against [05-strategy](05-strategy.md)'s Inversion 1.
+3. **⚠️ ETF issuers are the conspicuous absence.** A thematic publication is the natural home for
+   thematic-ETF marketing and no search returned one. Most likely a gap in the evidence rather than
+   the market. **Check first when page access returns.**
+
+---
+
+## 4. ⚠️ The user's background changes the edge assessment — and not in the way it looks
+
+**New input, 2026-08-30:** **PhD in mathematics; former quant researcher at Citadel (equities) and BP
+(oil trading). No social-media following and no public writing track record.** The user's own read is
+that *"my skills themselves don't directly translate."*
+
+**That self-assessment is largely right, and the reason matters.** Quant research — signal
+construction, statistical estimation, systematic execution — is a **different activity** from
+discretionary thematic research. Citrini's product is a narrative with a trade attached, not a
+backtest. **Assuming the quant skill transfers directly is the main way this could go wrong.**
+
+**But four things do transfer, and [D7](../DECISIONS.md) scored the edge without any of them:**
+
+| What transfers | Why it matters here |
+|---|---|
+| **Permission to be believed** | "Maths PhD, ex-Citadel, ex-BP" is a byline that earns a first read from professional investors — the audience that is otherwise hardest to get past. It directly addresses [D5](../DECISIONS.md)'s risk 2 (credibility in expert niches) |
+| **Rigour as the differentiator** | §1 says Lane A is narrative-heavy and quantitatively thin. **Being able to actually test a thematic claim** — sizing, base rates, what the data does and doesn't support — is rare in that lane and is a real product difference, not a credential flex |
+| **Genuine cross-asset range** | Equities *and* physical oil is an unusual combination, and cross-asset thematic work is precisely Citrini's positioning. It also bridges into §2's energy themes without needing to own that beat |
+| **A network that *is* the audience** | Ex-colleagues at Citadel and BP are professional investors and traders. That is the first hundred readers and the [L16](../LEARNINGS.md) cold-outreach base, and it is a warm start most people don't have |
+
+### ⚠️ But this is credibility, not distribution — and they solve different problems
+**[D7](../DECISIONS.md) asked whether there was an existing markets following. The answer is: an
+institutional track record, yes; a public one, no.**
+
+- **Citrini's advantage was an existing X audience** — a *distribution* asset, which is why the
+  three-year run was an audience migration rather than a cold start.
+- **The user's advantage is a credential** — a *credibility* asset, which shortens the trust curve
+  but moves nobody's inbox.
+
+**The cold-start problem recorded in D7 stands entirely.** Credibility makes the first hundred readers
+easier and makes the first sponsor conversation much easier; it does not make the first ten thousand
+readers easier. **[L13](../LEARNINGS.md) still applies in full.**
+
+**Net effect on the scoresheet:** Theme 3's edge score of 2 was set on the basis of *"a markets track
+record, an analytical frame, and an audience that already trusts your calls,"* of which the user then
+had none. **Two of the three are now present.** ⚠️ **A defensible revision is edge 2 → 4**, which
+would move Theme 3's total from 43 to 45 — **still short of Theme 2's 51.** Recorded for accuracy,
+not to relitigate: [D7](../DECISIONS.md) is made, and it was made knowing the total was third.
+
+### ⚠️ Two obligations this creates
+1. **Former-employer confidentiality.** Citadel and BP both impose confidentiality and IP terms that
+   typically survive employment. **Nothing proprietary — methods, data, positions, systems — can
+   appear**, and the credential must be used as biography, not as a claim to inside knowledge. **This
+   needs checking against the actual agreements, not assumed.**
+2. **How the credential is used is itself a regulatory surface.** Under the
+   **publisher/adviser distinction** set out in the regulatory section above, staking authority on an institutional pedigree while making
+   recommendations is exactly the fact pattern regulators look at. **Biography in the About page;
+   impersonal commentary in the writing.**
+
+---
+
+## 5. ⚠️ New finding against the endgame — independent institutional research is a regulated market
+
+The [D7](../DECISIONS.md) case rests substantially on the **institutional research and capital layer**
+behind the publication ([L18](../LEARNINGS.md), [L6](../LEARNINGS.md)). That layer has structure this
+project had not looked at:
+
+- **Under MiFID II, research must be paid for explicitly** — separated from execution. Firms need a
+  research payment policy, remuneration agreements with providers, annual quality assessment and
+  documented costs.
+- **The rules are moving again:** the EU **Listing Act (Directive 2024/2811)**, to be transposed by
+  **June 2026**, reportedly **re-permits bundled payments** subject to transparency and quality
+  conditions.
+- **⚠️ Independent research providers are reported to struggle against banks' resources**, with
+  viability resting on investor willingness to pay.
+
+**What this means, stated carefully:** selling research to institutions is **not** simply "the paid
+tier, but bigger." It is a **procurement process** — the buyer needs a policy, an agreement and a
+documented assessment to pay you at all. **That is a slow, relationship-led, compliance-shaped sale,
+and it is a genuine argument for Citrini's structure** of a *separate* institutional entity rather
+than an upgraded Substack tier.
+
+**It also revises the sketch's "custom reports for VC / private
+markets" parked idea (above) favourably** — private-market buyers are **not** inside the MiFID II research
+regime in the same way, which makes them a materially easier first institutional customer than a
+regulated asset manager. ⚠️ Inference from the above, not a sourced finding, and jurisdiction-dependent.
+
+⚠️ **General background from search summaries. Not legal advice.**
+
+---
+
+## 6. What this pass did *not* settle
+
+1. **⚠️ Nothing was read.** Page fetching was blocked all session. Every incumbent claim here is a
+   search-summary impression — the same evidentiary weakness that produced the AI × shipping error.
+   **Reading three Citrini pieces, three Doomberg pieces and one Lane B publication is now the
+   highest-value single action in the project.**
+2. **No real rate card was obtained** ([02-monetization](02-monetization.md) §5).
+3. **Whether the §1 gap is real**, or an artefact of searching in English for things that are named
+   differently.
+4. **The two blockers from [D7](../DECISIONS.md) are untouched** — jurisdiction, and the employer
+   personal-dealing question. Neither is a research task; both are conversations.
+
+## Sources drawn on
+⚠️ **All via search-result summaries; none read in full**, so no
+[resource summaries](../resources/summaries/) were created for them — they do not meet the bar in
+[CLAUDE.md](../CLAUDE.md) for a studied resource.
+Publication discovery — [RhinoInvestory directory](https://rhinoinvestory.com/best-investing-substack-newsletters) ·
+[CMC/Opto](https://www.cmcmarkets.com/en-gb/opto/7-best-investing-newsletters-on-substack) ·
+[Sidestack finance directory](https://sidestack.io/directory/category/finance?sort=trending) ·
+Substack recommendation pages for The Transcript, Commodity Context and fx:macro.
+Citrini scale — [reletter](https://reletter.com/publications/citrinis-newsletter) ⚠️ conflicts with the live read.
+Research regulation — [ESMA on MiFID II unbundling](https://www.esma.europa.eu/sites/default/files/trv_2020_2-mifid_ii_research_unbundling_first_evidence.pdf) ·
+[WeConvene on the 2026 landscape](https://weconvene.com/mifid-ii-2026-corporate-access-update/) ·
+[ION Group](https://iongroup.com/blog/markets/research-re-bundling-transparency-and-challenges-in-investment-research/).
