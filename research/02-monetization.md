@@ -245,13 +245,23 @@ honest consequences:
   survivable only because the day job is staying ([C4](../LEARNINGS.md)), and it makes surviving the
   middle — already named the real risk — harder rather than easier.
 - **Expect the first real money to come from a person, not a placement.** Commissioned or bespoke
-  research, advisory, a private-market client ([L6](../LEARNINGS.md)) — the *"custom reports for
+  research, advisory, a private-market client ([L6](../LEARNINGS.md)) — **the cases for this are
+  Poyar (consulting, ~50% of his time), Citrini (a separate institutional arm) and Fuller (adjacent
+  businesses); ⚠️ not O'Shea, whose adjacent business is deal flow and a possible fund, the
+  [Stebbings](../resources/summaries/harry-stebbings-20vc-business.md) path rather than the Poyar one** — the *"custom reports for
   VC / private markets"* idea parked in the sketch above, which
   [§5's MiFID II finding](06-theme3-investment-research.md) independently upgraded. **The adjacent
   business moves earlier than [05-strategy](05-strategy.md)'s Stage 4.**
 - **⚠️ But do not turn it into consulting-first.** It competes for the same 5-10 hrs
-  ([L15](../LEARNINGS.md)), doesn't scale, and O'Shea's case shows client work crowding out the
-  writing. The point is what the first cheque plausibly *is*, not what to chase.
+  ([L15](../LEARNINGS.md)) and doesn't scale. The point is what the first cheque plausibly *is*, not
+  what to chase. **⚠️ Correction (2026-08-30): an earlier version of this line cited O'Shea as a case
+  of client work crowding out the writing. That is wrong** — see
+  [her summary](../resources/summaries/molly-oshea-sourcery.md): she sells **subscriptions and, later,
+  advertising**, and offers **no consulting or custom research** anywhere in the record. What squeezed
+  her writing was her **full-time investing job**, not clients. The weaker claim her case does support
+  is that *whatever* competes for the same hours is what squeezes the writing —
+  *"as one person, to constantly pump out thoughtful, well-researched pieces… with a full time
+  investing job, it's just overall very difficult to manage."*
 - **It shifts value from reach to trust — which favours this operator specifically.** A thin ad market
   punishes audience-volume plays and rewards credibility-led ones, and credibility is precisely what
   the Citadel/BP/PhD background supplies
