@@ -227,6 +227,105 @@ legal setup, insurance, disclosure discipline, and a permanent constraint on how
 
 ---
 
+## Platform choice — where to post and build the audience
+*Conditional on this theme being chosen. Analysis against the existing research; no decision taken.*
+
+### The frame
+[L7](../LEARNINGS.md) splits this into two decisions, not one: **attention is rented and algorithmic,
+retention is owned, and monetization only ever happens against the owned layer.** And
+[L15](../LEARNINGS.md) — roughly half of production time goes to distribution — means the realistic
+answer at 5-10 hrs/week is **one owned home plus one attention surface run properly**, not four run
+badly.
+
+### Owned home — Substack, with a stated exit trigger
+
+Substack has an argument here it does not have for Themes 1 and 2:
+
+- **The direct precedent is on it.** Citrini *"organically grew the research business out of X and
+  Substack"* ([Citrini](../resources/summaries/citrini-research.md)). So is
+  [Sourcery](../resources/summaries/molly-oshea-sourcery.md), the other finance-adjacent case.
+- **Finance is the densest vertical on Substack**, so the recommendation network points readers
+  toward you rather than away. Against [C6](../LEARNINGS.md) this cuts the opposite way to the usual
+  reading: the niche is crowded, but crowding is also where the recommendation graph lives.
+
+**⚠️ The tension to hold:** the monetization sequence puts **sponsorship before a paid tier**
+([L4](../LEARNINGS.md), [staged model](05-strategy.md) Stage 2), and beehiiv is the better ad-ops
+platform — Substack sells no ads at all. The reason to start on Substack anyway is that at Stage 0-1
+the binding constraint is reaching the first thousand readers ([L13](../LEARNINGS.md) — the start is
+slow in every case), not filling ad inventory. Poyar, O'Shea and Dwarkesh all sold sponsorships
+direct.
+
+**Exit trigger, to decide now rather than later:** Substack's 10% cut is trivial on a $150 product
+and material on Citrini's $999 one — roughly **$100 per paid subscriber per year**. Re-evaluate the
+platform at paid launch. Until then, treat the email list as the exportable asset
+([L7](../LEARNINGS.md): Sam Parr built his own ESP rather than depend on one).
+
+### Primary attention surface — X
+
+The strongest platform call for this theme, and close to unanimous across the sources:
+
+- **Citrini was built on X**, and its own reader testimonials cite *"also has an entertaining twitter
+  account"* — [D5](../DECISIONS.md) operating on a specific platform.
+- **Fuller** frames X as a free lab for learning media
+  ([Fuller](../resources/summaries/craig-fuller-freightwaves-media-arbitrage.md)).
+- Fintwit is the one venue where a non-credentialed analyst is read on the merit of the argument, and
+  where professional allocators actually are.
+
+**⚠️ [L14](../LEARNINGS.md) caveat:** Van Geelen had a substantial existing X following. Citrini's
+three-year 0→258k is an **audience migration, not a cold start.** The platform choice transfers; the
+timeline does not.
+
+**⚠️ Relevant to [D2](../DECISIONS.md):** fintwit is the one niche where **pseudonymity is normal and
+does not cost credibility** — Citrini ran as a handle before a name. Given the unresolved employer
+overlap, named-vs-pseudonymous is a decision to take deliberately rather than by default.
+
+### Secondary — LinkedIn, but second
+
+[Poyar](../resources/summaries/kyle-poyar-growth-unhinged-1-5m-solo.md) is the closest capacity
+analogue in the project — solo, employed, 110,000 followers, +62% YoY — and LinkedIn was his entire
+top-of-funnel. **But his readers were B2B SaaS operators.** For professional *investors*, LinkedIn
+skews corporate/banking/PE-employed rather than the people making allocation decisions. It is also
+the surface most visible to an employer, which is a [D2](../DECISIONS.md) consideration rather than a
+neutral one.
+
+### ⚠️ What to skip, and why
+
+- **Short-form video (TikTok / Reels / Shorts) — no.**
+  [Imran](../resources/summaries/imran-finance-engineer-shorts-250k.md) monetizes 1.7M followers at
+  **~$0.15/follower**; Poyar earns **~$17.50/subscriber/yr** from 85,000. Short-form recruits
+  *retail*, and Citrini's central correction is that **the axis is professional-vs-amateur, not
+  investor-vs-operator.** A retail audience permanently caps the price ceiling that is this theme's
+  entire advantage — and this is the "pricing trap" noted above, arriving through the platform choice
+  rather than the pricing decision. **[D5](../DECISIONS.md)'s "fun" is Morning Brew's register, not a
+  format mandate.**
+- **Podcast — later, not now.** [L15](../LEARNINGS.md) rates podcasts worst on overhead-to-craft;
+  Dwarkesh spends two weeks preparing per guest. O'Shea added hers in **year four**, and that is when
+  the CEO-level access arrived. That sequencing looks right, not accidental.
+- **Reddit — research input, not distribution.** Sam Parr's comment-mining is a free method for
+  finding unanswered questions, and for a narrative-driven thesis retail sentiment is genuinely
+  *data*. Posting there for growth is a different thing and not supported.
+
+### The operating loop
+
+Poyar's cycle, adapted: **test the thesis as an X thread → watch who engages and DMs → write the deep
+piece → post the chart back to X with the link.** Optionally layer in
+[Henry Shi's future-dating mechanic](../resources/summaries/henry-shi-substack-fomo-tactic.md) — the
+only tactic in the research that converts a distribution click into an owned subscriber *by default*
+— **⚠️ noting it is a single low-trust self-report resting on Substack-specific behaviour that can
+change.**
+
+Cadence per [L10](../LEARNINGS.md): weekly maintenance on the attention layer, **something epic in the
+background.** Lenny's two research projects drove 50% of his first-year growth.
+
+### ⚠️ Regulatory overlay on the platform choice
+
+The disclosure discipline set out above — positions, paid promotion — **has to travel to every
+surface**, and short-form is where it is hardest to do properly. That is an independent second reason
+to skip it. X is also where finfluencer enforcement attention concentrates, which argues for keeping
+the **themes-not-tickers** register on the social layer as much as in the publication.
+
+---
+
 ## Where this theme sits against the other two
 
 | | Theme 1 — deep tech | Theme 2 — commodity supply chains | **Theme 3 — investment themes** |
