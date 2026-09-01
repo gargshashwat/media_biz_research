@@ -326,6 +326,76 @@ the **themes-not-tickers** register on the social layer as much as in the public
 
 ---
 
+## Cadence and content mix
+*Conditional on this theme being chosen. Follows from the platform section above.*
+
+### The C2 conflict applies to the owned layer only
+[C2](../LEARNINGS.md) is unresolved project-wide — weekly discipline (Poyar's single biggest growth
+inflection, Lenny's non-negotiable) against
+[Henry Shi's](../resources/summaries/henry-shi-substack-fomo-tactic.md) claimed 12,000 subscribers in
+six months at 1-2 posts a month. **⚠️ The sources are not evenly weighted:** Shi is the weakest source
+in the project (low-medium trust, post inaccessible, topic unknown, pre-existing following); Poyar and
+Lenny are among the best evidenced. Treat it as leaning weekly, not as a coin flip.
+
+**And [Stage 0's gate is "20 consecutive weeks published"](05-strategy.md).** So the resolution is
+**a weekly slot at varying depth**, not a weekly deep piece — Lenny's *"good stuff every week,
+something epic in the background"* ([L10](../LEARNINGS.md)). This is also C2's own flagged
+reconciliation, **serialization**: The Generalist ran one 18-month research project as four weekly
+parts. A large theme shipped in three instalments is one research effort and three publication weeks.
+
+### The monthly shape
+
+| Week | Piece | Rough cost |
+|---|---|---|
+| 1 | **Deep thematic piece** (or part 1 of a serialized one) | 8-12 hrs |
+| 2 | Light connective piece — what moved in the theme, one chart, ~500 words | 1-2 hrs |
+| 3 | Light connective piece | 1-2 hrs |
+| 4 | **Positioning update**, fixed date | 1-2 hrs |
+
+The light weeks are what makes weekly survivable, and they are
+[Poyar's](../resources/summaries/kyle-poyar-growth-unhinged-1-5m-solo.md) actual model: dense
+canonical guides that compound, plus lighter pieces holding the slot.
+
+### ⚠️ "Reposting insights" belongs on X, not in the newsletter
+Republishing a deep piece's insights **to the list that already received it** is low-value. Those
+insights are **X inventory** — [L15](../LEARNINGS.md)'s 50% distribution split and Stebbings' *one
+production, three distribution surfaces*.
+
+Per Poyar's loop it runs both directions: test the thesis as a thread *before* writing → publish the
+deep piece → charts and pull-quotes back to X *after*. **One research effort feeds a dozen posts.**
+On X, 3-5 posts/week plus replies is a realistic solo load — and per the note above on the user's
+item #3, **the replies are the part that cannot be delegated.**
+
+### ⚠️ Portfolio updates — a retention mechanic and a risk escalation
+
+New to the plan, and not cadence-neutral. Three flags:
+
+1. **It answers "themes, or tickers?" by default.** The regulatory section above names that as one of
+   two open questions and states thematic is materially lower-risk. A portfolio update is,
+   definitionally, named securities.
+2. **Hold → recommend → sell into the buying is the classic scalping enforcement shape**, already
+   flagged above. ⚠️ Note the cadence interacts with the law here: publishing **on a fixed schedule to
+   a general audience** goes to the US publisher's-exclusion criteria (bona fide, regular circulation,
+   impersonal). If it is done, the fixed monthly date is substantive, not cosmetic.
+3. **⚠️ It is the content type that most recruits retail.** *"What are you holding"* is the retail
+   question. That is the **pricing trap** (see "#5 vs #9" above) again, arriving through content mix
+   rather than platform or format — the third route to the same failure.
+
+**The middle path is Citrini's own positioning:** *baskets and megatrends, not single-name calls* —
+thematic exposure with the reasoning, rather than a personal P&L. It preserves the skin-in-the-game
+credibility a professional tier needs (*"you'll never have to ask 'what's the trade?'"*) without
+ticker-level exposure.
+
+### ⚠️ Capacity check — this mix assumes the top of the range
+5-10 hrs/week is 20-40 hrs/month. [L15](../LEARNINGS.md) takes roughly half for distribution, leaving
+**10-20 hrs/month of production.** The month above costs **11-18 hrs**.
+
+**It fits at 10 hrs/week and breaks at 5.** At the bottom of the stated range the deep piece has to go
+**quarterly**, with the light pieces and the positioning update carrying the slot. **Which end of the
+range is being planned against is an open question that changes the shape.**
+
+---
+
 ## Where this theme sits against the other two
 
 | | Theme 1 — deep tech | Theme 2 — commodity supply chains | **Theme 3 — investment themes** |
