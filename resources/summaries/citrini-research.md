@@ -132,6 +132,54 @@ it as achievable — see caveats.
 
 ---
 
+## ⚠️ The cold start, established (added 2026-09-05)
+
+**This section resolves the "audience migration, not a cold start" caveat below.** It was researched
+specifically to answer the open question in
+[06-theme3-investment-research.md](../../research/06-theme3-investment-research.md): *"What's the
+unfair input? Citrini had an X following and a distinctive analytical frame."* **He did — but the
+following itself was built, and the record of how is unusually clear.**
+
+The sequence:
+
+1. **Pre-history.** Van Geelen went to medical school, left, and founded an alternative-healthcare
+   company **sold to a private equity firm in 2018**. Those proceeds became his investing capital.
+   He began investing his own money in **2018** and writing research alongside it.
+2. **August 2022** — he worked through the **KBW Regional Bank index** and, given the carnage in
+   tech, looked first at the aptly named **Silicon Valley Bank**.
+3. **Late 2022** — one of the first reports Citrini ever circulated argued **SVB was technically
+   insolvent and at serious risk of failing.** He announced publicly that he had **opened a short
+   position**, alongside a handful of tweets laying out the setup.
+4. **March 2023** — SVB collapsed. The report and the tweets circulated. **This is the point Wall
+   Street took notice.**
+5. **2023** — Citrini Research founded; paid access launched on Substack; it became one of the
+   platform's most popular publications.
+6. **July 2023** — the **@citrini7 X account was created**, i.e. *after* the call that made him
+   known. (The handle carrying the audience today postdates the credential.)
+
+**The mechanism, stated plainly: one public, dated, falsifiable, non-consensus call that resolved
+spectacularly in his favour roughly six months later.** Not daily engagement, not reply volume, not
+a content calendar. The audience was the *reward* for a checkable prediction, and it arrived in a
+market that verifies claims automatically because outcomes are public and priced.
+
+### ⚠️ Why this is the hardest mechanic in the project to copy on purpose
+
+- **It is survivorship in its purest form.** We are looking at the one person whose SVB short landed.
+  Everyone who published an equally confident short thesis that didn't resolve is invisible, and the
+  base rate is unknown and unknowable from here. **[L13](../../LEARNINGS.md) is not really
+  contradicted by Citrini — Citrini is the tail.**
+- **It requires being publicly wrong in the cases where it fails**, in a niche where readers keep
+  score, and it is the one theme in this project carrying real regulatory and liability exposure
+  (see [06-theme3](../../research/06-theme3-investment-research.md)).
+- **He was risking his own capital.** The short position is what made the call credible; a written
+  opinion with no exposure is not the same artifact.
+
+**What does transfer** is the shape rather than the wager: **publish specific, dated, falsifiable
+claims that can later be checked, and make the checking easy.** That is buildable at 5-10 hrs/week
+and it compounds. The lottery ticket is the *magnitude* of any one resolution, not the practice.
+
+---
+
 ## Caveats
 
 - **⚠️ Paid-subscriber count and pricing are secondary-sourced.** The $999/$125 and "1,000+ paid" come
@@ -140,6 +188,11 @@ it as achievable — see caveats.
   Geelen grew it *"organically out of X"* — i.e. **on an existing, substantial Twitter following in a
   market where attention converts fast.** This is an audience *migration*, like The Nerve's
   1,000 members in a week from Carole Cadwalladr's following. **Not a cold start.**
+  **⚠️ Refined 2026-09-05 — see [the section above](#-the-cold-start-established-added-2026-09-05).**
+  The X following was not inherited; it was earned by the **public SVB short call of late 2022**,
+  which resolved in March 2023. So the Substack *was* a migration, but the migration was off an
+  audience that one falsifiable call had built roughly six months earlier. **The cold start happened
+  — it just happened on X, before the publication existed, and it turned on a single event.**
 - **Finance is the easiest possible vertical for this model.** Readers can attribute a subscription
   directly to a P&L outcome, which is why beehiiv measures investing as the top-priced vertical.
   **The $999 price does not transfer to niches where the reader can't tie the content to money that

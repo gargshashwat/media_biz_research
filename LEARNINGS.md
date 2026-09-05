@@ -293,6 +293,56 @@ niches.**
 
 ---
 
+### L18 — Cold starts are won by borrowing audiences and by a few outsized artifacts, never by engagement volume
+**No case in this project grew primarily by replying to other accounts.** What actually produced the
+first thousand, in every documented case, was one of two things:
+
+- **Borrowing an audience that already exists.** Lenny's first 1,000 came from **two guest posts** on
+  other people's sites; Doomberg ran **~100 podcast appearances a year**; Sam Parr asked his speakers
+  to share the posts he'd written *about them* and gave 50 tickets to influencers; Lenny tags every
+  contributor so they amplify. **You engage with other accounts by featuring them, not by commenting
+  on them** — a feature gives them a reason to broadcast you, a reply gives them nothing.
+- **One outsized artifact.** Lenny's **two research projects drove ~50% of his entire first-year
+  growth** — one added ~2,000 subscribers when he had 2,800, another 5,000+ in two weeks.
+
+⚠️ **The contrary evidence is vendor marketing.** A 2026-09-05 search for evidence supporting the
+reply-and-engage strategy returned only pages published by sellers of reply-automation tools, with
+unattributed figures and no methodology. **The mechanic with the loudest evidence base has the
+weakest one.**
+
+**Source:** [07-early-stage-marketing.md](research/07-early-stage-marketing.md) ·
+[Lenny (mechanics)](resources/summaries/lenny-rachitsky-business-mechanics.md) ·
+[Doomberg](resources/summaries/doomberg-cold-start.md) ·
+[The Hustle](resources/summaries/sam-parr-hustle-growth-in-reverse.md) ·
+[L16](#l16--cold-outreach-is-how-people-without-networks-acquire-access) · **Confidence: high for the
+positive claim, high for the absence of good evidence on the negative**
+
+### L19 — ⚠️ The rented platform taxes the handoff to the owned one
+[L7](#l7--own-the-audience-rent-only-the-attention) says convert rented attention into owned
+retention. **The platforms charge for that conversion.** X is reported to cut reach on posts carrying
+external links by **50-90%** (conservative estimates 30-50%), with "link in the first reply" the
+standard workaround. In **August 2023 Doomberg — then the leading finance publication on Substack,
+built entirely on X — quit the platform over it**, stating that *"the mere mention of 'Substack' in a
+tweet leads to substantial de-boosting."*
+
+**This makes platform choice a business decision, not a preference**, and it means growth and
+list-capture are in direct tension on X specifically.
+
+⚠️ **And the escape is another landlord.** Doomberg moved to Substack Notes; Substack's own network
+reportedly now drives ~50% of new subscriptions platform-wide, echoing the Recommendations
+discontinuity that took Lenny from 111,000 to 377,000 in under a year. **An aligned platform is still
+a rented one.**
+
+⚠️ **Trust: low-medium.** The platform figures come from search summaries of SEO/social-tooling blogs
+and an interested publisher; **no primary source was reachable.** Doomberg's read is from 2023 and
+needs re-checking before it drives a decision.
+
+**Source:** [07-early-stage-marketing.md](research/07-early-stage-marketing.md) ·
+[Doomberg](resources/summaries/doomberg-cold-start.md) · **Confidence: low-medium — flagged for
+re-verification**
+
+---
+
 ## Open contradictions — do not treat as settled
 
 ### C1 — When to start charging: four sources, four incompatible answers
